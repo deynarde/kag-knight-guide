@@ -1,0 +1,10 @@
+# The basics and learning as a newbie
+
+tetsetestest
+
+## The Knight Class
+
+in KAG, the are 3 main classes: the Archer, the Builder and the Knight. It’s pretty much the ‘main’ class of the game; in a good team in CTF (the main gamemode - capture the flag) or TTH (take the halls) 75% players should be playing Knight, and in TDM (team deathmatch) it’s the most played class as well.
+
+As a knight in CTF and TTH, your role will be helping the team advance forward to get the enemy flag/enemy hall, but before you learn more about gamemodes and playing in a team, let’s talk about the combat mechanics first.
+
