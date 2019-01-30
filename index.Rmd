@@ -1,8 +1,7 @@
 --- 
-title: "The Definite Knight Guide"
-author: 
-- name: Bunnie
-- name: deynarde
+title: "Knight Guides"
+subtitle: "Tender is the Knight"
+author: "by Bunnie and deynarde"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
@@ -14,12 +13,15 @@ github-repo: deynarde/kag_knight_guide
 description: "A KAG knight guide for both new and experienced players."
 ---
 
-# Introduction
+# Introduction {-}
 
-![](imgs/miecz.png)
+```{r fig.align="center", echo=FALSE, include=identical(knitr:::pandoc_to(), "html")}
+knitr::include_graphics("imgs/logo.png", dpi = NA)
+
+```
 
 We’ve read many tutorials concerning knight gameplay, both on THD forums and Steam community hub and most of them were either shallow or outdated. Considering we’re going to have new players coming with KAG f2p release we decided to write this new player friendly guide.
 
-We hope it helps people trying to get better at knight. We’re going to cover everything: improving your skills on various levels, how to play on CTF, how to deal with high ping or bugs. It may seem like a lot, but knight combat is very extensive and if you really want to get better this guide will certainly help you.
+We hope it'll help people who try to get better at knight. We’re going to cover everything: improving your skills on various levels, how to play on CTF, how to deal with high ping or bugs, how to fight in 1v1s and many more. It may seem like a lot, but knight combat is very extensive and if you really want to get better this guide will certainly help you.
 
 For a collection of knight tips and tricks see the [Knight Compendium](https://deynarde.github.io/kag-knight-compendium/). Also you can contact us on Discord (`bunnie#8671`, `deynarde#4491`).

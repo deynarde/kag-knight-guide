@@ -3,10 +3,10 @@ bookdown::gitbook:
   config:
     toc:
       before: |
-        <li><a href="./">The Definite Knight Guide</a></li>
+        <li><a href="./">Knight Guides</a></li>
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
-    edit: https://github.com/deynarde/kag_knight_guide/%s
+    edit: https://github.com/deynarde/kag_knight_guide/blob/master/%s
     download: ["pdf", "epub"]
 bookdown::pdf_book:
   includes:
