@@ -1,8 +1,9 @@
 language: r
+cache:
   directories:
     - $TRAVIS_BUILD_DIR/packrat/src
     - $TRAVIS_BUILD_DIR/packrat/lib
-cache: packages
+  packages: true
 pandoc_version: 1.19.2.1
 
 install:
