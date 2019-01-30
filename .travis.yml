@@ -1,14 +1,14 @@
 language: r
-cache:
-  directories:
-    - $TRAVIS_BUILD_DIR/packrat/src
-    - $TRAVIS_BUILD_DIR/packrat/lib
-  packages: true
-pandoc_version: 1.19.2.1
 
 install:
   - R -e "0" --args --bootstrap-packrat
   - R -e "packrat::restore(restart = FALSE)"
+
+cache:
+  packages: true
+  directories:
+    - $TRAVIS_BUILD_DIR/packrat/src
+    - $TRAVIS_BUILD_DIR/packrat/lib
 
 r_packages:
   - bookdown
@@ -25,7 +25,7 @@ deploy:
   provider: pages                         # Specify the gh-pages deployment method
   skip_cleanup: true                      # Don't remove files
   github_token: $GITHUB_PAT               # Set in travis-ci.org dashboard
-  local_dir: book-output                         # Deploy the docs folder
+  local_dir: book-output                  # Deploy the docs folder
   on:
     branch: master
 
