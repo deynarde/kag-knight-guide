@@ -2,7 +2,7 @@
 title: "Knight Guides"
 subtitle: "Tender is the Knight"
 author: "by Bunnie and deynarde"
-date: "`r Sys.Date()`"
+date: "`r format(Sys.time(), '%d/%m/%Y')`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
@@ -15,9 +15,9 @@ description: "A KAG knight guide for both new and experienced players."
 
 # Introduction {-}
 
-```{r fig.align="center", echo=FALSE, include=identical(knitr:::pandoc_to(), "html")}
-knitr::include_graphics("imgs/logo.png", dpi = NA)
-```
+<p align="center">
+  <img src="imgs/logo.png">
+</p>
 
 We’ve read many tutorials concerning knight gameplay, both on THD forums and Steam community hub and most of them were either shallow or outdated. Considering we’re going to have new players coming with KAG f2p release we decided to write this new player friendly guide.
 
