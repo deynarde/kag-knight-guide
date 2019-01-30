@@ -1,4 +1,4 @@
-# --- 
+--- 
 title: "The Definite Knight guide"
 author: 
 - name: Bunnie
