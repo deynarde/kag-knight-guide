@@ -17,7 +17,6 @@ description: "A KAG knight guide for both new and experienced players."
 
 ```{r fig.align="center", echo=FALSE, include=identical(knitr:::pandoc_to(), "html")}
 knitr::include_graphics("imgs/logo.png", dpi = NA)
-
 ```
 
 We’ve read many tutorials concerning knight gameplay, both on THD forums and Steam community hub and most of them were either shallow or outdated. Considering we’re going to have new players coming with KAG f2p release we decided to write this new player friendly guide.
