@@ -14,7 +14,7 @@ As a knight, you can use your sword and shield to do the following stuff:
 
 **Jab** -- the simplest attack. It does 1 heart of damage.
 
-[gif 1 -- jabbing someone]
+<video style="display:block; width:100%; height:auto;" src="webm/1.webm" controls loop="loop" preload="metadata"></video>
 
 **Slash** -- charged attack (it takes half a second to charge it -- just watch the cursor), it does 2 hearts of damage and stuns the enemy for a short time. If the enemy is shielding, it pierces through the shield.
 
