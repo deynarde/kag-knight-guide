@@ -14,21 +14,22 @@ As a knight, you can use your sword and shield to do the following stuff:
 
 **Jab** -- the simplest attack. It does 1 heart of damage.
 
-<video style="display:block; width:100%; height:auto;" src="webm/1.webm" controls loop="loop" preload="metadata"></video>
+<video style="display:block; width:100%; height:auto;" src="webm/01-basics/1.webm" controls loop="loop" preload="metadata"></video><br>
 
 **Slash** -- charged attack (it takes half a second to charge it -- just watch the cursor), it does 2 hearts of damage and stuns the enemy for a short time. If the enemy is shielding, it pierces through the shield.
 
 *Being able to do slashes as fast as possible is very important -- you should be able to do them as soon as the cursor charges fully.*
 
-[gif 1 -- slash someone without shield] 
+<video style="display:block; width:100%; height:auto;" src="webm/01-basics/2.webm" controls loop="loop" preload="metadata"></video>
 
-[gif 2 -- slash someone with shield] 
+<video style="display:block; width:100%; height:auto;" src="webm/01-basics/3.webm" controls loop="loop" preload="metadata"></video><br>
+
 
 **Double slash** -- charged double attack (it takes 1 and 1/4 of a second to charge it, again, watch the cursor), does 4 hearts in total (if unshielded). If shielding, the first slash pierces the shield, the second slash deals 2 hearts of damage.
 
-[gif 1 -- double slash without shield] 
+<video style="display:block; width:100%; height:auto;" src="webm/01-basics/4.webm" controls loop="loop" preload="metadata"></video>
 
-[gif 2 -- double slash with shield]
+<video style="display:block; width:100%; height:auto;" src="webm/01-basics/5.webm" controls loop="loop" preload="metadata"></video><br>
 
 For now you should keep in mind that if you jab the shield, you get stunned for a short while. Avoid doing it, because you can get jabbed during that moment, or in some cases even slashed:
 
