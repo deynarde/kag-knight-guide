@@ -1,4 +1,4 @@
-# Knight Compendium
+# Knight Guides
 
 [![Build Status](https://api.travis-ci.org/deynarde/kag-knight-guide.svg)](https://travis-ci.org/deynarde/kag-knight-guide)
 
