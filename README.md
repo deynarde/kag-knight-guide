@@ -1,1 +1,1 @@
-https://deynarde.github.io/kag_knight_guide/
+https://deynarde.github.io/kag-knight-guide/

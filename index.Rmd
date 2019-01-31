@@ -9,7 +9,7 @@ documentclass: book
 bibliography: [latex/book.bib, latex/packages.bib]
 biblio-style: apalike
 link-citations: yes
-github-repo: deynarde/kag_knight_guide
+github-repo: deynarde/kag-knight-guide
 description: "A KAG knight guide for both new and experienced players."
 ---
 
