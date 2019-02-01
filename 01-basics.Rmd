@@ -14,48 +14,48 @@ As a knight, you can use your sword and shield to do the following stuff:
 
 **Jab** -- the simplest attack. It does 1 heart of damage.
 
-<video style="display:block; width:100%; height:auto;" src="webm/01-basics/1.webm" controls loop="loop" preload="metadata"></video><br>
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/1.webm" controls loop="loop" preload="metadata"></video><br>
 
 **Slash** -- charged attack (it takes half a second to charge it -- just watch the cursor), it does 2 hearts of damage and stuns the enemy for a short time. If the enemy is shielding, it pierces through the shield.
 
 *Being able to do slashes as fast as possible is very important -- you should be able to do them as soon as the cursor charges fully.*
 
-<video style="display:block; width:100%; height:auto;" src="webm/01-basics/2.webm" controls loop="loop" preload="metadata"></video>
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/2.webm" controls loop="loop" preload="metadata"></video>
 
-<video style="display:block; width:100%; height:auto;" src="webm/01-basics/3.webm" controls loop="loop" preload="metadata"></video><br>
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/3.webm" controls loop="loop" preload="metadata"></video><br>
 
 
 **Double slash** -- charged double attack (it takes 1 and 1/4 of a second to charge it, again, watch the cursor), does 4 hearts in total (if unshielded). If shielding, the first slash pierces the shield, the second slash deals 2 hearts of damage.
 
-<video style="display:block; width:100%; height:auto;" src="webm/01-basics/4.webm" controls loop="loop" preload="metadata"></video>
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/4.webm" controls loop="loop" preload="metadata"></video>
 
-<video style="display:block; width:100%; height:auto;" src="webm/01-basics/5.webm" controls loop="loop" preload="metadata"></video><br>
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/5.webm" controls loop="loop" preload="metadata"></video><br>
 
 For now you should keep in mind that if you jab the shield, you get stunned for a short while. Avoid doing it, because you can get jabbed during that moment, or in some cases even slashed:
 
-<video style="display:block; width:100%; height:auto;" src="webm/01-basics/6.webm" controls loop="loop" preload="metadata"></video>
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/6.webm" controls loop="loop" preload="metadata"></video>
 
-<video style="display:block; width:100%; height:auto;" src="webm/01-basics/7.webm" controls loop="loop" preload="metadata"></video><br>
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/7.webm" controls loop="loop" preload="metadata"></video><br>
 
 You can also **slide on your shield** (hold W and shield down):
 
-<video style="display:block; width:100%; height:auto;" src="webm/01-basics/8.webm" controls loop="loop" preload="metadata"></video><br>
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/8.webm" controls loop="loop" preload="metadata"></video><br>
 
 **Shield stun** -- If you quickly shield slide into someone, he can also get stunned for a short time (and sometimes knocked back):
 
-<video style="display:block; width:100%; height:auto;" src="webm/01-basics/9.webm" controls loop="loop" preload="metadata"></video><br>
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/9.webm" controls loop="loop" preload="metadata"></video><br>
 
 **Glide** -- use the shield as a parachute:
 
-<video style="display:block; width:100%; height:auto;" src="webm/01-basics/10.webm" controls loop="loop" preload="metadata"></video><br>
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/10.webm" controls loop="loop" preload="metadata"></video><br>
 
 Not really a knight-only move, but you can also stomp the enemy if you fall on him with enough momentum.
 
-<video style="display:block; width:100%; height:auto;" src="webm/01-basics/11.webm" controls loop="loop" preload="metadata"></video>
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/11.webm" controls loop="loop" preload="metadata"></video>
 
-<video style="display:block; width:100%; height:auto;" src="webm/01-basics/12.webm" controls loop="loop" preload="metadata"></video>
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/12.webm" controls loop="loop" preload="metadata"></video>
 
-<video style="display:block; width:100%; height:auto;" src="webm/01-basics/13.webm" controls loop="loop" preload="metadata"></video><br>
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/13.webm" controls loop="loop" preload="metadata"></video><br>
 
 ---
 
@@ -69,59 +69,59 @@ There are various knight-specific items, such as bombs and waterbombs, which can
 
 **Bombs** in your inventory can be activated with the space bar button. It takes 4 seconds before a bomb explodes. You can throw bombs near enemies to damage them (the damage depends on how close the bomb was -- 3 hearts or 1,5 hearts), or use it to bomb jump.
 
-<video style="display:block; width:100%; height:auto;" src="webm/01-basics/14.webm" controls loop="loop" preload="metadata"></video>
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/14.webm" controls loop="loop" preload="metadata"></video>
 
-<video style="display:block; width:100%; height:auto;" src="webm/01-basics/15.webm" controls loop="loop" preload="metadata"></video><br>
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/15.webm" controls loop="loop" preload="metadata"></video><br>
 
 Keep in mind that if you throw the bomb too early the enemies can catch it and throw it back.
 
-<video style="display:block; width:100%; height:auto;" src="webm/01-basics/16.webm" controls loop="loop" preload="metadata"></video><br>
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/16.webm" controls loop="loop" preload="metadata"></video><br>
 
 Then there's a **waterbomb**, which explodes on impact and stuns you for a bit. If you shield it, it stuns you for slightly shorter time. You can also put a sponge in your inventory (bought at TDM trader shop or CTF builder shop) which will also reduce the stun duration. If you successfully stun someone with it, you could for example kill him with a double slash.
 
-<video style="display:block; width:100%; height:auto;" src="webm/01-basics/17.webm" controls loop="loop" preload="metadata"></video>
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/17.webm" controls loop="loop" preload="metadata"></video>
 
-<video style="display:block; width:100%; height:auto;" src="webm/01-basics/18.webm" controls loop="loop" preload="metadata"></video>
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/18.webm" controls loop="loop" preload="metadata"></video>
 
-<video style="display:block; width:100%; height:auto;" src="webm/01-basics/19.webm" controls loop="loop" preload="metadata"></video>
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/19.webm" controls loop="loop" preload="metadata"></video>
 *In the above video the stunned person had a sponge in the inventory.*
 
-<video style="display:block; width:100%; height:auto;" src="webm/01-basics/20.webm" controls loop="loop" preload="metadata"></video><br>
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/20.webm" controls loop="loop" preload="metadata"></video><br>
 
 There's also a **mine** (60 coins in CTF knight shop, but the mine can actually be used by every class), which activates if it stays still on the ground for some time. It instakills enemies and you can't shield it, so you should watch out for enemy mines!
 
-<video style="display:block; width:100%; height:auto;" src="webm/01-basics/21.webm" controls loop="loop" preload="metadata"></video><br>
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/21.webm" controls loop="loop" preload="metadata"></video><br>
 
 The last item is a **keg** (120 coins in CTF knight shop), which is a powerful (also unshieldable) explosive item with a 6 seconds fuse. You should avoid fighting enemies while holding a keg (you can't put it in your inventory) because they may steal it and hurt your team (one of the most common mistakes that can be made). Generally, you should activate kegs in the middle of the enemy base or next to the enemy flag room.
 
-<video style="display:block; width:100%; height:auto;" src="webm/01-basics/22.webm" controls loop="loop" preload="metadata"></video>
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/22.webm" controls loop="loop" preload="metadata"></video>
 
-<video style="display:block; width:100%; height:auto;" src="webm/01-basics/23.webm" controls loop="loop" preload="metadata"></video><br>
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/23.webm" controls loop="loop" preload="metadata"></video>
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/24.webm" controls loop="loop" preload="metadata"></video><br>
 
 ## Movement
 One of the most important things to learn when you're starting to play KAG is how to navigate the terrain properly: if you don't feel your character and its movement, you will have trouble slashing your enemies from a distance or even avoiding enemy attacks. You have to be able to move around obstacles freely, consistently use wall jumps, use your slash to gain additional momentum or jump forward while slashing to quickly move through terrain.
 
-<video style="display:block; width:100%; height:auto;" src="webm/01-basics/24.webm" controls loop="loop" preload="metadata"></video>
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/25.webm" controls loop="loop" preload="metadata"></video>
 
-<video style="display:block; width:100%; height:auto;" src="webm/01-basics/25.webm" controls loop="loop" preload="metadata"></video>
-
-<video style="display:block; width:100%; height:auto;" src="webm/01-basics/26.webm" controls loop="loop" preload="metadata"></video><br>
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/26.webm" controls loop="loop" preload="metadata"></video><br>
 
 There's not really much to explain here -- it just takes practice, but if you really want to get better faster, then you just could play Save the Princess or the solo Challenges modes.
 
 ## Getting good
 Every time you die to someone, ask yourself the question -- why did I die? Could I've done something to avoid death? Did I mess up timing or get baited by the enemy? Try to learn on your mistakes and minimize them as much as possible:
 
-<video style="display:block; width:100%; height:auto;" src="webm/01-basics/27.webm" controls loop="loop" preload="metadata"></video>
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/27.webm" controls loop="loop" preload="metadata"></video>
 
-<video style="display:block; width:100%; height:auto;" src="webm/01-basics/28.webm" controls loop="loop" preload="metadata"></video>
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/28.webm" controls loop="loop" preload="metadata"></video>
 
-<video style="display:block; width:100%; height:auto;" src="webm/01-basics/29.webm" controls loop="loop" preload="metadata"></video><br>
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/29.webm" controls loop="loop" preload="metadata"></video><br>
 
 Remember to slash often -- if you constantly slash, the enemies will be afraid to get closer to you. Make use of double slashes as well -- the first slash pierces through the shield and the second one deals 2 hearts of damage, as mentioned earlier.
 
-<video style="display:block; width:100%; height:auto;" src="webm/01-basics/30.webm" controls loop="loop" preload="metadata"></video>
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/30.webm" controls loop="loop" preload="metadata"></video>
 
-<video style="display:block; width:100%; height:auto;" src="webm/01-basics/31.webm" controls loop="loop" preload="metadata"></video><br>
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/31.webm" controls loop="loop" preload="metadata"></video><br>
 
 Don't get demotivated if you're not as good as you want to be -- as we said earlier, at this level you just need to practice a lot and skill will come with time. Most of the players get stuck at what this guide considers the *average* level. The next chapters should help you getting past that point.
