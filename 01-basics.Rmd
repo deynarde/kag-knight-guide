@@ -107,20 +107,18 @@ One of the most important things to learn when you're starting to play KAG is ho
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/26.webm" controls loop="loop" preload></video><br>
 
-There's not really much to explain here -- it just takes practice, but if you really want to get better faster, then you just could play Save the Princess or the solo Challenges modes.
-
-## Getting good
-Every time you die to someone, ask yourself the question -- why did I die? Could I've done something to avoid death? Did I mess up timing or get baited by the enemy? Try to learn on your mistakes and minimize them as much as possible:
-
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/27.webm" controls loop="loop" preload></video>
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/28.webm" controls loop="loop" preload></video>
+There's not really much to explain here -- it just takes a bit of practice. If you want to get better with movement faster, you can try experimenting with it on the solo gamemodes (Save the Princess, Challenges modes).
+
+## Getting good
+Every time you die to someone, ask yourself the question -- why did I die? Could I've done something to avoid death? Did I mess up timing or get baited by the enemy? Try to learn on your mistakes and minimize them as much as possible - look at what you're doing wrong (jabbing enemy's shield, bad slash timing and so on) and try optimizing your playstyle.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/29.webm" controls loop="loop" preload></video><br>
 
-Remember to slash often -- if you constantly slash, the enemies will be afraid to get closer to you. Make use of double slashes as well -- the first slash pierces through the shield and the second one deals 2 hearts of damage, as mentioned earlier.
-
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/30.webm" controls loop="loop" preload></video>
+
+Remember to slash often -- if you constantly slash, the enemies will be afraid to get closer to you. Make use of double slashes as well -- the first slash pierces through the shield and the second one deals 2 hearts of damage, as mentioned earlier.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/31.webm" controls loop="loop" preload></video><br>
 
