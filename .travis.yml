@@ -1,13 +1,6 @@
 language: r
-
-cache:
-  directories: $TRAVIS_BUILD_DIR/packrat/
-  packages: false
-install:
-  - R -e "0" --args --bootstrap-packrat
-
-r_packages:
-  - bookdown
+cache: packages
+pandoc_version: 1.19.2.1
 
 before_script:
   - chmod +x ./_build.sh
