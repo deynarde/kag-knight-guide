@@ -25,7 +25,7 @@ As a knight, you can use your sword and shield to do the following stuff:
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/3.webm" controls loop="loop" preload></video><br>
 
 
-**Double slash** -- charged double attack (it takes 1 and 1/4 of a second to charge it, again, watch the cursor), does 4 hearts in total (if unshielded). If shielding, the first slash pierces the shield, the second slash deals 2 hearts of damage.
+**Double slash** -- charged double attack (it takes 1 and 1/4 of a second to charge it, again, watch the cursor), does 4 hearts in total (if unshielded). If the enemy is shielding, the first slash pierces the shield, the second slash deals 2 hearts of damage.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/4.webm" controls loop="loop" preload></video>
 
