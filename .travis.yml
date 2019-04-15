@@ -19,7 +19,7 @@ script:
 
 deploy:
   provider: pages                         # Specify the gh-pages deployment method
-  skip_cleanup: true                      # Don't remove files
+  skip_cleanup: false                      # Don't remove files
   github_token: $GITHUB_PAT               # Set in travis-ci.org dashboard
   local_dir: book-output                  # Deploy the docs folder
   on:
