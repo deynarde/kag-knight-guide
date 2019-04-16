@@ -136,7 +136,7 @@ Keep in mind that you should only jump SLIGHTLY. This is a very common mistake p
 [gif 21 - someone jumping too high while slashing]
 
 ---
-These are the 3 most important things at this level: slashing fast, jabbing after succesful slashes, and doing low jumps while slashing. Train these until it feels natural and instinctual to you.
+These are the 3 most important things at this level: slashing fast, jabbing after succesful slashes, and doing low jumps while slashing. Train these until it feels natural and you do it instinctively.
 ___
 There are some more things you should keep in mind, such as:
 
@@ -154,19 +154,19 @@ This is also very good to use after doing a successful slash+jab combo. Basicall
 **Attacking an enemy stunned by jabbing your shield**
 If your enemy makes a mistake and jabs your shield, you should pretty much always damage him somehow, and get into the habit of doing it.
 
-There are usually 4 ways of doing this. If someone jabs a shield, he's stunned for 2/3 of a second - that's plenty of time.
+There are 3 ways of doing this. If someone jabs a shield, he's stunned for 2/3 of a second - that's plenty of time.
 
-1. Slashing him
+1. Slashing
 This option is the best and should be done the most often. As soon as you notice the person get stunned by jabbing your shield, start charging a quick slash. If you're fast enough, you should always be able to land a 2 heart slash on the enemy (of course, follow it up with a jab if you slashed successfully)
 
 [gif 24]
 
-2. Jabbing him
+2. Jabbing
 If you don't have the reflexes to do slashes yet, and feel like sometimes you'd start charging the slash too slowly, you can just do a single jab. Keep in mind the earlier option is way superior to this one.
 
 [gif 25]
 
-3. Double jabbing him
+3. Double jabbing
 You can actually land two jabs on an enem stunned by shieldjabbing. Just start rapidly clicking as soon as you notice the enemy get stunned. However, keep in mind this is much harder to do than just a slash, and also deals less damage (2 jabs instead of successful slash + jab). Probably requires good ping as well.
 
 [gif 26]
