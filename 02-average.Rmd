@@ -24,6 +24,16 @@ Also: <u>Your shield has smaller range in air</u>. This is a thing that many peo
 
 [gif 0.5]
 
+## On learning itself
+
+If you want to get better at knight fast, playing lots of TDM is a good choice here, but in our opinion the <u>best way to train knight is to play lots of 1v1</u> -- sometimes with people at your skill level, and sometimes with people slightly better than you. 1v1s are best for this because they allow you to fully focus on the knight combat, while in TDM you have to watch out for archers (and water bombs, which aren't used in 1v1s) and in CTF -- you should care about winning the game, not KDR.
+
+You should always try to be as consistent as possible. For a lot of moves, you just need to get into the habit of using them. If you really want to get better, we recommend always focusing and actually *trying*, no matter what enemies you are playing against or what mode it is; constantly playing optimally helps you train your muscle memory and helps getting used to the mechanics of knight combat in KAG. This applies no matter how good at knight you are -- you should always give your best, constantly becoming better this way.
+
+As mentioned in the first chapter, analyzing your playstyle and mistakes also helps a lot. Of course, it's hard to do it in realtime, so some knights decide to record their gameplay (mainly of 1v1) and analyze the videos later. 
+
+Summary -- don't stop trying, always give your best, and try to use the moves and tricks you learn here in actual matches, don't be afraid to experiment with your playstyle.
+
 ## More on mobility
 
 At this point, it's good for you to know some basic mobility tricks, such as these (taken from the [Knight Compendium](https://deynarde.github.io/kag-knight-compendium/) mentioned earlier) -- they're useful more often than you may think, so you should be able to do them consistently. Good mobility is as important as good timing and reflex.
@@ -131,16 +141,6 @@ You can also do multi bomb jumps - check the Miscellanous section for that.
 If you feel like your mobility is already decent enough, you can move to the next part -- learning more about combat itself and how to slay enemies properly. But before that, we'll talk about the best way to learn and how to keep optimizing your playstyle.
 
 ---
-
-## On learning itself
-
-If you want to get better at knight fast, playing lots of TDM is a good choice here, but in our opinion the <u>best way to train knight is to play lots of 1v1</u> -- sometimes with people at your skill level, and sometimes with people slightly better than you. 1v1s are best for this because they allow you to fully focus on the knight combat, while in TDM you have to watch out for archers (and water bombs, which aren't used in 1v1s) and in CTF -- you should care about winning the game, not KDR.
-
-You should always try to be as consistent as possible. For a lot of moves, you just need to get into the habit of using them. If you really want to get better, we recommend always focusing and actually *trying*, no matter what enemies you are playing against or what mode it is; constantly playing optimally helps you train your muscle memory and helps getting used to the mechanics of knight combat in KAG. This applies no matter how good at knight you are -- you should always give your best, constantly becoming better this way.
-
-As mentioned in the first chapter, analyzing your playstyle and mistakes also helps a lot. Of course, it's hard to do it in realtime, so some knights decide to record their gameplay (mainly of 1v1) and analyze the videos later. 
-
-Summary -- don't stop trying, always give your best, and try to use the moves you learn here in actual matches, don't be afraid to experiment with your playstyle.
 
 ## More on combat and using your sword
 
