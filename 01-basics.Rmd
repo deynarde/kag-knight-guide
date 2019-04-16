@@ -100,7 +100,7 @@ The last item is a **keg** (120 coins in CTF knight shop), which is a powerful (
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/24.webm" controls loop="loop" preload></video><br>
 
-## Movement
+## Mobility
 One of the most important things to learn when you're starting to play KAG is how to navigate the terrain properly: if you don't feel your character and its movement, you will have trouble slashing your enemies from a distance or even avoiding enemy attacks. You have to be able to move around obstacles freely, consistently use wall jumps, use your slash to gain additional momentum or jump forward while slashing to quickly move through terrain.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/25.webm" controls loop="loop" preload></video>
@@ -109,7 +109,7 @@ One of the most important things to learn when you're starting to play KAG is ho
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/27.webm" controls loop="loop" preload></video>
 
-There's not really much to explain here -- it just takes a bit of practice. If you want to get better with movement faster, you can try experimenting with it on the solo gamemodes (Save the Princess, Challenges modes).
+There's not really much to explain here -- it just takes a bit of practice. If you want to get better with movement faster, you can try experimenting with it on the solo gamemodes (Save the Princess, Challenges modes). You will learn more about mobility tricks at the start of the next chapter.
 
 ## Getting good
 Every time you die to someone, ask yourself the question -- why did I die? Could I've done something to avoid death? Did I mess up timing or get baited by the enemy? Try to learn on your mistakes and minimize them as much as possible - look at what you're doing wrong (jabbing enemy's shield, bad slash timing and so on) and try optimizing your playstyle.
