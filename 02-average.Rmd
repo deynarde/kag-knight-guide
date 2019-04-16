@@ -137,7 +137,7 @@ Keep in mind that you should only jump SLIGHTLY. This is a very common mistake p
 
 ---
 These are the 3 most important things at this level: slashing fast, jabbing after succesful slashes, and doing low jumps while slashing. Train these until it feels natural and you do it instinctively.
-___
+---
 There are some more things you should keep in mind, such as:
 
 **Using double slashes**
