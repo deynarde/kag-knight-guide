@@ -5,11 +5,13 @@
 </p>
 
 ## The knight class
+
 In KAG, the are 3 main classes: the Archer, the Builder and the Knight. The knight is arguably the strongest class of the game. A good team in CTF (the most played game mode -- Capture The Flag) or TTH (Take The Halls) should be mostly composed of knights protecting the builders and archers. In TDM (team deathmatch) the knight is the most played class as well.
 
 As a knight in CTF and TTH, your role is helping the team advance forward to get the enemy flag/enemy hall, but before you can learn more about game modes and playing in a team, let’s talk about the combat mechanics first.
 
 ## Mechanics
+
 As a knight, you can use your sword and shield to do the following stuff:
 
 ### Jab
@@ -107,7 +109,7 @@ Waterombs explode on impact and stun for a short duration. If shielded, they stu
 
 ### Mines 
 
-Mines can be bought for 60 coins in knight shop and can be activated by all classe. Mines activate after staying still on the ground for some time. It instakills enemies and you can't shield it, so you should watch out for enemy mines! **This is especially important when playing CTF and pushing with your team in a closed space - let the builders destroy the mines, don't walk into them - if you walk into a mine and your teammates are also near, they will be killed as well (which often results with them being annoyed)**
+Mines can be bought for 60 coins in knight shop and can be activated by all classes. Mines activate after staying still on the ground for some time. It instakills enemies and you can't shield it, so you should watch out for enemy mines! **This is especially important when playing CTF and pushing with your team in a closed space - let the builders destroy the mines, don't walk into them - if you walk into a mine and your teammates are also near, they will be killed as well (which often results with them being annoyed)**
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/21.webm" controls loop="loop" preload></video><br>
 
