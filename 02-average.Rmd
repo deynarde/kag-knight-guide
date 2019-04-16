@@ -4,6 +4,26 @@
   <img src="imgs/miecz.png">
 </p>
 
+## Knight model, slash and jab range
+
+We'll start this section with a word about hitboxes in KAG:
+
+[image from compendium]
+
+The game models a knight as a circle.
+
+Both jab and slash are shaped as arcs, which move with your character and are active for a certain duration (slash lasts much longer than jab).
+
+Your shield covers an arc around your character centered on the direction your mouse is pointing. If you think that you were hit through your shield by someone – ask yourself, were you pointing in the right direction to cover the full arc of the attack?
+
+It is possible to see the hitboxes for yourself by going into solo sandbox mode, opening the console (by pressing the Home key) and typing /g_debug 1.
+
+[gif 0]
+
+Also: <u>Your shield has smaller range in air</u>. This is a thing that many people don't know. Don't jump while shielding forward - your shield range is smaller and it's more likely for the enemy to hit you, even when it seems he shouldn't have.
+
+[gif 0.5]
+
 ## More on mobility
 
 At this point, it's good for you to know some basic mobility tricks, such as these (taken from the [Knight Compendium](https://deynarde.github.io/kag-knight-compendium/) mentioned earlier) -- they're useful more often than you may think, so you should be able to do them consistently. Good mobility is as important as good timing and reflex.
@@ -103,6 +123,8 @@ Bomb jumps are very fun to do and can allow for some good stomps (or even stomps
 [new gif 17 - bomb jump, slash stomp someone]
 
 They're good for getting around obstacles in CTF, so you should definitely use them often there.
+You can also do multi bomb jumps - check the Miscellanous section for that.
+
 
 ---
 
