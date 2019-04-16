@@ -6,7 +6,7 @@
 
 ## More on mobility
 
-At this point, it's good for you to know some basic mobility tricks, such as these (taken from the Compendium mentioned earlier) - they're useful more often than you may think, so you should be able to do them consistently. Good mobility is as important as good timing and reflex.
+At this point, it's good for you to know some basic mobility tricks, such as these (taken from the [Knight Compendium](https://deynarde.github.io/kag-knight-compendium/) mentioned earlier) - they're useful more often than you may think, so you should be able to do them consistently. Good mobility is as important as good timing and reflex.
 
 **Slash jumping**
 
