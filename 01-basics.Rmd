@@ -96,7 +96,7 @@ Keep in mind that if you throw the bomb too early the enemies can catch it and t
 
 ### Waterbombs
 
-Waterombs explode on impact and stun for a short duration. If shielded, they stun for a slightly shorter time. You can also put a sponge in your inventory (bought at TDM trader shop or CTF builder shop) which will also reduce the stun duration. If you successfully stun someone with it, you could for example kill him with a double slash.
+Waterbombs explode on impact and stun for a short duration. If shielded, they stun for a slightly shorter time. You can also put a sponge in your inventory (bought at TDM trader shop or CTF builder shop) which will also reduce the stun duration. If you successfully stun someone with it, you could for example kill him with a double slash.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/17.webm" controls loop="loop" preload></video>
 
