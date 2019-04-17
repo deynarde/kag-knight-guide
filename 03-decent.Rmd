@@ -90,6 +90,16 @@ A rather simple, mentioned already as a counter against when your enemy shieldsl
 
 Jump over the enemy’s head quickly and jab them before they can react and move their shield. Don’t just click but instead hold your mouse button for a short while until you are at the perfect point to release the jab.
 
+### Tempo jab 
+
+Often you will get into the situation where you are shielding and an enemy knight is repeatedly slashing you. Thus the other knight has the tempo advantage. If you try and slash them, then you will die as you will have begun charging your slash after them – so they will always be able to release earlier.
+
+One way to escape this situation is with a quick jab – which will interrupt the enemy’s slash. 
+
+[gif 14.6]
+
+Beware though – if you have only 1 heart, a good enemy will instantly jab you back for the kill. Also, there's a chance that the enemy will shield after slashing - worry not, you will learn what to do if this happens in the next chapter.
+
 ### Slash stomping (easy version)
 
 When you have height advantage over the enemy (at least 3 blocks), you can just jump down at him with a slash. The slash will pierce his shield and the momentum from slashing will let you stomp him for 1 heart of damage.
