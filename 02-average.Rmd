@@ -48,7 +48,7 @@ A slash jump can be combined with upwards shield gliding in order to get extra h
 
 [new gif 2]
 
-You can also do the same with a double slash -- up to 11 blocks can be climbed this way.
+You can also do the same with a double slash -- up to 10 blocks can be climbed this way.
 
 [new gif 3]
 
