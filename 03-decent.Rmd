@@ -33,7 +33,7 @@ Keep in mind, however, that you can counter a crouching enemy by slashing him ri
 
 ### Attacking while being 'inside' someone that's shielding
 
-If the enemy crouches and you get inside him, you can also make use of that and attack him. However, if he's shielding, it requires you to slash or jab in a specific direction.
+If the enemy crouches and you get inside him, you can also make use of that and attack him (with a jab or a slash). However, if he's shielding, it requires you to slash or jab in a specific direction.
 
 <u>You must attack in the direction he's shielding, or instead the shield will protect him from the attack.</u>
 
@@ -103,6 +103,8 @@ Beware though – if you have only 1 heart, a good enemy will instantly jab you 
 ### Slash stomping (easy version)
 
 When you have height advantage over the enemy (at least 3 blocks), you can just jump down at him with a slash. The slash will pierce his shield and the momentum from slashing will let you stomp him for 1 heart of damage.
+
+[gif 14.7]
 
 ### Cancelling and baiting with a double slash
 
