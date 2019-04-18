@@ -213,4 +213,6 @@ A successful slash / double slash + jab combined with an overhead jab. The enemy
 
 ## Noanims
 
-At this point, you may probably want to visit the noanims section. They're a rather weird part of the game, but a part of it nonetheless and you should learn more about them.
+At this point, you may probably want to visit the noanims section. They're a rather weird part of the game, but a part of it nonetheless and you should learn more about them. Visit the playing CTF section if you didn't do so yet as well.
+
+
