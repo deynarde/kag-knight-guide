@@ -210,3 +210,7 @@ A successful slash / double slash + jab combined with an overhead jab. The enemy
 [gif 31]
 
 [gif 32]
+
+### Noanims
+
+At this point, you may probably want to visit the noanims section. They're a rather weird part of the game, but a part of it nonetheless and you should learn more about them.
