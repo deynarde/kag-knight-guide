@@ -1,4 +1,85 @@
-# Learning as a very good player 
+# Learning as a very good player
 
-test
-siek siek siekam cebolge
+<p align="center">
+  <img src="imgs/miecz.png">
+</p>
+
+
+## More advanced moves and tricks
+
+You'll learn about the final tricks which you should learn now, requiring very good timing and being familiar with how the game works in general.
+
+### Aggressive jab (jab charge)
+
+An aggressive but extremely fun move; a jab charge is a quick shield slide to gain speed followed by a jab. This is an effective way to interrupt someone who is charging a slash -- but for it to succeed it must be done with extreme speed and good timing.
+
+[gif 1]
+
+### Slash charge
+
+Similar to a jab charge, a slash charge is a short, quick shield slide in order to gain speed as you charge your slash. You can often surprise an enemy this way by quickly travelling a large distance. For this to work you must charge your slash in mid-air, or the speed boost will be irrelevant.
+
+[gif 2]
+
+### Instajabs
+
+This is a very important move. It allows you to damage 99% of knights that slash your shield, even if they shield right after.
+
+Basically -- there's a small delay between slashing and putting your shield back up. If you put your shield up right after slashing, the animation may show, but the shield won't actually be there. Moreover, it usually ends up causing messed up animations (if the enemy does an instajab) -- because on your screen the enemy jabbed the shield.
+
+During that small delay, and right after your stun from being slashed in the shield is finished, you can jab the enemy. It requires good timing and quite a bit of training, honestly -- which is why we have a bot (credit to Vamist) to train it, which you can download in the Miscellanous section.
+
+POV of instajabbing person:
+[gif 3]
+
+POV of instajabbed person:
+[gif 4]
+
+### Slash stomping (hard)
+
+Start charging a slash, jump from the highest point of the enemy (as mentioned earlier, the players' model is an octagon) shielding up and try to land on a lower point, slightly to the side. This way the slash pierces their shield, and the additional velocity allows you to do a 1 heart stomp.
+
+[gif 5]
+
+### Shield bash + double jab
+
+Rather hard move to do, requires good timing and familarity with shield bashes. Basically, shieldbash someone and then very quickly double jab.
+
+[gif 6]
+
+### Shield bash + slash
+
+This one is more trivia than an actual trick -- it's very hard to do this consistently. Basically, you need to do the fastest slash possible right after stunning the enemy. You basically need to start charging the slash before you know the enemy is even stunned, which is why it's so hard.
+
+[gif 7]
+
+### Blitz crouch
+
+This is a more advanced way to get 'inside' the enemy so you can attack him (credit to Auky for inventing and naming this). To do it, do a shield slide stun which will slightly pop the enemy up in the air. As they fall you move slightly under them and crouch so that they fall into you (both of your hitboxes are overlapping). Works the best when the enemy is next to a wall.
+
+At this point, you can phase through the enemy and attack them.
+
+[gif 8]
+
+### Shieldslide crouch
+
+Similar to above, but doesn't require shieldbashing enemy. Best works on flat terrain. Basically, do a quick shieldslide, but stop when you're getting closer to the enemy. Start holding S. You will still have the momentum from the crouch and will get inside the enemy. If done with certain timing, it can glue the enemy with you (if you glue yourself to the enemy -- on the enemy's screen, you aren't even inside him). It's easy to attack the confused enemy right after doing this.
+
+Without glue:
+[gif 9]
+
+With glue (crouching person's POV):
+[gif 10] 
+
+Without glue (attacked person's POV):
+[gif 11]
+
+## Becoming the best
+
+At this point, you know pretty much all the moves. If you can do all of them, all there's left for you to do is just becoming perfect. Keep optimising your playstyle. Of course, you won't ever stop doing mistakes completely, but now you just need to focus on doing them less and less. You could try training your timing and muscle memory to be even more perfect; for example, you could attempt to interrupt every slash with a jab.
+
+[gif 12]
+
+We recommend getting into competitive CTF if you didn't yet. In our opinion, competitive CTF (Captains, clanwars and so on) is much more fun than just plain 1v1s and playing TDMs. You also learn how to teamwork much better there, and in general it's a lot more satisfying to play
+
+If you want to learn even more about Knight, and want to win tournaments outside of your region, you could try learning and mastering playing with lags (for example, most EU players get 133-166 ping on US servers). For more about this, read the section about playing with lags.
