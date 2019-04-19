@@ -23,4 +23,8 @@ We’ve read many tutorials concerning the knight gameplay, both on THD forums a
 
 We hope it'll help people who try to get better at knight. We’re going to cover everything: improving your skills on various levels, how to play on CTF, how to deal with high ping or bugs, and every knight trick/move you can do in this game and much more. It may seem like a lot, but knight combat is very extensive and if you really want to get better this guide will certainly help you.
 
-> For just a collection of knight tips and tricks see the [Knight Compendium](https://deynarde.github.io/kag-knight-compendium/) (slightly outdated). Also you can contact us on Discord (`bunnie#8671`, `deynarde#4491`).
+> For just a collection of knight tips and tricks see the [Knight Compendium](https://deynarde.github.io/kag-knight-compendium/).
+
+> For a tutorial on playing as builder see [Builder Guides](https://deynarde.github.io/kag-builder-guides/).
+
+> Also you can contact us on Discord (`bunnie#8671`, `deynarde#4491`).
