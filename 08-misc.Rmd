@@ -1,4 +1,4 @@
-# Miscellanous- Tick Table, Multi Bomb Jumps, other small tricks
+# Miscellanous - Tick Table, other small tricks, training bots
 
 ## Tick Table
 
