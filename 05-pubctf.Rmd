@@ -199,7 +199,7 @@ Can be used to hurt enemy structures - they most likely won't catch the keg.
 
 ### Mine + bomb
 
-Mines need to stay still to be able to deploy - so you can't deploy them in midair. However, you can deploy one on top of your enemy tower, and then push it forward with a bomb or a waterbomb.
+Mines need to stay still to be able to deploy -- so you can't deploy them in midair. However, you can deploy one on top of your enemy tower, and then push it forward with a bomb or a waterbomb.
 
 [gif 24]
 
