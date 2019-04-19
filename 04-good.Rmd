@@ -1,4 +1,4 @@
-# Learning as a very good player
+# Knight IV: Advanced
 
 <p align="center">
   <img src="imgs/miecz.png">
