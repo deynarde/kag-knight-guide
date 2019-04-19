@@ -195,7 +195,7 @@ This also applies to TDM. If you explode a water bomb on a keg (with enough mome
 
 [gif 23]
 
-Can be used to hurt enemy structures - they most likely won't catch the keg.
+Can be used to hurt enemy structures -- enemies most likely won't catch the keg.
 
 ### Mine + bomb
 
