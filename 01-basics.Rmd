@@ -1,4 +1,4 @@
-# The basics and learning as a newbie
+# Knight I: The basics
 
 <p align="center">
   <img src="imgs/miecz.png">
