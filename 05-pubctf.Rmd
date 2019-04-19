@@ -1,10 +1,206 @@
-# Playing Pub CTF
+# Playing CTF
 
 <p align="center">
   <img src="imgs/flag.png">
 </p>
 
+## Dropping resupplies ('dropping mats')
 
-## hehe
+<u>Every time you respawn, you should change on your tent/ballista to builder and back to knight.</u> This way you drop 100 wood and 30 stone (resupplies) and your builders will love you. It may not seem like a lot, but it really helps your builders. Seriously, ***<u>please do this***</u>.
 
-buuuubububbub
+[gif 1]
+
+## Buying items
+
+There are a plethora of items to buy in CTF. The more people you kill, the more coins you gain. There's no much point in hoarding all the coins -- you lose some if you die. 
+
+### Bombs
+
+Most knights decide to buy bombs (knight shop, 25 coins). They're good for killing enemy builders and archers, especially when they try to escape from you. 
+
+[gif 2]
+
+Using them to bomb jump to the enemy base also is a very good strategy.
+
+[gif 3]
+
+You can also use them in this way -- if only one block thick wall (not doors) seperates you from the enemy, you can kill the enemy through the block:
+
+[gif 4]
+
+Good for killing builders ratting in your tower.
+
+### Burgers
+
+Burgers are also a decent item (quarters, also known as food shop, 20 coins). They heal you to full health. You can eat them quickly by pressing V. It's useful when you're fighting and don't have much health -- just eat a burger. Using them greatly improves your survivability.
+
+### Water bombs
+
+They stun the enemy (knight shop, 30 coins). Good for stunning enemies when you're fighting several at once, or stunning archers/builders. Just stun anyone for easily kills. 
+Countered if enemy has a sponge in inventory (as mentioned in the first chapter)
+
+[gif 5]
+
+[gif 6]
+
+### Mines
+
+Mines are good (knight shop, 60 coins), especially when your team is on the defense. Place at least 1 in flagroom (if enemies get in there, they will be killed by the mine)
+
+[image]
+
+Place one in tunnels as well -- ratting enemies in most cases don't notice them and die.
+
+[image]
+
+Placing them next to enemy doors is good as well
+
+[image]
+
+### Kegs
+
+Very good explosive (knight shop, 120 coins). Good for destroying enemy structures.
+
+Don't fight enemies while holding it -- losing a keg is bad for your team.
+
+[gif 6 - dont do this]
+
+I recommend getting yourself launched from a catapult with a keg as well.
+
+[gif 7]
+
+Kegs, aside from exploding after 6 seconds, explode on impact if they're lit and have enough velocity.
+
+[gif 8]
+
+### Ballista
+
+Good siege vehicle (siege shop, 200 coins), can be bought if you've got a lot of money. It lets people respawn on it, so I recommend putting it on top of your tower.
+
+[image]
+
+### Catapult
+
+Another good siege vehicle (siege shop, 200 coins) -- lets you shoot people with it. Place on top of your tower.
+
+[image]
+
+### Arrows for your archers
+
+If you know that you have any good archers in team, you can buy them various arrows, such as fire arrows (especially if enemies got any big wooden structures), water arrows (for stunning enemies) or bomb arrows (for destroying enemy siege vehicles or structures).
+
+## Teamwork
+
+Aside from dropping mats, there's some other stuff you should do.
+
+### Protect your builders
+
+Protect your builders that are trying to push the enemies and attack their base. It's very important. Stay with them, kill enemies that try to touch them.
+
+[gif 9]
+
+However, if the builder is trying to rat into the enemy base and places doors, <u>DON'T leave him and DON'T try to fight knights. You can often fail and open the doors for the enemies or just get yourself killed. Stay with the builder.</u>
+
+[gif 10]
+
+### Catch bombs
+
+Builders and archers have no way to protect themselves from bombs. Catch enemy bombs and throw them back quickly to save them from certain death.
+
+[gif 11]
+
+### Pick up materials
+
+Pick up materials laying on the ground (in the order: gold > stone > wood) and deliver them to a safe spot or to the closest builder. Do this especially after killing enemy builders.
+
+[gif 12]
+
+## On the defense
+
+While you're defending yourself from enemies pushing your tower, you should keep some stuff in mind. Some of these apply to other situations as well.
+
+### Focus on the builder
+
+Kill the builder at all costs. He's the most dangerous -- without him, it's much harder for enemy knights to get inside your base.
+
+I recommend jumping from the top of the tower and just slashing him.
+
+[gif 13]
+
+### Mass-keg
+
+You can mass-keg the enemies if there are many of them. HOWEVER, drop the keg as late as possible -- even if it means you will die. If you don't do so, there's a chance the enemies will catch it and use it against your tower.
+
+[gif 14]
+
+[gif 15]
+
+You can also just wait for it to get closer to explosion, and then drop it. Don't need to fear about enemies using it against you this way.
+
+### Catch enemy kegs 
+
+If you're quick enough, you can catch enemy kegs by jumping and pressing C when the keg is about to hit the ground.
+
+[gif 16]
+
+Also applies to being on the offense - the enemy team may try to mass-keg you.
+
+### Slash ballista bomb bolts
+
+You can slash ballista bomb bolts with good timing. Greatly helps if you're under heavy siege.
+
+[gif 17]
+
+### Shield enemy bomb arrows
+
+You should shield enemy bomb arrows, especially when they try to destroy your structures.
+
+[gif 18]
+
+## On the offense
+
+### Enemy tunnels
+
+When you get to the enemy tunnel, constantly double slash it. This way, if any enemies go through it, you kill them easily (they're stunned from tunnel travel).
+
+[gif 19]
+
+If you're certain that they don't have a sawtrap on their other tunnels, you can also try using them to get to their base.
+
+[gif 20]
+
+### Enemy siege vehicles
+
+Generally, if it's a catapult, you should just destroy it, unless it still has wheels attached and you can use it to hurt the enemies. If you have enough time, capture it.
+
+As for ballistas, depends on the situation. Generally, if you're safe on the enemy ballista, and no enemies are coming, capture it. If there are lots of enemies trying to get it back - destroy it, it gives you a lots of coins (just jabspam it)
+
+## Random tricks
+
+### Sawjump
+
+Bombs explode when they get destroyed. If bombs explode at the same moment, you can make a pretty awesome bombjump. Saws are used for this. Works like this:
+
+[gif 21]
+
+You can also do it with holding a keg in hand to get to the enemy base.
+
+[gif 22]
+
+Another variation includes holding a crate with a builder in it.
+
+### Keg + waterbomb
+
+This also applies to TDM. If you explode a water bomb on a keg (with enough momentum) the keg will quickly go forward, like this.
+
+[gif 23]
+
+Can be used to hurt enemy structures - they most likely won't catch the keg.
+
+### Mine + bomb
+
+Mines need to stay still to be able to deploy - so you can't deploy them in midair. However, you can deploy one on top of your enemy tower, and then push it forward with a bomb or a waterbomb.
+
+[gif 24]
+
+[gif 25]
