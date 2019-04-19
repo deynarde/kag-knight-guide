@@ -1,4 +1,4 @@
-# Learning as an average player
+# Knight II: Above average
 
 <p align="center">
   <img src="imgs/miecz.png">
