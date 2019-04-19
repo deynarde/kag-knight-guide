@@ -25,6 +25,6 @@ We hope it'll help people who try to get better at knight. We’re going to cove
 
 > For just a collection of knight tips and tricks see the [Knight Compendium](https://deynarde.github.io/kag-knight-compendium/).
 
-> For a tutorial on playing as builder see [Builder Guides](https://deynarde.github.io/kag-builder-guides/).
+> For a tutorial on playing as builder see [Builder Guides](https://deynarde.github.io/kag-builder-guide/).
 
-> Also you can contact us on Discord (`bunnie#8671`, `deynarde#4491`).
+> Also you can contact us on [KAG Discord](https://discord.gg/kag) (`bunnie#8671`, `deynarde#4491`).
