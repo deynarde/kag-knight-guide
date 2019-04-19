@@ -1,1 +1,40 @@
 # Miscellanous- Tick Table, Multi Bomb Jumps, other small tricks
+
+## Tick Table
+
+30 ticks = 1 second.
+
+Important note: Most (if not all) stuns do not add up.
+
+| Action | Number of ticks |
+|:----------------------------------------------------| ------------------:|
+| Slash charging takes:                               | 15 ticks.          |
+| Double slash charging takes:                        | 38 ticks.          |
+| Charging limit is reached at:                       | 63 ticks.          |
+| Slash duration is:                                  | 13 ticks.          |
+| Double slash duration is:                           | 8 + 13 (21) ticks. |
+| Stab duration is:                                   | 9 ticks.           |
+| Resheathing (prevents shield / sword use) takes:    | 2 ticks.           |
+| Overcharging (archer and knight) stuns for:         | 15 ticks.          |
+| Mine activation takes:                              | 45 ticks.          |
+| Bomb activation takes:                              | 120 ticks.         |
+| Keg activation takes:                               | 180 ticks.         |
+| Slashes (clean hit) stuns for:                      | 20 ticks.          |
+| Slashes (shielded) stuns (enemy) for:               | 10 ticks.          |
+| Stabs (clean hit) stuns for:                        | 2 ticks.           |
+| Stabs (shielded) stuns (enemy) for:                 | 0 ticks.           |
+| Stabs (shielded) stuns (yourself) for:              | 30 ticks.          |
+| Shield bash stuns for:                              | 20 ticks.          |
+| Stomps stuns for:                                   | 15 ticks.          |
+| Bombs (clean hit) stuns for:                        | 20 ticks.          |
+| Bombs (shielded) stuns for:                         | 20 ticks.          |
+| Arrows (real close) stuns for:                      | 20 ticks.          |
+| Arrows (clean hit) stuns for:                       | 15 or 0 ticks.     |
+| Arrows (shielded) stuns for:                        | 15 or 0 ticks.     |
+| Spikes stuns for:                                   | 10 ticks.          |
+| Getting hit in bed stuns for:                       | 30 ticks.          |
+| Travel via tunnel stuns for:                        | 30 ticks.          |
+| Water stuns for:                                    | 45 ticks.          |
+| Water (w/ sponge) stuns for:                        | 5 ticks.           |
+| Getting shot w/ catapult stuns for:                 | 30 ticks.          |
+| Falling stuns for:                                  | 12 ticks.          |
