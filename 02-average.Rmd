@@ -20,10 +20,6 @@ It is possible to see the hit boxes for yourself by going into solo sandbox mode
 
 [gif 0]
 
-Also: __Your shield has smaller range in air__. This is a thing that many people don't know. Don't jump while shielding forward - your shield range is smaller and it's more likely for the enemy to hit you, even when it seems he shouldn't have.
-
-[gif 0.5]
-
 ## On learning itself
 
 If you want to get better at knight quickly, playing lots of TDM is a good choice here, but in our opinion the __best way to train knight is to play lots of 1v1__ -- sometimes with people at your skill level, and sometimes with people slightly better than you. 1v1s are the best for this because they allow you to fully focus on the knight combat, while in TDM you have to watch out for archers (and water bombs, which aren't used in 1v1s) and in CTF -- you should care about winning the game, not KDR.
