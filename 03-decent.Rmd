@@ -1,5 +1,4 @@
-
-# Knight III: Becoming very good
+# Knight III: Advanced
 
 <p align="center">
   <img src="imgs/miecz.png">
@@ -7,7 +6,7 @@
 
 ## Crouching
 
-This is another very important (and largely forgotten) feature (well, bug that became a feature) in KAG. Basically, when you crouch (hold S) and not move in any direction, enemies do not collide with you. This allows you to do lots of new situational moves. Crouching also increases the radius of your shield.
+This is another very important (and largely forgotten) feature in KAG. Basically, when you crouch (hold S) and not move in any direction, enemies do not collide with you. This allows you to do lots of new situational moves. Crouching also increases the radius of your shield.
 
 ### Countering shieldbashes
 

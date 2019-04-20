@@ -6,7 +6,7 @@
 
 ## Dropping resupplies ('dropping mats')
 
-<u>Every time you respawn, you should change on your tent/ballista to builder and back to knight.</u> This way you drop 100 wood and 30 stone (resupplies) and your builders will love you. It may not seem like a lot, but it really helps your builders. Seriously, ***<u>please do this***</u>.
+__time you respawn, you should change on your tent/ballista to builder and back to knight.__ This way you drop 100 wood and 30 stone (resupplies) and your builders will love you. It may not seem like a lot, but it really helps your builders.
 
 [gif 1]
 
