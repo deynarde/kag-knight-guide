@@ -22,7 +22,7 @@ The simplest attack. It does 1 heart of damage.
 
 ### Slash
 
-Charged attack (it takes half a second to charge it -- just watch the cursor), it does 2 hearts of damage and stuns the enemy for a short time. If the enemy is shielding, it pierces through the shield.
+Charged attack (it takes half a second to charge it -- just watch the cursor), it does 2 hearts of damage and stuns the enemy for a short time. If the enemy is shielding, it stuns for a bit less time, and the enemy doesn't get damaged.
 
 *Being able to do slashes as fast as possible is very important -- you should be able to do them as soon as the cursor charges fully.*
 
