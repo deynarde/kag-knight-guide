@@ -43,6 +43,10 @@ Countered if enemy has a sponge in inventory (as mentioned in the first chapter)
 
 [gif 6]
 
+### Sponges
+
+If you have one in inventory (builder shop, 15 coins), your stuns from water last much less. Good to buy if you know the enemy team has lots of archers spamming water.
+
 ### Mines
 
 Mines are good (knight shop, 60 coins), especially when your team is on the defense. Place at least 1 in flagroom (if enemies get in there, they will be killed by the mine)
@@ -158,6 +162,18 @@ You should shield enemy bomb arrows, especially when they try to destroy your st
 [gif 18]
 
 ## On the offense
+
+### Multi bomb jumps
+
+Aside from 1-bomb bomb jumps, you may sometimes want to use multi bomb jumps to get to the enemy base:
+
+2 bombs:
+
+[gif 33]
+
+3 bombs:
+
+[gif 34]
 
 ### Enemy tunnels
 
