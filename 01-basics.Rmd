@@ -6,9 +6,9 @@
 
 ## The knight class
 
-In KAG, the are 3 main classes: the Archer, the Builder and the Knight. The knight is arguably the strongest class of the game. A good team in CTF (the most played game mode -- Capture The Flag) or TTH (Take The Halls) should be mostly composed of knights protecting the builders and archers. In TDM (team deathmatch) the knight is the most played class as well.
+There are 3 main classes in KAG: the Archer, the Builder and the Knight. The knight is arguably the strongest class of the game. A good team in Capture The Flag or Take The Halls should be mostly composed of knights protecting builders and archers. In Team Deathmatch the knight is the most often played class as well.
 
-As a knight in CTF and TTH, your role is helping the team advance forward to get the enemy flag/enemy hall, but before you can learn more about game modes and playing in a team, let’s talk about the combat mechanics first.
+As a knight in CTF and TTH, your role is to help the team advance forward to capture the enemy flag or hall. Before you learn more about game modes and how to play in a team, let’s talk about the combat mechanics first.
 
 ## Mechanics
 
