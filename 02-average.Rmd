@@ -1,4 +1,4 @@
-# Knight II: Above average
+# Knight II: Intermediate
 
 <p align="center">
   <img src="imgs/miecz.png">

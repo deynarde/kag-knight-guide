@@ -1,4 +1,4 @@
-# Knight IV: Advanced
+# Knight IV: Expert
 
 <p align="center">
   <img src="imgs/miecz.png">
