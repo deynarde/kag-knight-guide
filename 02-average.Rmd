@@ -36,11 +36,7 @@ At this point, it's good to learn basic mobility tricks, such as these (taken fr
 
 ### Slash jumping
 
-A knight can jump higher than normal by slashing to give themselves some extra velocity. Time your slash so that it triggers just after you start your jump. 
-
-[new gif 1]
-
-A slash jump can be combined with upwards shield gliding in order to get extra height. Also, by pushing off the wall as you near the top and then floating back onto it you can climb an extra block -- you can climb up to 9 blocks. It's useful e.g. when you're escaping from the enemies' base with their flag.
+A knight can jump higher than normal by slashing to give themselves some extra velocity. Time your slash so that it triggers just after you start your jump. It can be combined with upwards shield gliding in order to get extra height. Also, by pushing off the wall as you near the top and then floating back onto it you can climb an extra block -- you can climb up to 8 blocks. It's useful e.g. when you're escaping from the enemies' base with their flag.
 
 [new gif 2]
 
@@ -155,19 +151,13 @@ This may be obvious, but actually I see this very rarely used, especially on CTF
 
 [gif 19 of jabbing after a successful double slash]
 
-### Jump while slashing
+### Low jumps while slashing
 
 This is another very important mechanic that you should get into the habit of doing. You should almost always slightly jump while slashing -- you gain additional horizontal momentum, thus cover a bigger distance, and make your sword's slash range bigger (slash range depends on your momentum).
 
-Jumping while slashing vs no jumping:
-
 [gif 20 - jumping while slashing]
 
-[gif 21 - no jumping while slashing]
-
-Keep in mind that you should only jump SLIGHTLY. This is a very common mistake people make - jumping too high while slashing makes your slash range worse than if you would actually not jump at all (slashing below you when you're going up has a very small range), and makes it easier for enemies to slash you from below:
-
-[gif 21 - someone jumping too high while slashing]
+Keep in mind that you should only jump SLIGHTLY. This is a very common mistake people make - jumping too high while slashing makes your slash range worse than if you would actually not jump at all (slashing below you when you're going up has a very small range), and makes it easier for enemies to slash you from below.
 
 ---
 These are the 3 most important things at this level: slashing fast, jabbing after succesful slashes, and doing low jumps while slashing. Train these until it feels natural and you do it instinctively.
