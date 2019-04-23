@@ -99,6 +99,12 @@ One way to escape this situation is with a quick jab – which will interrupt th
 
 Beware though – if you have only 1 heart, a good enemy will instantly jab you back for the kill. Also, there's a chance that the enemy will shield after slashing - worry not, you will learn what to do if this happens in the next chapter.
 
+### Fake jab
+
+Sometimes, when you and the enemy are shielding each other, you may attempt to do a fake jab to make the enemy think you jabbed his shield, then start shielding right after, like in the gif:
+
+[gif69]
+
 ### Slash stomping (easy version)
 
 When you have height advantage over the enemy (at least 3 blocks), you can just jump down at him with a slash. The slash will pierce his shield and the momentum from slashing will let you stomp him for 1 heart of damage.
