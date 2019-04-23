@@ -15,12 +15,6 @@ An aggressive but extremely fun move; a jab charge is a quick shield slide to ga
 
 [gif 1]
 
-### Slash charge
-
-Similar to a jab charge, a slash charge is a short, quick shield slide in order to gain speed as you charge your slash. You can often surprise an enemy this way by quickly travelling a large distance. For this to work you must charge your slash in mid-air, or the speed boost will be irrelevant.
-
-[gif 2]
-
 ### Instajabs
 
 This is a very important move. It allows you to damage 99% of knights that slash your shield, even if they shield right after.
