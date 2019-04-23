@@ -8,7 +8,7 @@
 
 We'll start this section with a word about hitboxes in KAG:
 
-[image from compendium]
+  <img src="imgs/knightmodel.png">
 
 The game models a knight as an octagon.
 
@@ -17,8 +17,6 @@ Both jab and slash are shaped as arcs, which move with your character and are ac
 Your shield covers an arc around your character centered on the direction your mouse is pointing. If you think that you were hit through your shield by someone – ask yourself, were you pointing in the right direction to cover the full arc of the attack?
 
 It is possible to see the hit boxes for yourself by going into solo sandbox mode, opening the console (by pressing Home key) and typing `/g_debug 1`.
-
-[gif 0]
 
 ## On learning itself
 
