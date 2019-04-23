@@ -114,10 +114,6 @@ You can also do bomb jumps while midair:
 
 [new gif 16]
 
-Bomb jumps are very fun to do and can allow for some good stomps (or even stomps with a slash):
-
-[new gif 17 - bomb jump, slash stomp someone]
-
 They're good for getting around obstacles in CTF, so you should definitely use them often there.
 
 You can also do multi bomb jumps -- read more about them in [Playing CTF] section.
