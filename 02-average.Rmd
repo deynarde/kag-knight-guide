@@ -42,29 +42,25 @@ A knight can jump higher than normal by slashing to give themselves some extra v
 
 You can also do the same with a double slash -- up to 10 blocks can be climbed this way.
 
-[new gif 3]
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/2.webm" controls loop="loop" preload></video><br>
 
 ### Faster movement during slash charging
 
 Aiming in the same direction to which you are moving will allow you to go a little faster when charging an attack. __You should pretty much always do this!__
 
-[new gif 4]
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/3.webm" controls loop="loop" preload></video><br>
 
 ### Quick shield slide
 
 Shield sliding is done by pointing the mouse below your character and shielding. But you can move significantly faster by __rapidly tapping the W key as you are sliding.__ For maximum speed, try and hit W as soon as you hit the ground on each bounce. Very useful when you're escaping from several enemies, or escaping from an enemy charging a double slash.
 
-[new gif 5]
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/4.webm" controls loop="loop" preload></video><br>
 
 ### Climbing arrows
 
-It is possible to climb arrows that archers shoot into a tower.
+It is possible to climb arrows that archers shoot into a tower. It is also possible to navigate around platforms on towers if there are enough arrows.
 
-[new gif 6]
-
-It is also possible to navigate around platforms on towers if there are enough arrows.
-
-[new gif 7]
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/5.webm" controls loop="loop" preload></video><br>
 
 ### Using walls for extra velocity
 
