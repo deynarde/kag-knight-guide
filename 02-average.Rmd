@@ -188,13 +188,9 @@ Using a double slash is pretty much pointless here (the enemy has time to start 
 
 ### Counter slashing
 
-If you are against an aggressive player then a way to beat them is to bait them to come forward with their slash or double slash. As they do so, you move back whilst charging your own slash. As their slash ends, you turn and hit them.
+If you are against an aggressive player then a way to beat them is to bait them to come forward with their slash or double slash. As they do so, you move back whilst charging your own slash. As their slash ends, you turn and hit them. You can do the same with double slashes.
 
 [gif 27]
-
-You can do the same with double slashes.
-
-[gif 28]
 
 It's important as well -- it's really hard to counter a defensive play style which focuses on counter slashes. Not impossible, but really hard. Also, this is the best way to fight when you're fighting against several enemies at once - slash, retreat, slash again, and so on.
 
@@ -218,15 +214,9 @@ As mentioned earlier, you can quickly shield slide horizontally into someone or 
 
 [gif 32 - shield slide]
 
-[gif 33 - shield bash from top]
-
 This is good for interrupting enemy slashes, but the beauty of shield bashes comes from being able to jab someone right after shield bashing him. This is another very important aspect of knight combat -- being able to shield bash properly and follow up with jabs can make a big difference, especially when fighting against defensive players.
 
 [gif 34 - jab after shield bashing]
-
-Sometimes, if the enemy was moving rapidly or mid air, you may knockback him far away:
-
-[gif 35 - shield bash knockback]
 
 There, of course, are several ways to counter shield bashes, which you should also learn -- overhead slashes, overhead jabs and crouches (which you'll learn more about in the next chapter)
 
