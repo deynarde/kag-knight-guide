@@ -49,7 +49,7 @@ If you hold an item like a crate or a log, it's harder for your enemy to see you
 
 ## Training bot
 
-We have a bot for training instajabs [Knight IV: Expert] and one that shields in your direction.
+We have a bot for training instajabs ([Knight IV: Expert]) and one that shields in your direction.
 
 Download the mod from here: [Download soon]
 
