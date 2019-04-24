@@ -202,6 +202,7 @@ If you're good and fast enough, just by landing one successful slash (or just do
 
 ### Slash + jab + double slash
 
+Already mentioned in the earlier chapter, but we'll put it here as well for consistency
 - Successful slash / double slash
 - Jab
 - Charge a double slash. You don't need to worry about the possibility of him jabbing you while you're doing it (unless he ate some food and unless you have 1 heart only - in this case, having some distance as mentioned in Countering double slashes is important) - if he tries jabbing you, you can just counterjab him instantly, as mentioned in the Countering double slashes section
