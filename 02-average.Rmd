@@ -107,7 +107,7 @@ Shield sliding onto water will allow you to do a little bounce before you sink. 
 
 Mentioned in [Knight I: The basics], this is when knights use bombs to send themselves flying across the map. The simplest bomb jump is a single bomb jump. Light your bomb, drop it on the ground and right as it is about to explode jump into the air and shield.
 
-Timing is crucial here, and if you time it so you jump and shield at the last possible instant you will go much further (perhaps almost twice as far).
+Timing is crucial here, and if you time it so you jump and shield at the last possible moment you will go much further (perhaps almost twice as far).
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/15.webm" controls loop="loop" preload></video><br>
 
