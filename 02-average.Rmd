@@ -234,6 +234,6 @@ Keep in mind that in this variation, if the enemy manages to put his shield back
 
 Again, don't be demotivated if this may seem a lot and is hard for you to learn. Many good knights struggled with this - it takes them a while before it clicks and shield bashes just feel natural to them.
 
-## Playing pub CTF
+## Playing CTF
 
-At this point it'd be good if you'd visit the section for playing pub CTFs as well.
+At this point it'd be good if you'd visit the section for [Playing CTF] as well.
