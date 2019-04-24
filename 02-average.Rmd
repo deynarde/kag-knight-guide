@@ -89,7 +89,7 @@ A shield slide can be performed even on a 1 block wide tower. This can be very h
 
 Slashing can sometimes be used as an escape mechanism due to the small speed boost it gives.
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/12.webm" controls loop="loop" preload></video><br>
+[new giffo ura]
 
 ### Tower wall jump
 
