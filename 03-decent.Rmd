@@ -38,7 +38,7 @@ __You must attack in the direction they're shielding, or instead the shield will
 
 [new gif 2 ura]
 
-If you're fighting against a player who knows this technique, you can counter them from damaging you by rapidly changing your direction of shielding.
+If you're fighting against a player who knows this technique, you can prevent them from damaging you by rapidly changing your direction of shielding.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/8.webm" controls loop="loop" preload></video><br>
 
