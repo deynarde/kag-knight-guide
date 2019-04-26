@@ -64,7 +64,7 @@ He can also just try to not be close enough for you to jab - in some situations 
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/112.webm" controls loop="loop" preload></video><br>
 
-Also, if you know that the enemy knows how to do that, you can also prevent them from doing it. You can try charging a slash for a little longer than a perfect 15 tick (half a second) slash, but not as long as a double slash - if you're lucky, the enemy will attempt a jab but you will slash them first and be able to damage them easily.
+Also, if you know that the enemy knows how to interrupt double slashes with jabs, you can also prevent them from doing it. You can try charging a slash for a little longer than a perfect 15 tick (half a second) slash, but not as long as a double slash - if you're lucky, the enemy will attempt a jab but you will slash them first and be able to damage them easily.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/12.webm" controls loop="loop" preload></video><br>
 
