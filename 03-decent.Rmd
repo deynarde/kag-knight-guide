@@ -60,7 +60,7 @@ However... this can also be countered - the person charging a double slash can j
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/11.webm" controls loop="loop" preload></video><br>
 
-He can also just try to not be close enough for you to jab - in some situations if you're fast enough and realise they're going to double slash you can quickly run away with a quick shield slide (or a slash escape), but if they're fast they can just slash you before you do that.
+He can also just try to not be close enough for you to jab - in some situations if you're fast enough and realise they're going to double slash you can quickly run away with a quick shield slide, but if they're fast they can just slash you before you do that.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/112.webm" controls loop="loop" preload></video><br>
 
