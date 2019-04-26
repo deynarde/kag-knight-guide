@@ -12,41 +12,39 @@ This is another very important (and largely forgotten) feature in KAG. Basically
 
 Aside from overhead attacks to counter enemies shield sliding into you, you can decide to crouch instead. The sliding enemy just goes through you and you can surprise him with an attack right after.
 
-[gif 1]
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/1.webm" controls loop="loop" preload></video><br>
 
 You can actually crouch while doing any actions, as long as you don't move. Also, you can't see the enemies doing it - there isn't a seperate animation for crouches
 
-[gif 2 - slashcrouch]
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/2.webm" controls loop="loop" preload></video><br>
 
-[gif 3 - shieldcrouch]
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/3.webm" controls loop="loop" preload></video><br>
 
 ### Countering stomps
 
-Crouches are a very good counter against stomps as well. If you see someone jumping at you from a distance, you should almost always crouch.
+Crouches are a very good counter against stomps as well. If you see someone jumping at you from a distance (with his shield down) you should almost always crouch.
 
-[gif 4 - jumping on a crouching person]
+[new gif ura 1]
 
-Keep in mind, however, that you can counter a crouching enemy by slashing him right before landing on him.
+Keep in mind, however, that you can counter a crouching enemy by slashing him right before landing on him - if someone is charging a slash and wants to lands on you, crouching probably isn't a good idea.
 
-[gif 5]
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/4.webm" controls loop="loop" preload></video><br>
 
 ### Attacking while being 'inside' someone that's shielding
 
 If the enemy crouches and you get inside him, you can also make use of that and attack him (with a jab or a slash). However, if he's shielding, it requires you to slash or jab in a specific direction.
 
-<u>You must attack in the direction he's shielding, or instead the shield will protect him from the attack.</u>
+__You must attack in the direction he's shielding, or instead the shield will protect him from the attack.__
 
-[gif 6 - wrong directions]
-
-[gif 7 - proper directions]
+[new gif 2 ura]
 
 If you're fighting against a player who knows this technique, you can counter him from damaging you by rapidly changing your direction of shielding.
 
-[gif 8]
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/8.webm" controls loop="loop" preload></video><br>
 
 A common situation is you and your enemy both have your shields up and are running into each other (especially in narrow spaces). A good trick is to slightly move back and crouch, so that the enemy phases through you. As they get inside you, attack them.
 
-[gif 9]
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/9.webm" controls loop="loop" preload></video><br>
 
 ## Some more moves and tricks
 
@@ -56,19 +54,19 @@ If you're decent at doing the moves from the earlier chapter and they feel natur
 
 If you're in a situation when the enemy is constantly spamming slashes and you must shield yourself, he may eventually decide to charge a doubleslash. This can be countered: if you notice that he's charging his slash for longer than usual, you can jab him and interrupt his slash.
 
-[gif 10]
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/10.webm" controls loop="loop" preload></video><br>
 
 However... this can also be countered - the person charging a double slash can just release his button, counterjabbing the enemy.
 
-[gif 11]
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/11.webm" controls loop="loop" preload></video><br>
 
 He can also just try to not be close enough for you to jab - in some situations if you're fast enough and realise he's going to double slash you can quickly run away with a quick shield slide (or a slash escape), but if he's fast he can just slash you before you do that.
 
-[gif 11.2]
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/112.webm" controls loop="loop" preload></video><br>
 
 Also, if you know that the enemy knows how to do that, you can also prevent him from doing it. You can try charging a slash for a little longer than a perfect 15 tick (half a second) slash, but not as long as a double slash - if you're lucky, the enemy will attempt a jab but you will slash him first and be able to damage him easily.
 
-[gif 12]
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/12.webm" controls loop="loop" preload></video><br>
 
 ### Counter jab
 A counter jab punishes the enemy for missing their attack. As the enemy ends their slash, turn around and quickly jab them. They won’t have time to shield.
