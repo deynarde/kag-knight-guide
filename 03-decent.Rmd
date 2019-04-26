@@ -12,7 +12,7 @@ This is another very important (and largely forgotten) feature in KAG. Basically
 
 Aside from overhead attacks to counter enemies shield sliding into you, you can decide to crouch instead. The sliding enemy just goes through you and you can surprise him with an attack right after.
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/1.webm" controls loop="loop" preload></video><br>
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/1fix.webm" controls loop="loop" preload></video><br>
 
 You can actually crouch while doing any actions, as long as you don't move. Also, you can't see the enemies doing it - there isn't a seperate animation for crouches
 
@@ -54,7 +54,7 @@ If you're decent at doing the moves from the earlier chapter and they feel natur
 
 If you're in a situation when the enemy is constantly spamming slashes and you must shield yourself, he may eventually decide to charge a doubleslash. This can be countered: if you notice that he's charging his slash for longer than usual, you can jab him and interrupt his slash.
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/10.webm" controls loop="loop" preload></video><br>
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/10fx.webm" controls loop="loop" preload></video><br>
 
 However... this can also be countered - the person charging a double slash can just release his button, counterjabbing the enemy.
 
