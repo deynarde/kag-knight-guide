@@ -26,7 +26,7 @@ Crouches are a very good counter against stomps as well. If you see someone jump
 
 [new gif ura 1]
 
-Keep in mind, however, that you can counter a crouching enemy by slashing him right before landing on him - if someone is charging a slash and wants to lands on you, crouching probably isn't a good idea.
+Keep in mind, however, that you can counter a crouching enemy by slashing him right before landing on him. If someone is charging a slash and wants to land on you, crouching probably isn't a good idea.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/4.webm" controls loop="loop" preload></video><br>
 
