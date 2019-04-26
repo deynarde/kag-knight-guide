@@ -52,7 +52,7 @@ If you're decent at doing the moves from the earlier chapter and they feel natur
 
 ### Countering double slashes
 
-If you're in a situation when the enemy is constantly spamming slashes and you must shield yourself, he may eventually decide to charge a doubleslash. This can be countered: if you notice that they're charging their slash for longer than usual, you can jab them and interrupt their slash.
+If you're in a situation when the enemy is constantly spamming slashes and you must shield yourself, they may eventually decide to charge a doubleslash. This can be countered: if you notice that they're charging their slash for longer than usual, you can jab them and interrupt their slash.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/10fx.webm" controls loop="loop" preload></video><br>
 
@@ -60,7 +60,7 @@ However... this can also be countered - the person charging a double slash can j
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/11.webm" controls loop="loop" preload></video><br>
 
-He can also just try to not be close enough for you to jab - in some situations if you're fast enough and realise they're going to double slash you can quickly run away with a quick shield slide (or a slash escape), but if they're fast he can just slash you before you do that.
+He can also just try to not be close enough for you to jab - in some situations if you're fast enough and realise they're going to double slash you can quickly run away with a quick shield slide (or a slash escape), but if they're fast they can just slash you before you do that.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/112.webm" controls loop="loop" preload></video><br>
 
@@ -201,7 +201,7 @@ If you're good and fast enough, just by landing one successful slash (or just do
 Already mentioned in the earlier chapter, but we'll put it here as well for consistency
 - Successful slash / double slash
 - Jab
-- Charge a double slash. You don't need to worry about the possibility of them jabbing you while you're doing it (unless he ate some food and unless you have 1 heart only - in this case, having some distance as mentioned in Countering double slashes is important) - if he tries jabbing you, you can just counterjab them instantly, as mentioned in the Countering double slashes section
+- Charge a double slash. You don't need to worry about the possibility of them jabbing you while you're doing it (unless they ate some food and unless you have 1 heart only - in this case, having some distance as mentioned in Countering double slashes is important) - if they try jabbing you, you can just counterjab them instantly, as mentioned in the Countering double slashes section
 
 [gif 30]
 
