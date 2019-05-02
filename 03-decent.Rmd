@@ -71,17 +71,17 @@ Also, if you know that the enemy knows how to interrupt double slashes with jabs
 ### Counter jab
 A counter jab punishes the enemy for missing their attack. As the enemy ends their slash, turn around and quickly jab them. They won’t have time to shield.
 
-[gif 13]
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/13.webm" controls loop="loop" preload></video><br>
 
 It's a good way to play against players who just slashspam - bait them to jump at you with their slash, dodge it and then quickly jab right after.
 
-[gif 14]
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/14.webm" controls loop="loop" preload></video><br>
 
 ### Overhead jab
 
 A rather simple, mentioned already as a counter against when your enemy shieldslides, but you can do it when the enemy is just walking forward with their shield up as well:
 
-[gif 14.5]
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/145.webm" controls loop="loop" preload></video><br>
 
 Jump over the enemy’s head quickly and jab them before they can react and move their shield. Don’t just click but instead hold your mouse button for a short while until you are at the perfect point to release the jab.
 
@@ -91,7 +91,7 @@ Often you will get into the situation where you are shielding and an enemy knigh
 
 One way to escape this situation is with a quick jab – which will interrupt the enemy’s slash. 
 
-[gif 14.6]
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/146.webm" controls loop="loop" preload></video><br>
 
 Beware though – if you have only 1 heart, a good enemy will instantly jab you back for the kill. Also, there's a chance that the enemy will shield after slashing - worry not, you will learn what to do if this happens in the next chapter.
 
@@ -105,13 +105,13 @@ Sometimes, when you and the enemy are shielding each other, you may attempt to d
 
 When you have height advantage over the enemy (at least 3 blocks), you can just jump down at them with a slash. The slash will pierce their shield and the momentum from slashing will let you stomp them for 1 heart of damage.
 
-[gif 14.7]
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/147.webm" controls loop="loop" preload></video><br>
 
 ### Cancelling and baiting with a double slash
 
 This is somewhat related to the above and is a very fun trick to do. Basically, the idea is to charge a double slash, but only slash once, then shield. This way, you will get closer to the enemy, which will think you want to double slash them and try to counterjab, but will jab your shield instead.
 
-[gif 15]
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/15.webm" controls loop="loop" preload></video><br>
 
 ### Aggressive double slash
 
@@ -119,13 +119,13 @@ This is a risky but potentially rewarding move. The aim is to take advantage of 
 
 For maximum effectiveness, do a small jump between the slashes so your movement forms a kind of ‘m’ shape – this will allow you to move as far as possible.
 
-[gif 16]
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/16.webm" controls loop="loop" preload></video><br>
 
 ### Chained shieldbashing
 
 It is possible to keep someone in a near permanent stunlock by repeatedly shield bashing them. This move is especially useful to counter someone who is holding a bomb, as they won’t be able to throw it while stunned.
 
-[gif 17]
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/17.webm" controls loop="loop" preload></video><br>
 
 ## Using bombs (especially in 1v1s)
 
@@ -135,31 +135,31 @@ Being able to use bombs efficiently is an important part of 1v1s (in most duels 
 
 If the enemy has a defensive playstyle, you may bomb jump and then slash stomp them.
 
-[gif 18]
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/18.webm" controls loop="loop" preload></video><br>
 
 However, in some cases it's possible for the enemy to counter it if they're good enough, by slashing above at a correct angle with proper timing:
 
-[gif 19]
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/19.webm" controls loop="loop" preload></video><br>
 
 ### Using them after stunning someone
 
-Light a bomb and time its explosion with stunning an enemy, either by shield stunning them or slashing them (keep in mind that in the 2nd variation you also get damage because of not being able to shield the bomb -- so you should do this preferably when you have more than 3 hearts and the enemy has less)
+Light a bomb and time its explosion with stunning an enemy, either by shield stunning them or slashing them. keep in mind that in the 2nd variation you also get damage because of not being able to shield the bomb (either 3 hearts if it explodes close to you, or 1.5 if a bit further).
 
-[gif 20]
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/20.webm" controls loop="loop" preload></video><br>
 
-[gif 21]
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/21.webm" controls loop="loop" preload></video><br>
 
 ### Combat bomb
 
 Throw your bomb right so it explodes as it hits an enemy. Usually the best way to catch an enemy off guard is to aim it just behind their character or at their head.
 
-[gif 22]
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/22.webm" controls loop="loop" preload></video><br>
 
 ### Bomb and jab/slash combo
 
 The idea is to light a bomb and throw it behind the enemy (don't do it too early -- you don't want them to throw it back), dealing 3 hearts of damage and stunning them for a short while, allowing you to do another jab and kill the enemy.
 
-[gif 23]
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/23.webm" controls loop="loop" preload></video><br>
 
 If the enemy is far away, you can also do it with a slash (to have bigger range)
 
@@ -169,17 +169,17 @@ If the enemy is far away, you can also do it with a slash (to have bigger range)
 
 Bombs in water will rise very quickly upwards. This can be used to surprise an enemy.
 
-[gif 25]
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/25.webm" controls loop="loop" preload></video><br>
 
 ### Catching and throwing back enemy bombs
 
 You can catch enemy bombs and throw them back! The best way to do this is to catch with C and throw with Space. This is because the Space key cannot catch, only throw -- so it prevents you catching the bomb, throwing it, and catching it again -- which might happen if you just spam C. Be careful doing this -- if the enemy throws their bomb very late, you will just blow yourself up. 
 
-[gif 26]
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/26.webm" controls loop="loop" preload></video><br>
 
 Water bombs can also be caught, but you have to be careful, since water bombs will explode on impact. You must dodge the bomb, or catch it before it touches anything else. It’s best to do this when the bomb gets thrown above your head, as in the example below.
 
-[gif 27]
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/27.webm" controls loop="loop" preload></video><br>
 
 ## Combos after landing a successful slash
 
@@ -192,17 +192,13 @@ If you're good and fast enough, just by landing one successful slash (or just do
 - Move away and then shield slide the enemy to break their shield
 - Jab again
 
-[gif 28]
-
-[gif 29]
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/28.webm" controls loop="loop" preload></video><br>
 
 ### Slash + jab + overhead jab
 
 A successful slash / double slash + jab combined with an overhead jab. The enemy will still be ‘in shock’ from the slash + jab and usually won’t be fast enough to shield the final jab.
 
-[gif 31]
-
-[gif 32]
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/31.webm" controls loop="loop" preload></video><br>
 
 ## Noanims
 
