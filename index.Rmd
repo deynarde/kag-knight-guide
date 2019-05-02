@@ -28,3 +28,5 @@ We hope it'll help people who try to get better at knight. We’re going to cove
 > For a tutorial on playing as builder see [Builder Guides](https://deynarde.github.io/kag-builder-guide/).
 
 > Also you can contact us on [KAG Discord](https://discord.gg/kag) (`bunnie#8671`, `deynarde#4491`).
+
+> Thanks to Turtlebutt and Homek for help with recording gifs.
