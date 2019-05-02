@@ -107,6 +107,10 @@ When you have height advantage over the enemy (at least 3 blocks), you can just 
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/147.webm" controls loop="loop" preload></video><br>
 
+Also, you can jab after every successful slashstomp:
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/hura.webm" controls loop="loop" preload></video><br>
+
 ### Cancelling and baiting with a double slash
 
 This is somewhat related to the above and is a very fun trick to do. Basically, the idea is to charge a double slash, but only slash once, then shield. This way, you will get closer to the enemy, which will think you want to double slash them and try to counterjab, but will jab your shield instead.
