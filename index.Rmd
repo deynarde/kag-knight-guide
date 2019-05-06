@@ -1,4 +1,4 @@
---- 
+---
 title: "Knight Guides"
 subtitle: "Tender is the Knight"
 author: "by Bunnie and deynarde"
@@ -19,14 +19,14 @@ description: "A KAG knight guide for both new and experienced players."
   <img src="imgs/logo.png">
 </p>
 
-We’ve read many tutorials concerning the knight gameplay, both on THD forums and Steam community hub and most of them were either shallow or outdated. Considering we have lots of new players coming with KAG F2P release we decided to write this new player friendly guide.
+We have read many tutorials concerning knight gameplay, both on the THD Forums and Steam Community Hub, and most of them were either shallow or outdated. Considering we will have lots of new players coming with the KAG F2P release we have decided to write a new player friendly guide for the knight class.
 
-We hope it'll help people who try to get better at knight. We’re going to cover everything: improving your skills on various levels, how to play on CTF, how to deal with high ping or bugs, and every knight trick/move you can do in this game and much more. It may seem like a lot, but knight combat is very extensive and if you really want to get better this guide will certainly help you.
+We hope this guide will help people who are trying to get better at knight. We are going to cover everything including; improving your skill to various levels, how to play CTF, how to deal with high ping or bugs, every knight trick/move you can do in this game and much more. It may seem like a lot, but knight combat is very extensive and if you want to get better this guide will certainly help you.
 
 > For just a collection of knight tips and tricks see the [Knight Compendium](https://deynarde.github.io/kag-knight-compendium/).
 
 > For a tutorial on playing as builder see [Builder Guides](https://deynarde.github.io/kag-builder-guide/).
 
-> Also you can contact us on [KAG Discord](https://discord.gg/kag) (`bunnie#8671`, `deynarde#4491`).
+> You can contact us on [KAG Discord](https://discord.gg/kag) (`bunnie#8671`, `deynarde#4491`).
 
-> Thanks to Turtlebutt and Homek for help with recording gifs.
+> Thanks you to Turtlebutt and Homek for help with recording gifs.
