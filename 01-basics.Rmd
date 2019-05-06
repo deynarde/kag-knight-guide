@@ -74,7 +74,7 @@ Not specifically a knight-only move, but you can stomp the enemy if you fall ont
 
 ---
 
-You can do much more with these moves -- you can perform combos, such as slashing someone and then quickly jabbing them after; but you'll learn about that later on. For now, it's important to know the theory on how knight combat works. The one thing you should remember is to mostly use slashes for now -- the most common mistake a newbie can do is to jab spam, which is easily countered by shielding, and can quickly get you killed.
+You can do much more with these moves -- you can chain combos, such as slashing someone and then quickly jabbing them after; but you'll learn about that later on. For now, it's important to know the theory on how knight combat works. The one thing you should remember is to mostly use slashes for now -- the most common mistake a newbie can do is to jab spam, which is easily countered by shielding, and can quickly get you killed.
 
 ---
 
@@ -96,7 +96,7 @@ Keep in mind that if you throw the bomb too early the enemies can pick it up and
 
 ### Waterbombs
 
-Waterbombs explode on impact and stun for a short duration. If shielded, they stun for a slightly shorter time. You can also put a sponge in your inventory (bought at TDM trader shop or CTF builder shop) that will reduce the stun duration. If you successfully stun someone with a water bomb, you can follow up with a counter attack, such as a double slash to kill.
+Waterbombs explode on impact and stun for a short duration. If shielded, they stun for a slightly shorter time. You can also put a sponge in your inventory (bought at TDM trader shop or CTF builder shop) that will reduce the stun duration. If you successfully stun someone with a water bomb, you can follow up with an attack, such as a double slash to kill.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/17.webm" controls loop="loop" preload></video>
 
@@ -125,7 +125,7 @@ Kegs (costs 120 coins in knight shop) are powerful and unshieldable explosive it
 
 ## Mobility
 
-One of the most important things to learn when you're starting to play KAG is how to navigate the terrain properly. If you don't feel comforatble with your character and its movement, you will have trouble slashing your enemies from a distance or even avoiding enemy attacks. You have to be able to move around obstacles freely, consistently use wall jumps, use your slash to gain additional momentum or jump forward while slashing to quickly move through terrain.
+One of the most important things to learn when you're starting to play KAG is how to navigate the terrain properly. If you don't feel comfortable with your character and its movement, you will have trouble slashing your enemies from a distance or even avoiding enemy attacks. You have to be able to move around obstacles freely, consistently use wall jumps, use your slash to gain additional momentum or jump forward while slashing to quickly move through terrain.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/25.webm" controls loop="loop" preload></video>
 
@@ -137,13 +137,13 @@ There's not much to explain regarding basic movement -- it will take practice. I
 
 ## Learning
 
-Every time you die to someone, ask yourself a question -- why did I die? Could I have done something to avoid death? Did I mess up timing or get baited by the enemy? Always try to learn from your mistakes and learn minimize them as much as possible. Look at what you're doing wrong (jabbing enemy's shield, bad slash timing and so on) and try to optimize your playstyle.
+Every time you die to someone, ask yourself a question -- why did I die? Could I have done something to avoid death? Did I mess up timing or get baited by the enemy? Always try to learn from your mistakes and learn to minimize them as much as possible. Look at what you're doing wrong (jabbing enemy's shield, bad slash timing and so on) and try to optimize your playstyle.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/29.webm" controls loop="loop" preload></video><br>
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/30.webm" controls loop="loop" preload></video>
 
-Remember to slash often -- if you constantly slash, the enemies will be afraid to get closer to you. Make use of double slashes as well -- the first slash break through the shield and the second one deals 2 hearts of damage, as mentioned earlier.
+Remember to slash often -- if you constantly slash, the enemies will be afraid to get closer to you. Make use of double slashes as well -- the first slash breaks the shield and the second one deals 2 hearts of damage, as mentioned earlier.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/31.webm" controls loop="loop" preload></video><br>
 
