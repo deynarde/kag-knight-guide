@@ -14,7 +14,7 @@ The hitbox of a knight is an octagon.
 
 Both jab and slash are shaped as arcs, which move with your character and are active for a certain duration (slashes last much longer than jabs).
 
-Your shield covers an arc around your character centred on the direction you point your mouse. If you were hit through your shield by someone – ask yourself if you were pointing in the right direction to cover the full arc of the attack.
+Your shield covers an arc around your character centered on the direction pointed by your mouse. If you were hit through your shield by someone – ask yourself if you were aiming at the right direction to cover the full arc of the attack.
 
 It is possible to see your hit boxes by going into solo sandbox mode, opening the console (by pressing HOME key) and typing `/g_debug 1`.
 
