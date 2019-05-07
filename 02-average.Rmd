@@ -10,78 +10,78 @@ We'll start this section with a word about hitboxes in KAG:
 
   <img src="imgs/knightmodel.png">
 
-The game models a knight as an octagon.
+The hitbox of a knight is an octagon.
 
-Both jab and slash are shaped as arcs, which move with your character and are active for a certain duration (slash lasts much longer than jab).
+Both jab and slash are shaped as arcs, which move with your character and are active for a certain duration (slashes last much longer than jabs).
 
-Your shield covers an arc around your character centered on the direction your mouse is pointing. If you think that you were hit through your shield by someone – ask yourself, were you pointing in the right direction to cover the full arc of the attack?
+Your shield covers an arc around your character centered on the direction pointed by your mouse. If you were hit through your shield by someone – ask yourself if you were aiming at the right direction to cover the full arc of the attack.
 
-It is possible to see the hit boxes for yourself by going into solo sandbox mode, opening the console (by pressing Home key) and typing `/g_debug 1`.
+It is possible to see your hit boxes by going into solo sandbox mode, opening the console (by pressing HOME key) and typing `/g_debug 1`.
 
 ## On learning itself
 
-If you want to get better at knight quickly, playing lots of TDM is a good choice here, but in our opinion the __best way to train knight is to play lots of 1v1__ -- sometimes with people at your skill level, and sometimes with people slightly better than you. 1v1s are the best for this because they allow you to fully focus on the knight combat, while in TDM you have to watch out for archers (and water bombs, which aren't used in 1v1s) and in CTF -- you should care about winning the game, not KDR.
+If you want to get better at knight quickly, a good choice is to play a lot of TDM, but in our opinion the __best way to train is to play lots of 1v1s__ -- sometimes with people at your skill level and sometimes with people slightly better than you. 1v1s are the best for this because they allow you to fully focus on the knight combat, while in TDM you have to watch out for archers (and water bombs, which aren't used in 1v1s) or in CTF -- you are more focused on winning the game, not KDR.
 
-You should always try to be as consistent as possible. For a lot of moves, you just need to get into the habit of using them. If you really want to get better, we recommend always focusing and actually *trying*, no matter what enemies you are playing against or what mode it is; constantly playing optimally helps you train your muscle memory and helps getting used to the mechanics of knight combat in KAG. This applies no matter how good at knight you are -- you should always give your best, constantly becoming better this way.
+You should always try to be as consistent as possible. For a lot of moves, you just need to get into the habit of using them. If you really want to get better, we recommend always focusing and actually *trying*, no matter who you are playing against or what mode it is; playing optimally helps you  in training muscle memory and getting used to the mechanics of knight combat. This applies to anyone, no matter you skill at knight -- you should always give your best. Doing this will make you a better player.
 
-As mentioned in the first chapter, analyzing your play style and mistakes also helps a lot. Of course, it's hard to do it in real-time, so some knights decide to record their gameplay (mainly of 1v1) and analyze the videos later. 
+As mentioned in the first chapter, analysing your play style and mistakes also helps a lot. It may be hard to do it in real-time, so you may decide to record your gameplay and analyse the videos later. We suggest recording your 1v1 gameplay.
 
-Summary -- don't stop trying, always give your best, and try to use the moves and tricks you learned here in actual matches, don't be afraid to experiment with your play style.
+In Summary -- don't stop trying, always give your best, and try to use the moves and tricks you learned here in actual matches, don't be afraid to experiment with your play style.
 
 ## More on mobility
 
-At this point, it's good to learn basic mobility tricks, such as these (taken from the [Knight Compendium](https://deynarde.github.io/kag-knight-compendium/) mentioned earlier) -- they're useful more often than you may think, so you should be able to do them consistently. Good mobility is as important as good timing and reflex.
+At this point, it would be good to learn basic mobility tricks, such as these (taken from the [Knight Compendium](https://deynarde.github.io/kag-knight-compendium/) mentioned earlier) -- they're useful in more situations than you may think, so you should be able to do them consistently. Good mobility is as important as good timings and reflexes.
 
 ### Slash jumping
 
-A knight can jump higher than normal by slashing to give themselves some extra velocity. Time your slash so that it triggers just after you start your jump. It can be combined with upwards shield gliding in order to get extra height. Also, by pushing off the wall as you near the top and then floating back onto it you can climb an extra block -- you can climb up to 8 blocks. It's useful e.g. when you're escaping from the enemies' base with their flag.
+A knight can jump higher than normal by slashing to give extra velocity. Time your slash so that it triggers just after you start your jump. It can be combined with an upwards shield glide in order to get extra height. By pushing off the wall as you near the top and then floating back onto, you can also climb an extra block -- in total up to 8 blocks. This can be useful when you're escaping from the enemies' base with their flag.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/1.webm" controls loop="loop" preload></video><br>
 
-You can also do the same with a double slash -- up to 10 blocks can be climbed this way.
+You can also do the same with a double slash -- a total of 10 blocks can be climbed this way.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/2.webm" controls loop="loop" preload></video><br>
 
 ### Faster movement during slash charging
 
-Aiming in the same direction to which you are moving will allow you to go a little faster when charging an attack. __You should pretty much always do this!__
+Aiming in the same direction to which you are moving will allow you to move a little faster while charging an attack. __You should always do this!__
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/3.webm" controls loop="loop" preload></video><br>
 
 ### Quick shield slide
 
-Shield sliding is done by pointing the mouse below your character and shielding. But you can move significantly faster by __rapidly tapping the W key as you are sliding.__ For maximum speed, try and hit W as soon as you hit the ground on each bounce. Very useful when you're escaping from several enemies, or escaping from an enemy charging a double slash.
+Shield sliding is performed by pointing the mouse below your character and shielding. But you can move significantly faster by __rapidly tapping the W key as you slide.__ For maximum speed, try to hit W as soon as you hit the ground on each bounce. Shield sliding is very useful when you're escaping from several enemies, or from an enemy charging a double slash.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/4.webm" controls loop="loop" preload></video><br>
 
 ### Climbing arrows
 
-It is possible to climb arrows that archers shoot into a tower. It is also possible to navigate around platforms on towers if there are enough arrows.
+It is possible to climb arrows that have been shot into blocks. It is also possible to navigate around platforms on towers if there are enough arrows.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/5.webm" controls loop="loop" preload></video><br>
 
 ### Using walls for extra velocity
 
-Pushing off a wall gives you a small burst of speed. This speed boost can be extremely useful to help you win a slash timing. Good to use against people playing defensively as well.
+Pushing off a wall will give you a small burst of speed. This speed boost can be extremely helpful to win a 1v1 by utilising slash timings. This technique is very good against people playing defensively.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/8.webm" controls loop="loop" preload></video><br>
 
 
 ### Following a retreating enemy through doors
 
-As an enemy player runs through team doors, they are momentarily left open. This gives you enough time to follow them through. You can often get to enemy shops or flags this way in a CTF game.
+After an enemy player runs through his team's doors, the doors are momentarily left open. This can give you enough time to walk through them. You can often get to enemy shops or flags using this in a CTF game.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/9.webm" controls loop="loop" preload></video><br>
 
 ### Water buoyancy
 
-As you wall-climb while underwater you receive a significant speed boost. This can be very useful for surprising your enemy with an upwards slash.
+If you wall-climb while underwater you receive a significant speed boost. This can be very useful for surprising your enemy with an upwards slash.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/10.webm" controls loop="loop" preload></video><br>
 
 ### Small shield glide
 
-A shield slide can be performed even on a 1 block wide tower. This can be very helpful in CTF to get some extra speed for crossing gaps.
+A shield slide can be performed even on a single block. This can be very helpful in CTF to get some extra speed for crossing larger gaps.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/11.webm" controls loop="loop" preload></video><br>
 
@@ -105,17 +105,17 @@ Shield sliding onto water will allow you to do a little bounce before you sink. 
 
 ### Bomb jumps
 
-Mentioned in [Knight I: The basics], this is when knights use bombs to send themselves flying across the map. The simplest bomb jump is a single bomb jump. Light your bomb, drop it on the ground and right as it is about to explode jump into the air and shield.
+Mentioned in [Knight I: The basics], a bomb jump is when knights use bombs to send themselves flying into the air. The simplest bomb jump is a single bomb jump. To perform a single bomb jump, light the bomb, drop it on the ground and as it is about to explode, jump into the air and shield towards the bomb.
 
-Timing is crucial here, and if you time it so you jump and shield at the last possible moment you will go much further (perhaps almost twice as far).
+Timing is crucial to performing bomb jumps. If you time it so you jump and shield at the last possible moment you will go much further (sometimes almost twice as far).
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/15.webm" controls loop="loop" preload></video><br>
 
-You can also do bomb jumps while midair:
+You can also perform bomb jumps midair:
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/16.webm" controls loop="loop" preload></video><br>
 
-They're good for getting around obstacles in CTF, so you should definitely use them often there.
+Bomb jumps are good for getting around obstacles in CTF, so you should become very comfortable with them. You should always look for situations to utilise them to your advantage.
 
 You can also do multi bomb jumps -- read more about them in [Playing CTF] section.
 
@@ -128,15 +128,15 @@ If you feel like your mobility is already decent enough, you can move to the nex
 
 ## More on combat and using your sword
 
-Most three important things at this level are:
+The three most important things at this level are:
 
 ### Slashing fast
 
-As mentioned in chapter 1, this is very important. __You should be able to do slashes as soon as it's possible__ (after half a second -- watch your cursor). The same applies to double slashes (38 ticks, that is 1 and 1/4 of a second).
+As mentioned in chapter 1, this is very important. __You should be able to do slashes as soon as it's possible__ (after half a second -- watch your cursor for timings). The same applies to double slashes (38 ticks, that is 1.25 seconds).
 
 ### Jab after successful slashes
 
-This may be obvious, but actually I see this very rarely used, especially on CTF. Basically, you can __jab right after successfully slashing someone__ -- the slashed person is stunned for a short while (2/3 of a second), which allows you to land an additional jab in that time (thus dealing in total 3 hearts of damage). You should almost always do this (the exception is when you're fighting several enemies at once -- to prevent accidentally jabbing someone's shield, you should generally just spam slashes). 
+This may be obvious, but it is very rarely used by newer players, especially on CTF. You can __jab right after successfully slashing someone__ -- the slashed person is stunned for a short while (2/3s of a second) which allows you to land an additional jab in that time (thus dealing a total of 3 hearts of damage). You should almost always do this, the exception is when you're fighting several enemies at once -- this prevents accidentally jabbing someone's shield. In these situations you should generally focus on using slashes).
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/18.webm" controls loop="loop" preload></video><br>
 
@@ -145,95 +145,96 @@ This may be obvious, but actually I see this very rarely used, especially on CTF
 
 ### Low jumps while slashing
 
-This is another very important mechanic that you should get into the habit of doing. You should almost always slightly jump while slashing -- you gain additional horizontal momentum, thus cover a bigger distance, and make your sword's slash range bigger (slash range depends on your momentum).
+This is another very important mechanic that you should get into the habit of using. You should almost always slightly jump while slashing -- doing this allows you to gain additional horizontal momentum, thus cover a larger distance, with the added benefit of making your sword's slash range longer (slash range depends on your momentum).
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/20.webm" controls loop="loop" preload></video><br>
 
-Keep in mind that you should only jump SLIGHTLY. This is a very common mistake people make - jumping too high while slashing makes your slash range worse than if you would actually not jump at all (slashing below you when you're going up has a very small range), and makes it easier for enemies to slash you from below.
+Keep in mind that your jumps should be small. A very common mistake people make is that they jump too far - jumping too high while slashing makes your slash range worse than if you would actually not jump at all (slashing below you when you're going up has a very small range), making it easier for enemies to slash you from below.
 
 ---
-These are the 3 most important things at this level: slashing fast, jabbing after succesful slashes, and doing low jumps while slashing. Train these until it feels natural and you do it instinctively.
+These are the 3 most important things at this level: slashing fast, jabbing after successful slashes and performing low jumps while slashing. Train these until it feels natural and you do it instinctively.
 ---
-There are some more things you should keep in mind, such as:
+Additionally, there are a few more things you can keep in mind, such as:
 
 ### Using double slashes
 
-Another common mistake is just constantly single slashing a shielding enemy. Some people use double slashes too rarely, while they're also a very good counter against defensive play style, and you can always land a jab after doing one successfully:
+Another common mistake is just constantly single slashing a shielding enemy. Some people use double slashes too rarely. Double slashes are a very good counter against defensive playstyles. Additionally, you can always land a jab after connecting with a double slash:
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/22.webm" controls loop="loop" preload></video><br>
 
-Of course, this can also be countered by good players, but you'll learn more about it in the next chapter.
+Be wary, double slashing can be countered by good players, but you'll learn more about this in the next chapter.
 
-This is also very good to use after doing a successful slash+jab combo. Basically, once you do your slash, your enemy is likely to put his shield up and start retreating. You can follow him and double slash for an easy finish. Keep in mind it may not work against better players -- they can just jab.
+Double slashes are also very good to use after doing a successful slash/jab combo. Once you perform a slash, your enemy is likely to put his shield up and start retreating. You can follow him and double slash for an easy follow up. Keep in mind that this many not work against better players -- they can just jab to break your charging animations.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/23.webm" controls loop="loop" preload></video><br>
 
-### Attacking an enemy stunned by jabbing your shield
+### Attacking an enemy who is stunned from jabbing your shield
 
-If your enemy makes a mistake and jabs your shield, you should pretty much always damage him somehow, and get into the habit of doing it.
+If an enemy makes the mistake of jabbing your shield, you can pretty much always follow up with some damage. You should get into the habit of doing this.
 
-There are 3 ways of doing this. If someone jabs a shield, he's stunned for 2/3 of a second - that's plenty of time.
+There are 3 ways dealing damage to him. If someone jabs a shield, he's stunned for 2/3s of a second - that is plenty of time to deal your damage.
 
-1. Slashing -- This option is the best and should be done the most often. As soon as you notice the person get stunned by jabbing your shield, start charging a quick slash. If you're fast enough, you should always be able to land a 2 heart slash on the enemy (of course, follow it up with a jab if you slashed successfully)
+1. Slashing -- This option is the best and should be utilised the most often. As soon as you notice the person has been stunned, start charging a single slash. If you're fast enough, you should always be able to land a slash on the enemy (Remember to follow it up with a jab if your slash connected.)
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/24.webm" controls loop="loop" preload></video><br>
 
-2. Jabbing -- If you don't have the reflexes to do slashes yet, and feel like sometimes you'd start charging the slash too slowly, you can just do a single jab. Keep in mind the earlier option is way superior to this one.
+2. Jabbing -- If you don't have the confidence to perform slashes quickly, you can use a single jab. Keep in mind the earlier option superior to this one and you should eventually learn to utilise it.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/25.webm" controls loop="loop" preload></video><br>
 
-3. Double jabbing -- You can actually land two jabs on an enemy stunned by shield jabbing. Just start rapidly clicking as soon as you notice the enemy get stunned. However, keep in mind this is much harder to do than just a slash, and also deals less damage (2 jabs instead of successful slash + jab). Probably requires good ping as well.
+3. Double jabbing -- Furthermore, you can land two jabs on an enemy stunned by shield jabbing. To do this, start rapidly clicking as soon as you notice the enemy has been stunned. However, keep in mind this is much harder and more risky than just a slash and also deals less damage (2 hearts from the jabs instead of 4 hearts from a successful slash + jab). This technique requires good ping to perform consistently.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/26.webm" controls loop="loop" preload></video><br>
 
-Using a double slash is pretty much pointless here (the enemy has time to start shielding, so you deal the same damage as you would by doing a single slash, and the enemy may jab you)
+Using a double slash is pointless in these situations. The enemy will haves time to react and start shielding, so you will deal the same damage as you would by doing a single slash.
 
 ### Counter slashing
 
-If you are against an aggressive player then a way to beat them is to bait them to come forward with their slash or double slash. As they do so, you move back whilst charging your own slash. As their slash ends, you turn and hit them. You can do the same with double slashes.
+If you are against an aggressive player, a good way to beat them is to bait them to attack you with their slash or double slash. As they move towards you, you move backwards whilst charging your own slash. As their slash ends, you move forwards and slash at them. You can do the same with a double slash or jab.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/27.webm" controls loop="loop" preload></video><br>
 
-It's important as well -- it's really hard to counter a defensive play style which focuses on counter slashes. Not impossible, but really hard. Also, this is the best way to fight when you're fighting against several enemies at once - slash, retreat, slash again, and so on.
+Tt is hard to counter a defensive play style which focuses on counter slashing. Counter slashing is also the best way to fight against several enemies at once - a typical combo includes; slash, retreat, slash, and so on.
 
 [gif 29 - fighting against several enemies]
 
 ### Winning slash fights on L shape
 
-In L shape situation, the knight who moves first (red in the image below) tends to lose slash – even if they slashed earlier. This is because they have a large vertical speed but almost no horizontal speed. The knight who moves second (blue) will have a large horizontal speed towards the enemy – and is thus far more likely to win.
+In L shaped environmental situations, the knight who moves first (red in the image below) tends to lose the slash battle – even if red slashed earlier. This is because red have a larger vertical speed but almost no horizontal speed. The knight who moves second (blue) will have a large horizontal speed towards the enemy – and is thus far more likely to connect first and win the fight.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/30.webm" controls loop="loop" preload></video><br>
 
 This situation often occurs in CTF when there are doors on top of towers.
 
-It is worth mentioning that the L-shape situation usually favours the knight coming up from below. This is partly because you can move upwards more quickly than you can move sidewards. Also most of the knight’s body is shielded by the blocks going up the wall. In this GIF the blue and red knight arrive at the intersection at roughly the same time, but the blue knight wins. This is usually the case.
+It is worth mentioning that the L-shape situation usually favours the knight coming up from below. This is partly because you can move upwards more quickly than you can move sideways. Most of the knight’s body is shielded by the blocks going up the wall. In this GIF the blue and red knight arrive together at roughly the same time, but the blue knight wins. This is the typical outcome.
 
 [gif 31]
 
 ## The art of shield bashing
 
-As mentioned earlier, you can quickly shield slide horizontally into someone or shield down while jumping at an enemy to stun him for a short while -- about half a second. This move is most useful in narrow corridors where it cannot be countered by overhead jab or overhead slash.
+As mentioned earlier, you can quickly shield slide horizontally into someone or shield down while jumping at an enemy to stun him for a short while -- about half a second. Shield bashing is most useful in narrow corridors where it cannot be countered by an overhead jab or slash.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/32.webm" controls loop="loop" preload></video><br>
 
-This is good for interrupting enemy slashes, but the beauty of shield bashes comes from being able to jab someone right after shield bashing him. This is another very important aspect of knight combat -- being able to shield bash properly and follow up with jabs can make a big difference, especially when fighting against defensive players.
+Shield bashing is good for interrupting enemy slashes, but the beauty of shield bashes comes from being able to jab someone right after the shield bash connects.
+Shield bashing is a very important aspect of knight combat -- being able to shield bash properly and follow up with attacks can make a big difference, especially when fighting against defensive players.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/34.webm" controls loop="loop" preload></video><br>
 
-There, of course, are several ways to counter shield bashes, which you should also learn -- overhead slashes, overhead jabs and crouches (which you'll learn more about in the next chapter)
+Alternatively, there are several ways to counter shield bashes, all of which you should learn. These include overhead slashing, overhead jabbing and crouching (which you'll learn more about in the next chapter.)
 
-Jump over the shield sliding enemy whilst charging a slash and then hit them in the back. In some of the situations, he won't be even able to put his shield back up, no matter what -- if you're shield sliding really fast the game doesn't let you do it instantly. However, this doesn't happen every time.
+Jumping over the shield sliding enemy whilst charging a slash and then hitting them in the back (either with the charged slash or jab) is a consistent way to beat shield bashers. In some of the situations, the enemy won't even be able to put his shield back up, no matter what -- if you're shield sliding really fast there is a delay between sliding and shielding. However, this doesn't happen every time.
 
 [gif 36 - overhead slash]
 
-You can also just do an overhead jab if you don't have enough time to charge a slash:
+You can also do an overhead jab if you don't have enough time to charge a slash:
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/37.webm" controls loop="loop" preload></video><br>
 
 Keep in mind that in this variation, if the enemy manages to put his shield back up, you may get stunned due to jabbing his shield.
 
-Again, don't be demotivated if this may seem a lot and is hard for you to learn. Many good knights struggled with this - it takes them a while before it clicks and shield bashes just feel natural to them.
+Again, don't be demotivated if this may seem a lot and it is hard for you to learn everything. Many good knights struggled with this - it takes them a while before it clicks and shield bashes just feel natural to them.
 
 ## Playing CTF
 
-At this point it'd be good if you'd visit the section for [Playing CTF] as well.
+At this point it would be good for you to read the section for [Playing CTF] as well.
