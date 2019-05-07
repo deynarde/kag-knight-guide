@@ -237,4 +237,4 @@ Again, don't be demotivated if this may seem a lot and it is hard for you to lea
 
 ## Playing CTF
 
-At this point it would be good fir you to read the section for [Playing CTF] as well.
+At this point it would be good for you to read the section for [Playing CTF] as well.
