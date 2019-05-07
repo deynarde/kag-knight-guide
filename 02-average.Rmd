@@ -162,7 +162,7 @@ Another common mistake is just constantly single slashing a shielding enemy. Som
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/22.webm" controls loop="loop" preload></video><br>
 
-Be wary, double slashing can be countered by good players, but you'll learn more about it this in the next chapter.
+Be wary, double slashing can be countered by good players, but you'll learn more about this in the next chapter.
 
 Double slashes are also very good to use after doing a successful slash/jab combo. Once you perform a slash, your enemy is likely to put his shield up and start retreating. You can follow him and double slash for an easy follow up. Keep in mind that this many not work against better players -- they can just jab to break your charging animations.
 
