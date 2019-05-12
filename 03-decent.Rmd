@@ -113,7 +113,7 @@ Also, you can jab after every successful slashstomp:
 
 ### Cancelling and baiting with a double slash
 
-This is somewhat related to the above and is a very fun trick to do. Basically, the idea is to charge a double slash, but only slash once, then shield. This way, you will get closer to the enemy, which will think you want to double slash them and try to counterjab, but will jab your shield instead.
+This is a very fun trick to do. Basically, the idea is to charge a double slash, but only slash once, then shield. This way, you will get closer to the enemy, which will think you want to double slash them and try to counterjab, but will jab your shield instead.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/15.webm" controls loop="loop" preload></video><br>
 
