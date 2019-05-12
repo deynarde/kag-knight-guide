@@ -14,7 +14,7 @@ Aside from overhead attacks to counter enemies shield sliding into you, you can 
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/1fix.webm" controls loop="loop" preload></video><br>
 
-You can actually crouch while doing any actions, as long as you don't move. Also, you can't see the enemies doing it - there isn't a seperate animation for crouches
+You can actually crouch while doing any actions, as long as you don't move. Also, you can't see the enemies doing it - there are no seperate animations for crouching while doing other actions.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/2,.webm" controls loop="loop" preload></video><br>
 
