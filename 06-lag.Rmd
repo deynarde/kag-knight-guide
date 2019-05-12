@@ -6,7 +6,7 @@
 
 ## Practice
 
-If you want to learn how to play lag, it's basically like relearning KAG. 95% of being able to play with lag is just practice and training -- there's not much to be said in this chapter, however there are some things we'd like to say. But remember -- want to rek on 166 ping, play A LOT on 166 ping. Focus on getting used to your positioning. Timing and whatnot is important of course, __but getting used to where you really are is fundamental__
+If you want to learn how to play lag, it's basically like relearning KAG. 95% of being able to play with lag is just practice and training -- there's not much to be said in this chapter, however there are some things we'd like to say. But remember -- want to rek on 166 ping, play A LOT on 166 ping. Focus on getting used to your positioning. Timing and whatnot is important of course, __but getting used to where you really are is fundamental__. If you want, you can use [Clumsy](https://jagt.github.io/clumsy/download.html), a program which can simulate having high ping on your region's servers.
 
 ## Lag in KAG
 
@@ -24,4 +24,5 @@ Instajabs are still possible with lag (tested on 166 ping), however you really n
 
 Well, this one is at least much easier with ping. You don't need to be able to do double bomb jumps or triple bomb jumps. Just put 4 lit bombs on ground and you will even gain lots more velocity than normal. Actually pretty useful, especially with kegs.
 
-[gif]
+<video style="display:block; max-width:100%; height:auto;" src="webm/06-lag/1.webm" controls loop="loop" preload></video><br>
+
