@@ -141,7 +141,7 @@ If the enemy has a defensive playstyle, you may bomb jump and then slash stomp t
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/18.webm" controls loop="loop" preload></video><br>
 
-However, in some cases it's possible for the enemy to counter it if they're good enough, by slashing above at a correct angle with proper timing:
+However, as mentioned earlier, in some cases it's possible for the enemy to counter it if they're good enough, by slashing above at a correct angle with proper timing:
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/19.webm" controls loop="loop" preload></video><br>
 
