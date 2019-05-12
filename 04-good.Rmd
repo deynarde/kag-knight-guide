@@ -13,7 +13,7 @@ You'll learn about the final tricks which you should learn now, requiring very g
 
 An aggressive but extremely fun move; a jab charge is a quick shield slide to gain speed followed by a jab. This is an effective way to interrupt someone who is charging a slash -- but for it to succeed it must be done with extreme speed and good timing.
 
-[gif 1]
+<video style="display:block; max-width:100%; height:auto;" src="webm/04-good/1.webm" controls loop="loop" preload></video><br>
 
 ### Instajabs
 
@@ -24,34 +24,35 @@ Basically -- there's a small delay between slashing and putting your shield back
 During that small delay, and right after your stun from being slashed in the shield is finished, you can jab the enemy. It requires good timing and quite a bit of training, honestly -- which is why we have a bot (credit to Vamist) to train it, which you can download in the Miscellanous section.
 
 POV of instajabbing person:
-[gif 3]
+<video style="display:block; max-width:100%; height:auto;" src="webm/04-good/3.webm" controls loop="loop" preload></video><br>
 
 POV of instajabbed person:
-[gif 4]
+<video style="display:block; max-width:100%; height:auto;" src="webm/04-good/4.webm" controls loop="loop" preload></video><br>
 
 ### Jab after being slashed+jabbed
 
 You can jab right after being slashed + jabbed:
 
-[gif 69]
+<video style="display:block; max-width:100%; height:auto;" src="webm/04-good/69.webm" controls loop="loop" preload></video><br>
 
 ### Slash stomping (hard)
 
 Start charging a slash, jump from the highest point of the enemy (as mentioned earlier, the players' model is an octagon) shielding up and try to land on a lower point, slightly to the side. This way the slash pierces their shield, and the additional velocity allows you to do a 1 heart stomp.
 
-[gif 5]
+<video style="display:block; max-width:100%; height:auto;" src="webm/04-good/5.webm" controls loop="loop" preload></video><br>
 
 ### Shield bash + double jab
 
 Rather hard move to do, requires good timing and familarity with shield bashes. Basically, shieldbash someone and then very quickly double jab.
 
-[gif 6]
+<video style="display:block; max-width:100%; height:auto;" src="webm/04-good/6.webm" controls loop="loop" preload></video><br>
 
 ### Shield bash + slash
 
 This one is more trivia than an actual trick -- it's very hard to do this consistently. Basically, you need to do the fastest slash possible right after stunning the enemy. You basically need to start charging the slash before you know the enemy is even stunned, which is why it's so hard.
 
-[gif 7]
+<video style="display:block; max-width:100%; height:auto;" src="webm/04-good/7.webm" controls loop="loop" preload></video><br>
+
 
 ### Blitz crouch
 
@@ -59,23 +60,24 @@ This is a more advanced way to get 'inside' the enemy so you can attack him (cre
 
 At this point, you can phase through the enemy and attack them.
 
-[gif 8]
+<video style="display:block; max-width:100%; height:auto;" src="webm/04-good/8.webm" controls loop="loop" preload></video><br>
 
 ### Glue after crouch
 
 When you and the enemy keep walking into each other, you can move back slightly, crouch and wait for him to get inside you, then release the crouch and start walking forawrd. In some cases you may glue yourself to the enemy -- you should use this to your advantage and slash your enemy when he's confused and doesn't know what direction to shield. On your enemy's screen, you aren't inside him.
 
 Enemy's POV:
-[gif55]
+<video style="display:block; max-width:100%; height:auto;" src="webm/04-good/55.webm" controls loop="loop" preload></video><br>
 
 Your POV:
-[gif56]
+<video style="display:block; max-width:100%; height:auto;" src="webm/04-good/56.webm" controls loop="loop" preload></video><br>
 
 ### Shieldslide crouch
 
 Best works on flat terrain. Basically, do a quick shieldslide, but stop when you're getting closer to the enemy. Start holding S. You will still have the momentum from the crouch and will get inside the enemy. If done with certain timing, it can glue the enemy with you as shown above. Hard to do consistently, so it's again more trivia than an actually useful trick.
 
-[gif 9]
+<video style="display:block; max-width:100%; height:auto;" src="webm/04-good/9.webm" controls loop="loop" preload></video><br>
+<video style="display:block; max-width:100%; height:auto;" src="webm/04-good/10.webm" controls loop="loop" preload></video><br>
 
 ## Becoming the best
 
