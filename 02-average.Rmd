@@ -89,7 +89,7 @@ A shield slide can be performed even on a single block. This can be very helpful
 
 Slashing can sometimes be used as an escape mechanism due to the small speed boost it gives.
 
-[new giffo ura]
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/slashescape.webm" controls loop="loop" preload></video><br>
 
 ### Tower wall jump
 
@@ -225,7 +225,7 @@ Alternatively, there are several ways to counter shield bashes, all of which you
 
 Jumping over the shield sliding enemy whilst charging a slash and then hitting them in the back (either with the charged slash or jab) is a consistent way to beat shield bashers. In some of the situations, the enemy won't even be able to put his shield back up, no matter what -- if you're shield sliding really fast there is a delay before putting your shield back up. However, this doesn't happen every time.
 
-[gif 36 - overhead slash]
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/overheadslash.webm" controls loop="loop" preload></video><br>
 
 You can also do an overhead jab if you don't have enough time to charge a slash:
 
