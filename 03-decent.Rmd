@@ -24,7 +24,7 @@ You can actually crouch while doing any actions, as long as you don't move. Also
 
 Crouches are a very good counter against stomps as well. If you see someone jumping at you from a distance (with their shield down) you should almost always crouch.
 
-[new gif ura 1]
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/new1.webm" controls loop="loop" preload></video><br>
 
 Keep in mind, however, that you can counter a crouching enemy by slashing them right before landing on them. If someone is charging a slash and wants to land on you, crouching probably isn't a good idea.
 
@@ -36,7 +36,7 @@ If the enemy crouches and you get inside them, you can also make use of that and
 
 __You must attack in the direction they're shielding, or instead the shield will protect them from the attack.__
 
-[new gif 2 ura]
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/new2.webm" controls loop="loop" preload></video><br>
 
 If you're fighting against a player who knows this technique, you can prevent them from damaging you by rapidly changing your direction of shielding.
 
@@ -75,7 +75,7 @@ A counter jab punishes the enemy for missing their attack. As the enemy ends the
 
 It's a good way to play against players who just slashspam - bait them to jump at you with their slash, dodge it and then quickly jab right after.
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/14.webm" controls loop="loop" preload></video><br>
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/dodgejab.webm" controls loop="loop" preload></video><br>
 
 ### Overhead jab
 
@@ -99,7 +99,7 @@ Beware though – if you have only 1 heart, a good enemy will instantly jab you 
 
 Sometimes, when you and the enemy are shielding each other, you may attempt to do a fake jab to make the enemy think you jabbed their shield, then start shielding right after, like in the gif:
 
-[gif69]
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/fakejab.webm" controls loop="loop" preload></video><br>
 
 ### Slash stomping (easy version)
 
@@ -167,7 +167,7 @@ The idea is to light a bomb and throw it behind the enemy (don't do it too early
 
 If the enemy is far away, you can also do it with a slash (to have bigger range)
 
-[gif 23.2]
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/bombslash.webm" controls loop="loop" preload></video><br>
 
 ### Water buoyancy for bombs
 
