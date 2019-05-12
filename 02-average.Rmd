@@ -208,7 +208,7 @@ This situation often occurs in CTF when there are doors on top of towers.
 
 It is worth mentioning that the L-shape situation usually favours the knight coming up from below. This is partly because you can move upwards more quickly than you can move sideways. Most of the knight’s body is shielded by the blocks going up the wall. In this GIF the blue and red knight arrive together at roughly the same time, but the blue knight wins. This is the typical outcome.
 
-[gif 31]
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/lshape.webm" controls loop="loop" preload></video><br>
 
 ## The art of shield bashing
 
