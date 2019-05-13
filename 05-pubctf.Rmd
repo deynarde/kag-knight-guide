@@ -24,7 +24,7 @@ Using them to bomb jump to the enemy base also is a very good strategy.
 
 [gif 3]
 
-You can also use them in this way -- if only one block thick wall (not doors) seperates you from the enemy, you can kill the enemy through the block:
+You can also use them in this way -- if only one block thick wall (not doors) seperates you from the enemy builder, you can kill the enemy through the block:
 
 [gif 4]
 
