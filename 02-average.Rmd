@@ -182,7 +182,7 @@ There are 3 ways dealing damage to him. If someone jabs a shield, he's stunned f
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/25.webm" controls loop="loop" preload></video><br>
 
-3. Double jabbing -- Furthermore, you can land two jabs on an enemy stunned by shield jabbing. To do this, start rapidly clicking as soon as you notice the enemy has been stunned. However, keep in mind this is much harder and more risky than just a slash and also deals less damage (2 hearts from the jabs instead of 4 hearts from a successful slash + jab). This technique requires good ping to perform consistently.
+3. Double jabbing -- Furthermore, you can land two jabs on an enemy stunned by shield jabbing. To do this, start rapidly clicking as soon as you notice the enemy has been stunned. However, keep in mind this is much harder and more risky than just a slash and also deals less damage (2 hearts from the jabs instead of 3 hearts from a successful slash + jab). This technique requires good ping to perform consistently.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/26.webm" controls loop="loop" preload></video><br>
 
