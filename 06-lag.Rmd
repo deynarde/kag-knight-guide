@@ -6,7 +6,7 @@
 
 ## Practice
 
-If you want to learn how to play with lag, and you mostly play with good ping, it's basically like relearning KAG. 95% of being able to play with lag is just practice and training -- there's not much to be said in this chapter, however there are some things we'd like to say. But remember -- want to rek on 166 ping, play A LOT on 166 ping. Focus on getting used to your positioning. Timing and whatnot is important of course, __but getting used to where you really are is fundamental__. If you want, you can use [Clumsy](https://jagt.github.io/clumsy/download.html), a program which can simulate having high ping on your region's servers.
+If you want to learn how to play with lag, and you mostly play with good ping, it's basically like relearning KAG. Most of being able to play with lag is just practice and training -- there's not much to be said in this chapter, however there are some things we'd like to say. But remember -- want to dominate on 166 ping, play **a lot** on 166 ping. Focus on getting used to your positioning. Timing and whatnot is important of course, __but getting used to where you really are is fundamental__. If you want, you can use [Clumsy](https://jagt.github.io/clumsy/download.html), a program which can simulate high latency.
 
 ## Lag in KAG
 

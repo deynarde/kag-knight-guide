@@ -17,7 +17,7 @@ An aggressive but extremely fun move; a jab charge is a quick shield slide to ga
 
 ### Instajabs
 
-This is a very important move in high end duels. It allows you to damage 99% of knights that slash your shield, even if they shield right after.
+This is a very important move in high end duels. It allows you to damage knights that slash your shield, even if they shield right after.
 
 Basically -- there's a small delay between slashing and putting your shield back up. If you put your shield up right after slashing, the animation may show, but the shield won't actually be there. Moreover, it usually ends up causing messed up animations (if the enemy does an instajab) -- because on your screen the enemy jabbed the shield.
 
@@ -89,7 +89,7 @@ Best works on flat terrain. Basically, do a quick shieldslide, but stop when you
 
 ## Becoming the best
 
-At this point, you know pretty much all the moves. If you can do all of them, all there's left for you to do is just mastering everything. Keep optimising your playstyle. Of course, you won't ever stop doing mistakes completely, but now you just need to focus on doing them less and less. Train your timing and muscle memory to be even more perfect.
+At this point, you know pretty much all the moves. If you can do all of them, all there's left for you to do is just mastering everything. Keep optimising your playstyle. Of course, you won't ever stop doing mistakes completely, but now you just need to focus on doing them less and less. Train your timing and muscle memory to be even better.
 
 We recommend getting into competitive CTF if you didn't yet. In our opinion, competitive CTF (Captains, clanwars and so on) is much more fun than just plain 1v1s and playing TDMs. You also learn how to teamwork much better there, and in general it's a lot more satisfying to play.
 

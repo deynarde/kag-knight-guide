@@ -4,7 +4,7 @@
   <img src="imgs/flag.png">
 </p>
 
-## Dropping resupplies ('dropping mats')
+## Dropping resupplies (dropping mats)
 
 __Every time you respawn, you should change on your tent/ballista to builder and back to knight.__ This way you drop 100 wood and 30 stone (resupplies) and your builders will love you. It may not seem like a lot, but it really helps your builders.
 
@@ -12,7 +12,7 @@ __Every time you respawn, you should change on your tent/ballista to builder and
 
 ## Buying items
 
-There are a plethora of items to buy in CTF. The more people you kill, the more coins you gain. There's no much point in hoarding all the coins -- you lose some if you die. 
+There is a lot of items to buy in CTF. The more people you kill, the more coins you gain. There's no much point in hoarding all the coins -- you lose some if you die. 
 
 ### Bombs
 
@@ -49,7 +49,7 @@ Countered if enemy has a sponge in inventory (as mentioned in the first chapter)
 
 ### Sponges
 
-If you have one in inventory (builder shop, 15 coins), your stuns from water last much less. Good to buy if you know the enemy team has lots of archers spamming water.
+If you have one in inventory (builder shop, 15 coins), you are stunned for shorter time when hit by water bomb. Good to buy if you know the enemy team has lots of archers spamming water.
 
 ### Mines
 
