@@ -8,7 +8,7 @@
 
 __Every time you respawn, you should change on your tent/ballista to builder and back to knight.__ This way you drop 100 wood and 30 stone (resupplies) and your builders will love you. It may not seem like a lot, but it really helps your builders.
 
-[gif 1]
+<video style="display:block; max-width:100%; height:auto;" src="webm/05-ctf/1.webm" controls loop="loop" preload></video><br>
 
 ## Buying items
 
@@ -18,17 +18,21 @@ There are a plethora of items to buy in CTF. The more people you kill, the more 
 
 Most knights decide to buy bombs (knight shop, 25 coins). They're good for killing enemy builders and archers, especially when they try to escape from you. 
 
-[gif 2]
+<video style="display:block; max-width:100%; height:auto;" src="webm/05-ctf/2.webm" controls loop="loop" preload></video><br>
 
 Using them to bomb jump to the enemy base also is a very good strategy.
 
-[gif 3]
+<video style="display:block; max-width:100%; height:auto;" src="webm/05-ctf/3.webm" controls loop="loop" preload></video><br>
 
 You can also use them in this way -- if only one block thick wall (not doors) seperates you from the enemy builder, you can kill the enemy through the block:
 
-[gif 4]
+<video style="display:block; max-width:100%; height:auto;" src="webm/05-ctf/4.webm" controls loop="loop" preload></video><br>
 
 Good for killing builders ratting in your tower.
+
+If you're protecting a builder in a situation like this, you should shield up - this way the bomb doesn't kill them:
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/05-ctf/4two.webm" controls loop="loop" preload></video><br>
 
 ### Burgers
 
@@ -39,9 +43,9 @@ Burgers are also a decent item (quarters, also known as food shop, 20 coins). Th
 They stun the enemy (knight shop, 30 coins). Good for stunning enemies when you're fighting several at once, or stunning archers/builders. Just stun anyone for easily kills. 
 Countered if enemy has a sponge in inventory (as mentioned in the first chapter)
 
-[gif 5]
+<video style="display:block; max-width:100%; height:auto;" src="webm/05-ctf/5.webm" controls loop="loop" preload></video><br>
 
-[gif 6]
+<video style="display:block; max-width:100%; height:auto;" src="webm/05-ctf/5two.webm" controls loop="loop" preload></video><br>
 
 ### Sponges
 
@@ -51,15 +55,21 @@ If you have one in inventory (builder shop, 15 coins), your stuns from water las
 
 Mines are good (knight shop, 60 coins), especially when your team is on the defense. Place at least 1 in flagroom (if enemies get in there, they will be killed by the mine)
 
-[image]
+<p align="left">
+  <img src="webm/05-ctf/i1.png">
+</p>
 
 Place one in tunnels as well -- ratting enemies in most cases don't notice them and die.
 
-[image]
+<p align="left">
+  <img src="webm/05-ctf/i2.png">
+</p>
 
 Placing them next to enemy doors is good as well
 
-[image]
+<p align="left">
+  <img src="webm/05-ctf/i3.png">
+</p>
 
 ### Kegs
 
@@ -67,27 +77,29 @@ Very good explosive (knight shop, 120 coins). Good for destroying enemy structur
 
 Don't fight enemies while holding it -- losing a keg is bad for your team.
 
-[gif 6 - dont do this]
+<video style="display:block; max-width:100%; height:auto;" src="webm/05-ctf/6.webm" controls loop="loop" preload></video><br>
 
 I recommend getting yourself launched from a catapult with a keg as well.
 
-[gif 7]
+<video style="display:block; max-width:100%; height:auto;" src="webm/05-ctf/7.webm" controls loop="loop" preload></video><br>
 
 Kegs, aside from exploding after 6 seconds, explode on impact if they're lit and have enough velocity.
-
-[gif 8]
 
 ### Ballista
 
 Good siege vehicle (siege shop, 200 coins), can be bought if you've got a lot of money. It lets people respawn on it, so I recommend putting it on top of your tower.
 
-[image]
+<p align="left">
+  <img src="webm/05-ctf/i5.png">
+</p>
 
 ### Catapult
 
 Another good siege vehicle (siege shop, 200 coins) -- lets you shoot people with it. Place on top of your tower.
 
-[image]
+<p align="left">
+  <img src="webm/05-ctf/i4.png">
+</p>
 
 ### Arrows for your archers
 
@@ -99,25 +111,27 @@ Aside from dropping mats, there's some other stuff you should do.
 
 ### Protect your builders
 
-Protect your builders that are trying to push the enemies and attack their base. It's very important. Stay with them, kill enemies that try to touch them.
+Protect your builders that are trying to push the enemies and attack their base. Stay with them, kill enemies that try to attack them.
 
-[gif 9]
+<video style="display:block; max-width:100%; height:auto;" src="webm/05-ctf/9.webm" controls loop="loop" preload></video><br>
 
-However, if the builder is trying to rat into the enemy base and places doors, <u>DON'T leave him and DON'T try to fight knights. You can often fail and open the doors for the enemies or just get yourself killed. Stay with the builder.</u>
+However, if the builder is trying to rat into the enemy base and places doors like in the gif below, leaving him to fight knights isn't a good idea.
 
-[gif 10]
+<video style="display:block; max-width:100%; height:auto;" src="webm/05-ctf/10.webm" controls loop="loop" preload></video><br>
+
+In the gif, the knight opened the doors, trying to fight enemies, but died in the process. This causes the death of a builder in 99% situations. If the knight didn't try to attack and didn't die, he could've protected the builder from the builders with drills later on.
 
 ### Catch bombs
 
 Builders and archers have no way to protect themselves from bombs. Catch enemy bombs and throw them back quickly to save them from certain death.
 
-[gif 11]
+<video style="display:block; max-width:100%; height:auto;" src="webm/05-ctf/11.webm" controls loop="loop" preload></video><br>
 
 ### Pick up materials
 
-Pick up materials laying on the ground (in the order: gold > stone > wood) and deliver them to a safe spot or to the closest builder. Do this especially after killing enemy builders.
+Pick up materials laying on the ground (order of importance: gold > stone > wood) and deliver them to a safe spot or to the closest builder. Do this especially after killing enemy builders.
 
-[gif 12]
+<video style="display:block; max-width:100%; height:auto;" src="webm/05-ctf/12.webm" controls loop="loop" preload></video><br>
 
 ## On the defense
 
@@ -129,37 +143,35 @@ Kill the builder at all costs. He's the most dangerous -- without him, it's much
 
 I recommend jumping from the top of the tower and just slashing him.
 
-[gif 13]
+<video style="display:block; max-width:100%; height:auto;" src="webm/05-ctf/6.webm" controls loop="loop" preload></video><br>
 
 ### Mass-keg
 
-You can mass-keg the enemies if there are many of them. HOWEVER, drop the keg as late as possible -- even if it means you will die. If you don't do so, there's a chance the enemies will catch it and use it against your tower.
+You can mass-keg the enemies if there are many of them. However, keep in mind that the enemies could catch it and use it against your tower - so sometimes (if you see a good player that could catch, for example) it's good to kill yourself with the keg.
 
-[gif 14]
+<video style="display:block; max-width:100%; height:auto;" src="webm/05-ctf/14.webm" controls loop="loop" preload></video><br>
 
-[gif 15]
-
-You can also just wait for it to get closer to explosion, and then drop it. Don't need to fear about enemies using it against you this way.
+<video style="display:block; max-width:100%; height:auto;" src="webm/05-ctf/15.webm" controls loop="loop" preload></video><br>
 
 ### Catch enemy kegs 
 
-If you're quick enough, you can catch enemy kegs by jumping and pressing C when the keg is about to hit the ground.
+If you're quick enough, you can catch enemy kegs by jumping and spamming C when the keg is about to hit the ground.
 
-[gif 16]
+<video style="display:block; max-width:100%; height:auto;" src="webm/05-ctf/16.webm" controls loop="loop" preload></video><br>
 
-Also applies to being on the offense - the enemy team may try to mass-keg you.
+Mostly applies to being on the offense - the enemy team may try to mass-keg you.
 
 ### Slash ballista bomb bolts
 
 You can slash ballista bomb bolts with good timing. Greatly helps if you're under heavy siege.
 
-[gif 17]
+<video style="display:block; max-width:100%; height:auto;" src="webm/05-ctf/17.webm" controls loop="loop" preload></video><br>
 
 ### Shield enemy bomb arrows
 
-You should shield enemy bomb arrows, especially when they try to destroy your structures.
+You should shield enemy bomb arrows - especially if they're aimed at weak points in your tower or the flagroom
 
-[gif 18]
+<video style="display:block; max-width:100%; height:auto;" src="webm/05-ctf/18.webm" controls loop="loop" preload></video><br>
 
 ## On the offense
 
@@ -167,29 +179,39 @@ You should shield enemy bomb arrows, especially when they try to destroy your st
 
 Aside from 1-bomb bomb jumps, you may sometimes want to use multi bomb jumps to get to the enemy base:
 
-2 bombs:
+2 bombs (1st bomb on ground, 2nd in hand):
 
-[gif 33]
+<video style="display:block; max-width:100%; height:auto;" src="webm/05-ctf/33.webm" controls loop="loop" preload></video><br>
 
 3 bombs:
 
-[gif 34]
+- Place 1st bomb on ground
+- Light and put 2nd bomb in inventory
+- Light 3rd bomb and replace it with the one in your inventory 
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/05-ctf/34.webm" controls loop="loop" preload></video><br>
 
 ### Enemy tunnels
 
-When you get to the enemy tunnel, constantly double slash it. This way, if any enemies go through it, you kill them easily (they're stunned from tunnel travel).
+When you get to the enemy tunnel, constantly double slash it. This way, if any enemies go through it, you kill them easily (they're stunned from tunnel travel). In some cases, if someone travels and you don't have a double slash charged, you can use a single slash
 
-[gif 19]
+<video style="display:block; max-width:100%; height:auto;" src="webm/05-ctf/19.webm" controls loop="loop" preload></video><br>
 
 If you're certain that they don't have a sawtrap on their other tunnels, you can also try using them to get to their base.
 
-[gif 20]
+<video style="display:block; max-width:100%; height:auto;" src="webm/05-ctf/20.webm" controls loop="loop" preload></video><br>
 
 ### Enemy siege vehicles
 
-Generally, if it's a catapult, you should just destroy it, unless it still has wheels attached and you can use it to hurt the enemies. If you have enough time, capture it.
+Generally, if it's a catapult, you should just destroy it (easy money), unless it still has wheels attached and you can use it to hurt the enemies. If you have enough time, capture it.
 
-As for ballistas, depends on the situation. Generally, if you're safe on the enemy ballista, and no enemies are coming, capture it. If there are lots of enemies trying to get it back - destroy it, it gives you a lots of coins (just jabspam it)
+As for ballistas, depends on the situation. Generally, if you're safe on the enemy ballista, and no enemies are coming, capture it. If there are lots of enemies trying to get it back - destroy it, it gives you a lots of coins (just jabspam it). Keep in mind you can also swap to the builder on enemy ballistas to block enemies from coming.
+
+### Keg jump
+
+Bomb jumping with a keg in your hand is a decent strategy which allows you to hurt the enemy structures significantly.
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/05-ctf/666.webm" controls loop="loop" preload></video><br>
 
 ## Random tricks
 
@@ -197,11 +219,11 @@ As for ballistas, depends on the situation. Generally, if you're safe on the ene
 
 Bombs explode when they get destroyed. If bombs explode at the same moment, you can make a pretty awesome bombjump. Saws are used for this. Works like this:
 
-[gif 21]
+<video style="display:block; max-width:100%; height:auto;" src="webm/05-ctf/21.webm" controls loop="loop" preload></video><br>
 
 You can also do it with holding a keg in hand to get to the enemy base.
 
-[gif 22]
+<video style="display:block; max-width:100%; height:auto;" src="webm/05-ctf/22.webm" controls loop="loop" preload></video><br>
 
 Another variation includes holding a crate with a builder in it.
 
@@ -209,7 +231,7 @@ Another variation includes holding a crate with a builder in it.
 
 This also applies to TDM. If you explode a water bomb on a keg (with enough momentum) the keg will quickly go forward, like this.
 
-[gif 23]
+<video style="display:block; max-width:100%; height:auto;" src="webm/05-ctf/23.webm" controls loop="loop" preload></video><br>
 
 Can be used to hurt enemy structures -- enemies most likely won't catch the keg.
 
@@ -217,6 +239,4 @@ Can be used to hurt enemy structures -- enemies most likely won't catch the keg.
 
 Mines need to stay still to be able to deploy -- so you can't deploy them in midair. However, you can deploy one on top of your enemy tower, and then push it forward with a bomb or a waterbomb.
 
-[gif 24]
-
-[gif 25]
+<video style="display:block; max-width:100%; height:auto;" src="webm/05-ctf/25.webm" controls loop="loop" preload></video><br>
