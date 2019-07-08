@@ -1,4 +1,4 @@
-# Miscellanous - Tick Table, other small tricks, training bots
+# Miscellanous - Tick Table
 
 ## Tick Table
 
@@ -39,22 +39,3 @@ Important note: Most (if not all) stuns do not add up.
 | Getting shot w/ catapult stuns for:                 | 30 ticks.          |
 | Falling stuns for:                                  | 12 ticks.          |
 
-## Misc tricks
-
-### Hiding your animation by holding an item
-
-If you hold an item like a crate or a log, it's harder for your enemy to see your animations.
-
-[gif 1
-
-## Training bot
-
-We have a bot for training instajabs ([Knight IV: Expert]) and one that shields in your direction.
-
-Download the mod from here: [Download soon]
-
-Put it in your Mods folder in your KAG folder. Open 'mods.cfg' in the kag folder with a text editor. Add a new line, 'TrainingBots'. Open 'autoconfig.cfg' in the same folder. Change 'sv_gamemode = Sandbox' to 'sv_gamemode = TDM'. Save both files. Run 'runlocalhost.bat'.
-
-!instabot 0 - easy version of instajabbing bot. Gets close to you, slashes you and then starts shielding.
-!instabot 1 - harder version, jumps around, a bit more irregular.
-!shieldbot - shields in your direction
