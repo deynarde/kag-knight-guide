@@ -18,7 +18,7 @@ Well, most of your playstyle on lags should consist of just slashes, preferably 
 
 We actually don't know if most moves are possible with lags, but they are for sure MUCH, MUCH harder to do. For example, shieldbashing feels very odd with lag, at least when you're on top of the enemy, so it is also a thing you should be careful with doing.
 
-Instajabs are still possible with lag (tested on 166 ping), however you really need to train it a lot to be able to use it consistently -- avoid doing it in real matches until you train it. You could try setting up a server which you have 166 ping on and train the instajabs on there with the instajabbing bot (See: [Miscellanous - Tick Table, other small tricks, training bots]).
+Instajabs are still possible with lag (tested on 166 ping), however you really need to train it a lot to be able to use it consistently -- avoid doing it in real matches until you train it. You could try setting up a server which you have 166 ping on and train the instajabs on there with the help of a friend.
 
 ## Bomb jumping with lags
 
