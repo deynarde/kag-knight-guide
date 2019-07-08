@@ -143,7 +143,7 @@ Kill the builder at all costs. He's the most dangerous -- without him, it's much
 
 I recommend jumping from the top of the tower and just slashing him.
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/05-ctf/6.webm" controls loop="loop" preload></video><br>
+<video style="display:block; max-width:100%; height:auto;" src="webm/05-ctf/13.webm" controls loop="loop" preload></video><br>
 
 ### Mass-keg
 
@@ -151,7 +151,7 @@ You can mass-keg the enemies if there are many of them. However, keep in mind th
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/05-ctf/14.webm" controls loop="loop" preload></video><br>
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/05-ctf/15.webm" controls loop="loop" preload></video><br>
+<video style="display:block; max-width:100%; height:auto;" src="webm/05-ctf/14two.webm" controls loop="loop" preload></video><br>
 
 ### Catch enemy kegs 
 
