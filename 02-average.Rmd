@@ -126,12 +126,6 @@ Bomb jumps are good for getting around obstacles in CTF, so you should become ve
 You can also do multi bomb jumps -- read more about them in [Playing CTF] section.
 
 
----
-
-If you feel like your mobility is already decent enough, you can move to the next part -- learning more about combat itself and how to slay enemies properly. But before that, we'll talk about the best way to learn and how to optimize your play style.
-
----
-
 ## More on combat and using your sword
 
 The three most important things at this level are:
