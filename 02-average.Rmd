@@ -97,6 +97,12 @@ This is a good way to get some extra horizontal distance when jumping off a towe
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/13.webm" controls loop="loop" preload></video><br>
 
+### Notch climbing
+
+If there are small holes in an enemy wall like in the gif below, you can use them to reset your walljump and climb higher.
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/notch.webm" controls loop="loop" preload></video><br>
+
 ### Bounce off water
 
 Shield sliding onto water will allow you to do a little bounce before you sink. This can be useful for quickly moving over water.
@@ -196,7 +202,7 @@ If you are against an aggressive player, a good way to beat them is to bait them
 
 It is hard to counter a defensive play style which focuses on counter slashing. Counter slashing is also the best way to fight against several enemies at once - a typical combo includes; slash, retreat, slash, and so on.
 
-[gif 29 - fighting against several enemies]
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/29.webm" controls loop="loop" preload></video><br>
 
 ### Winning slash fights on L shape
 
@@ -206,7 +212,7 @@ In L shaped environmental situations, the knight who moves first (red in the ima
 
 This situation often occurs in CTF when there are doors on top of towers.
 
-It is worth mentioning that the L-shape situation usually favours the knight coming up from below. This is partly because you can move upwards more quickly than you can move sideways. Most of the knight’s body is shielded by the blocks going up the wall. In this GIF the blue and red knight arrive together at roughly the same time, but the blue knight wins. This is the typical outcome.
+It is worth mentioning that the L-shape situation usually favours the knight coming up from below. This is partly because you can move upwards more quickly than you can move sideways. Most of the knight’s body is shielded by the blocks going up the wall. In this GIF the blue and red knight arrive together at roughly the same time, but the blue knight wins.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/lshape.webm" controls loop="loop" preload></video><br>
 
