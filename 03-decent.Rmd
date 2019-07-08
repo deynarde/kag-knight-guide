@@ -79,7 +79,7 @@ It's a good way to play against players who just slashspam - bait them to jump a
 
 ### Overhead jab
 
-A rather simple, mentioned already as a counter against when your enemy shieldslides, but you can do it when the enemy is just walking forward with their shield up as well:
+A rather simple move, mentioned already as a counter when your enemy attemps to shield bash you with a shield slide, but you can do it when the enemy is just walking forward with their shield up as well:
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/145.webm" controls loop="loop" preload></video><br>
 
