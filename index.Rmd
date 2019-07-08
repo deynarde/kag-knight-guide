@@ -21,10 +21,10 @@ description: "A KAG knight guide for both new and experienced players."
 
 We have read many tutorials concerning knight gameplay, both on the THD Forums and Steam Community Hub, and most of them were either shallow or outdated. Considering we've got a lot of new players recently, we have decided to write a new player friendly guide for the knight class.
 
-We hope this guide will help people who are trying to get better at knight. We are going to cover everything including; improving your skill to various levels, how to play CTF, how to deal with high ping or bugs, every knight trick/move you can do in this game and much more. It may seem like a lot, but knight combat is very extensive and if you want to get better this guide will certainly help you.
+We hope this guide will help people who are trying to get better at knight. We are going to cover everything including: improving your skill to various levels, how to play CTF, how to deal with high ping or bugs, every knight trick/move you can do in this game and much more. It may seem like a lot, but knight combat is very extensive and if you want to get better this guide will certainly help you.
 
 > For just a collection of knight tips and tricks see the [Knight Compendium](https://deynarde.github.io/kag-knight-compendium/) (outdated)
 
 > You can contact us on [KAG Discord](https://discord.gg/kag) (`bunnie#8671`, `deynarde#4491`).
 
-> Big thanks to Turtlebutt and the HOMEK clan, especially to Homek, Voxez (\_Mike\_), Magmus, Biurza, Zanzibar, Psiklaw, Junko-Enoshima, and to Ehra for correcting language mistakes
+> Big thanks to Turtlebutt and the HOMEK clan, especially to Homek, Voxez (\_Mike\_), Magmus, Biurza, Zanzibar, Psiklaw, Junko-Enoshima, and Ehra for correcting language mistakes

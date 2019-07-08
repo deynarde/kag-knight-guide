@@ -6,7 +6,7 @@
 
 ## The knight class
 
-There are three classes in KAG; the archer, the builder and the knight. The knight is arguably the strongest class of the game. A good team in Capture The Flag (CTF) or Take The Halls (TTH) should be mostly composed of knights protecting the builders and archers. In Team Deathmatch (TDM) the knight is often the most played class.
+There are three classes in KAG: the archer, the builder and the knight. The knight is arguably the strongest class of the game. A good team in Capture The Flag (CTF) or Take The Halls (TTH) should be mostly composed of knights protecting the builders and archers. In Team Deathmatch (TDM) the knight is often the most played class.
 
 As a knight in CTF and TTH, your role is to help the team advance forward and capture the enemy flag or hall. Before you start to learn more about the game modes and how to play in them, let’s talk about combat mechanics first.
 
@@ -38,7 +38,7 @@ A double slash takes 1.25 seconds to fully charge. Again, watch the cursor for t
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/5.webm" controls loop="loop" preload></video><br>
 
-For now you should keep in mind that if you jab a shield, you will get stunned for a short while. Try avoiding jabbing a shield, because you can get counter jabbed during the stun, or in some cases even slashed:
+For now you should keep in mind that if you jab a shield, you will get stunned for a short while. Try avoiding jabbing a shield because you can get counter jabbed during the stun, or in some cases even slashed:
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/6.webm" controls loop="loop" preload></video>
 
@@ -74,7 +74,7 @@ Not specifically a knight-only move, but you can stomp the enemy if you fall ont
 
 ---
 
-You can do much more with these moves -- you can chain combos, such as slashing someone and then quickly jabbing them after; but you'll learn about that later on. For now, it's important to know the theory on how knight combat works. The one thing you should remember is to mostly use slashes for now -- the most common mistake a newbie can do is to jab spam, which is easily countered by shielding, and can quickly get you killed.
+You can do much more with these moves, such as chain combos. For example, you can slash someone and then quickly jab them after. You’ll learn more about combos etc. later on. For now, it’s important to know the theory on how knight combat works. The one thing you should remember is to mostly use slashes for now; the most common mistake a new player can do is to jab spam which is easily countered by shielding, and can quickly get you killed.
 
 ---
 
