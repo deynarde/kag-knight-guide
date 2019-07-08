@@ -19,7 +19,7 @@ description: "A KAG knight guide for both new and experienced players."
   <img src="imgs/logo.png">
 </p>
 
-We have read many tutorials concerning knight gameplay, both on the THD Forums and Steam Community Hub, and most of them were either shallow or outdated. Considering we will have lots of new players coming with the KAG F2P release we have decided to write a new player friendly guide for the knight class.
+We have read many tutorials concerning knight gameplay, both on the THD Forums and Steam Community Hub, and most of them were either shallow or outdated. Considering we've got a lot of new players recently, we have decided to write a new player friendly guide for the knight class.
 
 We hope this guide will help people who are trying to get better at knight. We are going to cover everything including; improving your skill to various levels, how to play CTF, how to deal with high ping or bugs, every knight trick/move you can do in this game and much more. It may seem like a lot, but knight combat is very extensive and if you want to get better this guide will certainly help you.
 
