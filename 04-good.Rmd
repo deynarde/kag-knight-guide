@@ -82,7 +82,7 @@ Your POV:
 
 ### Shieldslide crouch
 
-Best works on flat terrain. Basically, do a quick shieldslide, but stop when you're getting closer to the enemy. Start holding S. You will still have the momentum from the crouch and will get inside the enemy. If done with certain timing, it can glue the enemy with you as shown above. Hard to do consistently, so it's again more trivia than an actually useful trick.
+Works best on a flat terrain. Basically, do a quick shieldslide, but stop when you're getting closer to the enemy. Start holding S. You will still have the momentum from the crouch and will get inside the enemy. If done with certain timing, it can glue the enemy with you as shown above. Hard to do consistently, so it's again more trivia than an actually useful trick.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/04-good/9.webm" controls loop="loop" preload></video><br>
 <video style="display:block; max-width:100%; height:auto;" src="webm/04-good/10.webm" controls loop="loop" preload></video><br>
