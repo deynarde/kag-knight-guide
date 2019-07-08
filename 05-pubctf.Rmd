@@ -79,7 +79,7 @@ Don't fight enemies while holding it -- losing a keg is bad for your team.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/05-ctf/6.webm" controls loop="loop" preload></video><br>
 
-I recommend getting yourself launched from a catapult with a keg as well.
+Getting yourself launched from a catapult with a keg is a good tactic as well.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/05-ctf/7.webm" controls loop="loop" preload></video><br>
 
