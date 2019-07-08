@@ -17,17 +17,26 @@ An aggressive but extremely fun move; a jab charge is a quick shield slide to ga
 
 ### Instajabs
 
-This is a very important move. It allows you to damage 99% of knights that slash your shield, even if they shield right after.
+This is a very important move in high end duels. It allows you to damage 99% of knights that slash your shield, even if they shield right after.
 
 Basically -- there's a small delay between slashing and putting your shield back up. If you put your shield up right after slashing, the animation may show, but the shield won't actually be there. Moreover, it usually ends up causing messed up animations (if the enemy does an instajab) -- because on your screen the enemy jabbed the shield.
 
-During that small delay, and right after your stun from being slashed in the shield is finished, you can jab the enemy. It requires good timing and quite a bit of training, honestly -- which is why we have a bot (credit to Vamist) to train it, which you can download in the Miscellanous section.
+During that small delay, and right after your stun from being slashed in the shield is finished, you can jab the enemy. It requires good timing and quite a bit of training.
 
 POV of instajabbing person:
 <video style="display:block; max-width:100%; height:auto;" src="webm/04-good/3.webm" controls loop="loop" preload></video><br>
 
 POV of instajabbed person:
 <video style="display:block; max-width:100%; height:auto;" src="webm/04-good/4.webm" controls loop="loop" preload></video><br>
+
+### Instaslashes
+
+Another useful move, in the past used only by very few players which knew about this. 
+
+Basically, if someone slashes your shield, you can start holding left mouse button as soon as you get stunned, and release it when 75% of the cursor charges (first yellow dot on the cursor charging). On your screen it will show a jab, but it will actually be a slash. 
+With high ping (133+) 50% of the cursor also works.
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/04-good/asda.webm" controls loop="loop" preload></video><br>
 
 ### Jab after being slashed+jabbed
 
@@ -52,7 +61,6 @@ Rather hard move to do, requires good timing and familarity with shield bashes. 
 This one is more trivia than an actual trick -- it's very hard to do this consistently. Basically, you need to do the fastest slash possible right after stunning the enemy. You basically need to start charging the slash before you know the enemy is even stunned, which is why it's so hard.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/04-good/7.webm" controls loop="loop" preload></video><br>
-
 
 ### Blitz crouch
 
