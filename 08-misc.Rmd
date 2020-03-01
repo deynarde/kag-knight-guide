@@ -29,8 +29,8 @@ Important note: Most (if not all) stuns do not add up.
 | Bombs (clean hit) stuns for:                        | 20 ticks.          |
 | Bombs (shielded) stuns for:                         | 20 ticks.          |
 | Arrows (real close) stuns for:                      | 20 ticks.          |
-| Arrows (clean hit) stuns for:                       | 15 or 0 ticks.     |
-| Arrows (shielded) stuns for:                        | 15 or 0 ticks.     |
+| Arrows (clean hit) stuns for:                       | 15 or 0 ticks.     | (15 if shot from a close distance)
+| Arrows (shielded) stuns for:                        | 15 or 0 ticks.     | (15 if shot from a close distance)
 | Spikes stuns for:                                   | 10 ticks.          |
 | Getting hit in bed stuns for:                       | 30 ticks.          |
 | Travel via tunnel stuns for:                        | 30 ticks.          |
