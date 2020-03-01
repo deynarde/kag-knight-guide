@@ -1,6 +1,8 @@
-# W.I.P. - WILL BE FINISHED SOON
+
 
 # Dealing with noanims
+
+## THIS IS WORK IN PROGRESS. YOU CAN SKIP THIS CHAPTER 
 
 <p align="center">
   <img src="imgs/noanim.png">
