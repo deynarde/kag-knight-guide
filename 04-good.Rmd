@@ -52,7 +52,7 @@ Start charging a slash, jump from the highest point of the enemy (as mentioned e
 
 ### Shield bash + double jab
 
-Rather hard move to do, requires good timing and familarity with shield bashes. Basically, shieldbash someone and then very quickly double jab.
+Rather hard move to do, requires good timing and familiarity with shield bashes. Basically, shieldbash someone and then very quickly double jab.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/04-good/6.webm" controls loop="loop" preload></video><br>
 
@@ -72,7 +72,7 @@ At this point, you can phase through the enemy and attack them.
 
 ### Glue after crouch
 
-When you and the enemy keep walking into each other, you can move back slightly, crouch and wait for him to get inside you, then release the crouch and start walking forawrd. In some cases you may glue yourself to the enemy -- you should use this to your advantage and slash your enemy when he's confused and doesn't know what direction to shield. On your enemy's screen, you aren't inside him.
+When you and the enemy keep walking into each other, you can move back slightly, crouch and wait for him to get inside you, then release the crouch and start walking forward. In some cases you may glue yourself to the enemy -- you should use this to your advantage and slash your enemy when he's confused and doesn't know what direction to shield. On your enemy's screen, you aren't inside him.
 
 Enemy's POV:
 <video style="display:block; max-width:100%; height:auto;" src="webm/04-good/55.webm" controls loop="loop" preload></video><br>

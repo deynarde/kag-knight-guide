@@ -117,7 +117,7 @@ Timing is crucial to performing bomb jumps. If you time it so you jump and shiel
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/15.webm" controls loop="loop" preload></video><br>
 
-You can also perform bomb jumps midair:
+You can also perform bomb jumps mid air:
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/16.webm" controls loop="loop" preload></video><br>
 
@@ -223,7 +223,7 @@ Shield bashing is a very important aspect of knight combat -- being able to shie
 
 Alternatively, there are several ways to counter shield bashes, all of which you should learn. These include overhead slashing, overhead jabbing and crouching (which you'll learn more about in the next chapter.)
 
-Jumping over the shield sliding enemy whilst charging a slash and then hitting them in the back (either with the charged slash or jab) is a consistent way to beat shield bashers. In some of the situations, the enemy won't even be able to put his shield back up, no matter what -- if you're shield sliding really fast there is a delay before putting your shield back up. However, this doesn't happen every time.
+Jumping over the shield sliding enemy whilst charging a slash and then hitting them in the back (either with the charged slash or jab) is a consistent way to beat shieldbashers. In some of the situations, the enemy won't even be able to put his shield back up, no matter what -- if you're shield sliding really fast there is a delay before putting your shield back up. However, this doesn't happen every time.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/overheadslash.webm" controls loop="loop" preload></video><br>
 
