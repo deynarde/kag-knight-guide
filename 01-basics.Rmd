@@ -134,7 +134,7 @@ You can pick up enemy mines before they deploy as well -- simply press the C key
 
 ### Kegs
 
-Kegs (costs 120 coins in knight shop) are powerful and unshieldable explosive items with a 6 second fuse, activated by pressing the space key (only knights can activate them). You should avoid fighting enemies while holding a keg (you can't put it in your inventory) because upon being hit (even if shielding) or stunned with anything, the keg will often fall off from your back. They may then steal it and use it to hurt your team (one of the most common mistakes that can be made). Moreover, you're also much slower when holding a keg.
+Kegs (costs 120 coins in knight shop) are powerful and unshieldable explosive items with a 6 second fuse, activated by pressing the space key (only knights can activate them). You should avoid fighting enemies while holding a keg (you can't put it in your inventory) because upon being hit by the enemy (even if shielding) or stunned with a waterbomb, the keg will often fall off from your back. They may then steal it and use it to hurt your team (one of the most common mistakes that can be made). Moreover, you're also much slower when holding a keg.
 
 Generally, you should activate kegs in the middle of the enemy base or next to the enemy flag room.
 
