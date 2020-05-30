@@ -106,7 +106,7 @@ If a bomb is thrown too early, it can be picked up back and threw again. Try to 
 
 Waterbombs cost 30 coins in CTF and 40 coins in TDM. Again, select them from your class menu (hold down F key). When thrown, they explode on impact (with the enemy or with terrain) and stun for a short duration.
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/17.webm" controls loop="loop" preload></video>
+[gif throw water bomba]
 
 If shielded, they stun for a slightly shorter time. 
 
@@ -114,11 +114,13 @@ If shielded, they stun for a slightly shorter time.
 
 You can also put a sponge in your inventory (bought at TDM trader shop or CTF builder shop -- 15 coins) for an even shorter stun.
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/19.webm" controls loop="loop" preload></video>
+[gif water with sponge]
 
-If you successfully stun someone with a water bomb, you can follow up with an attack, such as a double slash to kill.
+If you successfully stun someone with a water bomb, you can follow up with an attack, such as a slash or a double slash.
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/20.webm" controls loop="loop" preload></video><br>
+[gif 1]
+
+[gif 2]
 
 ### Mines
 
