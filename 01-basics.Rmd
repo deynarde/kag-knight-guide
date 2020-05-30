@@ -8,7 +8,7 @@
 
 There are three classes in KAG: the archer, the builder and the knight. The knight is arguably the strongest class of the game. A good team in Capture The Flag (CTF) or Take The Halls (TTH) should be mostly composed of knights protecting the builders and archers. In Team Deathmatch (TDM) the knight is often the most played class.
 
-As a knight in CTF and TTH, your role is to help the team advance forward and capture the enemy flag or hall. Before you start to learn more about the game modes and how to play in them, let’s talk about combat mechanics first.
+As a knight in CTF and TTH, your role is to help the team advance forward and capture the enemy flag or hall. This chapter is mostly the very basics, so if you've already played KAG for a bit you could pretty much skip to the 2nd chapter.
 
 ## Mechanics
 
@@ -16,15 +16,21 @@ As a knight, you can utilise your sword and shield to do the following things:
 
 ### Jab
 
-The simplest attack. It does 1 heart of damage.
+The simplest attack - simply click the left mouse button. Does 1 heart of damage.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/1.webm" controls loop="loop" preload></video><br>
 
+For now you should keep in mind that if you jab a shield, you will get stunned for a short while. Try avoiding jabbing a shield because you can get counter jabbed during the stun, or in some cases even slashed.
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/6.webm" controls loop="loop" preload></video>
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/7.webm" controls loop="loop" preload></video><br>
+
 ### Slash
 
-A charged attack (it takes half a second to charge one -- just focus on the cursor charging). A slash does 2 hearts of damage and stuns the enemy for a short time. If the enemy is shielding, you will break their shield, stunning them for a short time but the enemy will not get damaged.
+A charged attack, takes half a second to charge. A slash does 2 hearts of damage and stuns the enemy for a short time. If the enemy is shielding, you will break their shield, stunning them (but for an even shorter time) but the enemy will not get damaged.
 
-*Being able to do a slash as fast as possible is very important -- you should be able to do them as soon as the cursor charges fully.*
+Being able to do a slash as fast as possible is important when playing a knight -- you should be able to do them as soon as the cursor charges fully.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/2.webm" controls loop="loop" preload></video>
 
@@ -32,17 +38,13 @@ A charged attack (it takes half a second to charge one -- just focus on the curs
 
 ### Double slash
 
-A double slash takes 1.25 seconds to fully charge. Again, watch the cursor for timings. A double slash does 4 hearts of damage in total (if unshielded). If the enemy is shielding, the first slash breaks the shield, the second slash deals 2 hearts of damage.
+A double slash takes 1.25 second to fully charge. Again, watch the cursor for timings. A double slash does 4 hearts of damage in total (if unshielded).
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/4.webm" controls loop="loop" preload></video>
+[gif double slash on person no shield]
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/5.webm" controls loop="loop" preload></video><br>
+If the enemy is shielding, the first slash breaks the shield, then the second slash deals 2 hearts of damage.
 
-For now you should keep in mind that if you jab a shield, you will get stunned for a short while. Try avoiding jabbing a shield because you can get counter jabbed during the stun, or in some cases even slashed:
-
-<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/6.webm" controls loop="loop" preload></video>
-
-<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/7.webm" controls loop="loop" preload></video><br>
+[gif double slash on person shield pierce]
 
 ### Shield slide
 
@@ -52,7 +54,7 @@ Holding W and pointing your shield down while moving horizontally will allow you
 
 ### Shield bash
 
-Also known as a shield stun. If you quickly shield slide into someone, they can get stunned for a short time (and sometimes knocked back):
+Also known as a shield stun. If you quickly shield slide into someone or jump at them with your shield down, they can get stunned for a short time (and sometimes knocked back).
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/9.webm" controls loop="loop" preload></video><br>
 
@@ -64,68 +66,99 @@ You can use your shield as a parachute:
 
 ### Stomping
 
-Not specifically a knight-only move, but you can stomp the enemy if you fall onto them with enough momentum.
+Not specifically a knight-only move, but you can stomp the enemy if you fall onto them with enough momentum. Most stomps are 1 heart stomps.
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/11.webm" controls loop="loop" preload></video>
+[gif 1 heart]
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/12.webm" controls loop="loop" preload></video>
+2 heart stomps are possible with enough velocity too.
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/13.webm" controls loop="loop" preload></video><br>
+[gif 2 heart]
+
+Stomping requires less momentum if combined with shielding down (shield bashing) the enemy upon falling.
+
+[gif with shieldbash]
 
 ---
 
-You can do much more with these moves, such as chain combos. For example, you can slash someone and then quickly jab them after. You’ll learn more about combos etc. later on. For now, it’s important to know the theory on how knight combat works. The one thing you should remember is to mostly use slashes for now; the most common mistake a new player can do is to jab spam which is easily countered by shielding, and can quickly get you killed.
+You can do much more than just that, of course. For example, you can slash someone and then quickly jab them after. You’ll learn more about combos later on. For now, it’s important to know the theory on how knight combat works. The one thing you should remember is to mostly use slashes for now; the most common mistake a new player can do is to jab spam which is easily countered by shielding, and can quickly get you killed.
 
 ---
 
 ## Items
 
-There are various knight-specific items that you can utilise, such as bombs or waterbombs. These can be bought at the knight workshop in CTF (25 coins for a bomb, 30 coins for a waterbomb), trader shops in TDM (20 coins for a bomb, 40 coins for a waterbomb) or generated by factories in TTH.
+There are various knight-specific items that you can utilise, such as bombs or waterbombs. These can be bought at the knight workshop in CTF, trader shops in TDM or generated by factories in TTH.
 
 ### Bombs
 
-Bombs are activated by pressing space bar. It takes 4 seconds for a bomb to 'cook' before it explodes. You can throw bombs at enemies to damage them (the damage taken depends on how close the bomb lands -- 3 hearts or 1,5 hearts), or use it to do a bomb jump.
+Bombs cost 25 coins in CTF knight shop or 20 coins in a TDM trader shop. They are activated by pressing space bar after selecting the bomb from your class menu (hold down the F key). It takes 4 seconds for a bomb to 'cook' before it explodes. You can throw bombs at enemies to damage them (the damage taken depends on how close to the enemy the bomb explodes -- 3 hearts or 1,5 hearts).
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/14.webm" controls loop="loop" preload></video>
 
+You can perform "bomb jumps" on bombs as well.
+
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/15.webm" controls loop="loop" preload></video><br>
 
-Keep in mind that if you throw the bomb too early the enemies can pick it up and throw it back.
+If a bomb is thrown too early, it can be picked up back and threw again. Try to not throw bombs too early.
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/16.webm" controls loop="loop" preload></video><br>
+[gif need new here]
 
 ### Waterbombs
 
-Waterbombs explode on impact and stun for a short duration. If shielded, they stun for a slightly shorter time. You can also put a sponge in your inventory (bought at TDM trader shop or CTF builder shop) that will reduce the stun duration. If you successfully stun someone with a water bomb, you can follow up with an attack, such as a double slash to kill.
+Waterbombs cost 30 coins in CTF and 40 coins in TDM. Again, select them from your class menu (hold down F key). When thrown, they explode on impact (with the enemy or with terrain) and stun for a short duration.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/17.webm" controls loop="loop" preload></video>
 
+If shielded, they stun for a slightly shorter time. 
+
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/18.webm" controls loop="loop" preload></video>
 
+You can also put a sponge in your inventory (bought at TDM trader shop or CTF builder shop -- 15 coins) for an even shorter stun.
+
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/19.webm" controls loop="loop" preload></video>
-*In the above video the stunned person had a sponge in the inventory.*
+
+If you successfully stun someone with a water bomb, you can follow up with an attack, such as a double slash to kill.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/20.webm" controls loop="loop" preload></video><br>
 
 ### Mines
 
-Mines can be bought for 60 coins in a knight shop and can be activated by all classes. Mines activate after being thrown onto the ground for some time. Mines instantly kill enemies and can't be shielded, so you should watch out for enemy mines! **This is especially important when playing CTF and pushing with your team in a closed space -- let the builders destroy the mines, don't walk into them -- if you walk into a mine and your teammates are also near, they will be killed as well**
+Mines can be bought for 60 coins in a knight shop and can be used by all classes. After taking the mine out of your inventory (F key) you can throw it somewhere. If the mine will not be moved for 2 seconds, it will deploy. Deployed mines instantly kill enemies and can't be shielded, so you should watch out for enemy mines! **This is especially important when playing CTF and pushing with your team in a closed space -- let the builders destroy the mines, don't walk into them -- if you walk into a mine and your teammates are also near, they will be killed as well.**
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/21.webm" controls loop="loop" preload></video><br>
 
+You can pick up enemy mines before they deploy as well -- simply press the C key when next to them.
+
+[GIF]
+
 ### Kegs
 
-Kegs (costs 120 coins in knight shop) are powerful and unshieldable explosive items with a 6 second fuse. You should avoid fighting enemies while holding a keg (you can't put it in your inventory) because they may steal it and hurt your team (one of the most common mistakes that can be made). Generally, you should activate kegs in the middle of the enemy base or next to the enemy flag room.
+Kegs (costs 120 coins in knight shop) are powerful and unshieldable explosive items with a 6 second fuse, activated by pressing the space key (only knights can activate them). You should avoid fighting enemies while holding a keg (you can't put it in your inventory) because they may steal it and use it to hurt your team (one of the most common mistakes that can be made). Moreover, you're also much slower when holding a keg.
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/22.webm" controls loop="loop" preload></video>
+Generally, you should activate kegs in the middle of the enemy base or next to the enemy flag room.
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/23.webm" controls loop="loop" preload></video>
+[gif - putting keg next to tower]
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/24.webm" controls loop="loop" preload></video><br>
+[gif flagroom]
+
+Kegs explode instantly with enough velocity, for example if you throw them from a high tower.
+
+[gif]
+
+Kegs will also light other nearby unlit kegs on explosion. The fuse will be shorter than usual (like 1 second instead of 6 seconds).
+
+[gif]
+
+The keg will also fall down from your back when shot by an archer. If that happens, pick it back up as fast as possible.
+
+[gif]
+
+Enemy fire arrows will light the keg as well. 
+
+[gif]
 
 ## Mobility
 
-One of the most important things to learn when you're starting to play KAG is how to navigate the terrain properly. If you don't feel comfortable with your character and its movement, you will have trouble slashing your enemies from a distance or even avoiding enemy attacks. You have to be able to move around obstacles freely, consistently use wall jumps, use your slash to gain additional momentum or jump forward while slashing to quickly move through terrain.
+One of the most important things to learn when you're starting to play KAG is how to navigate the terrain properly. If you don't feel comfortable with your character and its movement, you will have trouble slashing your enemies from a distance or even avoiding enemy attacks. You have to be able to move around obstacles freely, consistently use wall jumps, use your slash to gain additional momentum or jump while slashing to quickly move through terrain.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/25.webm" controls loop="loop" preload></video>
 
@@ -133,18 +166,12 @@ One of the most important things to learn when you're starting to play KAG is ho
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/27.webm" controls loop="loop" preload></video>
 
-There's not much to explain regarding basic movement -- it will take practice. If you want to get better with movement faster, you can try experimenting with it in solo gamemodes (Save the Princess, Challenges modes etc.) You will learn more about mobility tricks during the next chapter.
+There's not that much to explain regarding basic movement -- it just takes practice. If you want to get better with movement faster, you can try experimenting with it in solo gamemodes (Save the Princess, Challenges modes etc.) You will learn more about mobility tricks during the next chapter.
 
 ## Learning
 
-Every time you die to someone, ask yourself a question -- why did I die? Could I have done something to avoid death? Did I mess up timing or get baited by the enemy? Always try to learn from your mistakes and learn to minimize them as much as possible. Look at what you're doing wrong (jabbing enemy's shield, bad slash timing and so on) and try to optimize your playstyle.
-
-<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/29.webm" controls loop="loop" preload></video><br>
-
-<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/30.webm" controls loop="loop" preload></video>
+Every time you die to someone, ask yourself a question -- why did I die? Could I have done something to avoid death? Did I mess up timing or get baited by the enemy? Always try to learn from your mistakes. Look at what you're doing wrong (jabbing enemy's shield, bad slash timing and so on) and try to optimize your playstyle.
 
 Remember to slash often -- if you constantly slash, the enemies will be afraid to get closer to you. Make use of double slashes as well -- the first slash breaks the shield and the second one deals 2 hearts of damage, as mentioned earlier.
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/31.webm" controls loop="loop" preload></video><br>
-
-Don't get demotivated if you're not as good as you want to be -- as we said earlier, at this level you just need to practice a lot. Skill will come with time. Most of the players get stuck at what this guide considers the *average* level. The next chapters should help you get past that point.
+Don't get demotivated if you're not as good as you want to be -- as we said earlier, at this level you just need to practice a lot. Skill will come with time. Most of the players get stuck at what this guide considers the average level. The next chapters should help you get past that point.
