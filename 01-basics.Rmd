@@ -92,11 +92,11 @@ There are various knight-specific items that you can utilise, such as bombs or w
 
 Bombs cost 25 coins in CTF knight shop or 20 coins in a TDM trader shop. They are activated by pressing space bar after selecting the bomb from your class menu (hold down the F key). It takes 4 seconds for a bomb to 'cook' before it explodes. You can throw bombs at enemies to damage them (the damage taken depends on how close to the enemy the bomb explodes -- 3 hearts or 1,5 hearts).
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/14.webm" controls loop="loop" preload></video>
+[gif of bomba throw]
 
-You can perform "bomb jumps" on bombs as well.
+You can perform "bomb jumps" on bombs as well. Simply jump slightly and then shield the bomb before it explodes.
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/15.webm" controls loop="loop" preload></video><br>
+[better gif of bomb jump]
 
 If a bomb is thrown too early, it can be picked up back and threw again. Try to not throw bombs too early.
 
