@@ -56,7 +56,7 @@ Holding W and pointing your shield down while moving horizontally will allow you
 
 Also known as a shield stun. If you quickly shield slide into someone or jump at them with your shield down, they can get stunned for a short time (and sometimes knocked back).
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/9.webm" controls loop="loop" preload></video><br>
+[get new gifs]
 
 ### Shield glide
 
