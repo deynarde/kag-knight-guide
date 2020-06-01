@@ -38,9 +38,11 @@ Being able to do a slash as fast as possible is important when playing a knight 
 
 ### Double slash
 
-A double slash takes 1.25 second to fully charge. Again, watch the cursor for timings. A double slash does 4 hearts of damage in total (if unshielded).
+A double slash takes 1.25 second to fully charge. Again, watch the cursor for timings. A double slash does 4 hearts of damage in total if unshielded.
 
-[gif double slash on person no shield]
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/dslash.webm" controls loop="loop" preload></video><br>
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/dslash2.webm" controls loop="loop" preload></video>
 
 If the enemy is shielding, the first slash breaks the shield, then the second slash deals 2 hearts of damage.
 
@@ -56,7 +58,7 @@ Holding W and pointing your shield down while moving horizontally will allow you
 
 Also known as a shield stun. If you quickly shield slide into someone or jump at them with your shield down, they can get stunned for a short time (and sometimes knocked back).
 
-[get new gifs]
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/sbash.webm" controls loop="loop" preload></video><br>
 
 ### Shield glide
 
@@ -66,23 +68,17 @@ You can use your shield as a parachute:
 
 ### Stomping
 
-Not specifically a knight-only move, but you can stomp the enemy if you fall onto them with enough momentum. Most stomps are 1 heart stomps.
+Not specifically a knight-only move, but you can stomp the enemy if you fall onto them with enough momentum. Most stomps are 1 heart stomps, but 2 heart stomps are possible with enough velocity too.
 
-[gif 1 heart]
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/stomp.webm" controls loop="loop" preload></video><br>
 
-2 heart stomps are possible with enough velocity too.
+You can't be stomped by archers or builders if you have your shield up. However, if the stomp is combined with a shieldbash (having your shield down while jumping at the enemy), knights are still able to stomp other shielding knights.
 
-[gif 2 heart]
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/stompbash.webm" controls loop="loop" preload></video><br>
 
-Stomping requires less momentum if combined with shielding down (shield bashing) the enemy upon falling.
+### Combining slashes, jabs, stomps, bashes
 
-[gif with shieldbash]
-
----
-
-You can do much more than just that, of course. For example, you can slash someone and then quickly jab them after. You’ll learn more about combos later on. For now, it’s important to know the theory on how knight combat works. The one thing you should remember is to mostly use slashes for now; the most common mistake a new player can do is to jab spam which is easily countered by shielding, and can quickly get you killed.
-
----
+You can do much more than just that, of course. For example, you can slash someone and then quickly jab them right after if the slash damaged the enemy. You’ll learn more about combos in the next chapter. For now, it’s important to know the theory on how knight combat works. The one thing you should remember is to mostly use slashes for now; the most common mistake a new player can do is to jab spam which is easily countered by shielding, and can quickly get you killed. Try out various strategies, don't rely on jabs only.
 
 ## Items
 
@@ -96,7 +92,7 @@ Bombs cost 25 coins in CTF knight shop or 20 coins in a TDM trader shop. They ar
 
 You can perform "bomb jumps" on bombs as well. Simply jump slightly and then shield the bomb before it explodes.
 
-[better gif of bomb jump]
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/bombjamp.webm" controls loop="loop" preload></video><br>
 
 If a bomb is thrown too early, it can be picked up back and threw again. Try to not throw bombs too early.
 
@@ -104,23 +100,23 @@ If a bomb is thrown too early, it can be picked up back and threw again. Try to 
 
 ### Waterbombs
 
-Waterbombs cost 30 coins in CTF and 40 coins in TDM. Again, select them from your class menu (hold down F key). When thrown, they explode on impact (with the enemy or with terrain) and stun for a short duration.
+Waterbombs cost 30 coins in CTF and 40 coins in TDM. Again, select them from your class menu (hold down F key). When thrown, they explode on impact (with the enemy or with terrain) and stun for a short duration, as well as knock back the enemy.
 
-[gif throw water bomba]
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/waterbomba.webm" controls loop="loop" preload></video><br>
 
 If shielded, they stun for a slightly shorter time. 
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/18.webm" controls loop="loop" preload></video>
 
-You can also put a sponge in your inventory (bought at TDM trader shop or CTF builder shop -- 15 coins) for an even shorter stun.
+You can also put a sponge in your inventory (bought at TDM trader shop or CTF builder shop -- 15 coins) for an even shorter stun. They stun is even shorter if you have both a sponge and your shield up. The sponge gets destroyed after absorbing two water stuns.
 
-[gif water with sponge]
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/18.webm" controls loop="loop" preload></video>
 
 If you successfully stun someone with a water bomb, you can follow up with an attack, such as a slash or a double slash.
 
-[gif 1]
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/waterslash.webm" controls loop="loop" preload></video><br>
 
-[gif 2]
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/waterdslash.webm" controls loop="loop" preload></video><br>
 
 ### Mines
 
@@ -142,9 +138,9 @@ Generally, you should activate kegs in the middle of the enemy base or next to t
 
 [gif flagroom]
 
-Kegs explode instantly with enough velocity, for example if you throw them from a high tower.
+Kegs explode on impact instantly with high enough velocity, for example if you throw them from a tall tower.
 
-[gif]
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/kegimpact.webm" controls loop="loop" preload></video><br>
 
 Kegs will also light other nearby unlit kegs on explosion. The fuse will be shorter than usual (like 1 second instead of 6 seconds).
 
