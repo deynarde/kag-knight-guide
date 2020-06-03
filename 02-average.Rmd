@@ -10,37 +10,37 @@ We'll start this section with a word about hitboxes in KAG:
 
   <img src="imgs/knightmodel.png">
 
-The hitbox of a knight is an octagon.
+The hitbox of a knight is a circle (although it's an octagon here, but don't mind it).
 
 Both jab and slash are shaped as arcs, which move with your character and are active for a certain duration (slashes last much longer than jabs).
 
-Your shield covers an arc around your character centered on the direction pointed by your mouse. If you were hit through your shield by someone – ask yourself if you were aiming at the right direction to cover the full arc of the attack.
+Your shield covers an arc around your character centered on the direction pointed by your mouse. If you were hit through your shield by someone, you may have not been aiming at the right direction to cover the full arc of the attack.
 
 It is possible to see your hit boxes by going into solo sandbox mode, opening the console (by pressing HOME key) and typing `/g_debug 1`.
 
 ## On learning itself
 
-If you want to get better at knight quickly, a good choice is to play a lot of TDM, but in our opinion the __best way to train is to play lots of 1v1s__ -- sometimes with people at your skill level and sometimes with people slightly better than you. 1v1s are the best for this because they allow you to fully focus on the knight combat, while in TDM you have to watch out for archers (and water bombs, which aren't used in 1v1s) or in CTF -- you are more focused on winning the game, not KDR.
+If you want to get better at knight, the most important thing is practice. There are 3 options for that: playing TDMs, playing CTF or playing on a custom 1v1 server. 1v1s allow you to fully focus on purely knight gameplay, movement and timing. It's similar on TDM, but also with the inclusion of archers, so you get to train against them too. On CTF you're able to greatly help your builders and practice positioning and fighting against many enemies at once, as well as using kegs and bombs properly.
 
-You should always try to be as consistent as possible. For a lot of moves, you just need to get into the habit of using them. If you really want to get better, we recommend always focusing and actually *trying*, no matter who you are playing against or what mode it is; playing optimally helps you  in training muscle memory and getting used to the mechanics of knight combat. This applies to anyone, regardless of your skill level -- you should always give your best. Doing this will make you a better player.
+You should always try to use tricks consistently. For a lot of moves, you just need to get into the habit of using them. If you really want to get better, we recommend always focusing and actually trying, no matter who you are playing against or what mode it is; playing optimally helps you in training muscle memory and getting used to the mechanics of knight combat. This applies to anyone, regardless of your skill level -- you should always give your best. Doing this will make you a better player.
 
-As mentioned in the first chapter, analysing your play style and mistakes also helps a lot. It may be hard to do it in real-time, so you may decide to record your gameplay and analyse the videos later. We suggest recording your 1v1 gameplay.
+As mentioned in the first chapter, analysing your play style and mistakes also helps a lot. It may be hard to do so in real-time, so you may decide to record your gameplay and analyse the videos later. We suggest recording your 1v1 gameplay.
 
-In summary -- don't stop trying, always give your best, and try to use the moves and tricks you learned here in actual matches, don't be afraid to experiment with your play style.
+In summary -- don't stop trying, always give your best, and try to use the moves and tricks you learned here in actual matches, don't be afraid to experiment with your playstyle.
 
 ## More on mobility
 
-At this point, it would be good to learn basic mobility tricks, such as these (taken from the [Knight Compendium](https://deynarde.github.io/kag-knight-compendium/) mentioned earlier) -- they're useful in more situations than you may think, so you should be able to do them consistently. Good mobility is as important as good timings and reflexes.
+At this point, it would be good to learn basic mobility tricks, such as these -- they're useful in more situations than you may think, so you should be able to do them consistently. Good mobility is as important as good timings and reflexes.
 
 ### Slash jumping
 
-A knight can jump higher than normal by slashing to give extra velocity. Time your slash so that it triggers just after you start your jump. It can be combined with an upwards shield glide in order to get extra height. By pushing off the wall as you near the top and then floating back onto, you can also climb more -- in total up to 10 blocks. This can be useful when you're escaping from the enemies' base with their flag.
+A knight can jump higher than normal by slashing to get extra velocity. Time your slash so that it releases right after you start your jump. It can be combined with an upwards shield glide in order to get extra height. By pushing off the wall as you get near the top and then floating back onto it, you can also climb more -- in total up to 10 blocks (although this is mostly done for 7-9 block high walls). This can be useful when you're escaping from the enemies' base with their flag (but in that case, you're not going to be able to climb as much).
 
-[gif]
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/10climbs.webm" controls loop="loop" preload></video><br>
 
-You can also do the same with a double slash -- a total of 10 blocks can be climbed this way (in theory it's 11, but it's not practical).
+You can also do the same with a double slash -- a total of 10 blocks can be climbed this way (in theory you can do 11, but it's not practical).
 
-[gif]
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/10climbd.webm" controls loop="loop" preload></video><br>
 
 ### Looking at proper direction while charging a slash
 
