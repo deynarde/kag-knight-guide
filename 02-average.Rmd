@@ -26,7 +26,7 @@ You should always try to be as consistent as possible. For a lot of moves, you j
 
 As mentioned in the first chapter, analysing your play style and mistakes also helps a lot. It may be hard to do it in real-time, so you may decide to record your gameplay and analyse the videos later. We suggest recording your 1v1 gameplay.
 
-In Summary -- don't stop trying, always give your best, and try to use the moves and tricks you learned here in actual matches, don't be afraid to experiment with your play style.
+In summary -- don't stop trying, always give your best, and try to use the moves and tricks you learned here in actual matches, don't be afraid to experiment with your play style.
 
 ## More on mobility
 
@@ -34,25 +34,27 @@ At this point, it would be good to learn basic mobility tricks, such as these (t
 
 ### Slash jumping
 
-A knight can jump higher than normal by slashing to give extra velocity. Time your slash so that it triggers just after you start your jump. It can be combined with an upwards shield glide in order to get extra height. By pushing off the wall as you near the top and then floating back onto, you can also climb an extra block -- in total up to 8 blocks. This can be useful when you're escaping from the enemies' base with their flag.
+A knight can jump higher than normal by slashing to give extra velocity. Time your slash so that it triggers just after you start your jump. It can be combined with an upwards shield glide in order to get extra height. By pushing off the wall as you near the top and then floating back onto, you can also climb more -- in total up to 10 blocks. This can be useful when you're escaping from the enemies' base with their flag.
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/1.webm" controls loop="loop" preload></video><br>
+[gif]
 
-You can also do the same with a double slash -- a total of 10 blocks can be climbed this way.
+You can also do the same with a double slash -- a total of 10 blocks can be climbed this way (in theory it's 11, but it's not practical).
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/2.webm" controls loop="loop" preload></video><br>
+[gif]
 
-### Faster movement during slash charging
+### Looking at proper direction while charging a slash
 
-Aiming in the same direction to which you are moving will allow you to move a little faster while charging an attack. __You should always do this!__
+Aiming in the same direction to which you are moving will allow you to move a little faster while charging an attack. **You should always do this whenever you're charging a slash!**
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/3.webm" controls loop="loop" preload></video><br>
 
+It's also the same for when you're not slashing and just moving -- moving backwards is slower, so if you want to be quick, try to not do that.
+
 ### Quick shield slide
 
-Shield sliding is performed by pointing the mouse below your character and shielding. But you can move significantly faster by __rapidly tapping the W key as you slide.__ For maximum speed, try to hit W as soon as you hit the ground on each bounce. Shield sliding is very useful when you're escaping from several enemies, or from an enemy charging a double slash.
+Shield sliding is performed by pointing the mouse below your character and shielding. However, you can move significantly faster by rapidly tapping the W key as you slide. For maximum speed, try to hit W as soon as you hit the ground on each bounce. Quick shield sliding is very useful when you're escaping from several enemies, or from an enemy charging a double slash.
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/4.webm" controls loop="loop" preload></video><br>
+[gif]
 
 ### Climbing arrows
 
@@ -60,18 +62,21 @@ It is possible to climb arrows that have been shot into blocks. It is also possi
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/5.webm" controls loop="loop" preload></video><br>
 
+Arrows that are stuck in air (for example, if they were shot at a structure that collapsed later) can also be climbed.
+
+[GIF]
+
 ### Using walls for extra velocity
 
-Pushing off a wall will give you a small burst of speed. This speed boost can be extremely helpful to win a 1v1 by utilising slash timings. This technique is very good against people playing defensively.
+Pushing off a wall will give you a small burst of speed. This speed boost can be extremely helpful to win a 1v1 by utilising slash timings. This technique is good against people playing defensively.
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/8.webm" controls loop="loop" preload></video><br>
-
+[GIF]
 
 ### Following a retreating enemy through doors
 
 After an enemy player runs through his team's doors, the doors are momentarily left open. This can give you enough time to walk through them. You can often get to enemy shops or flags using this in a CTF game.
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/9.webm" controls loop="loop" preload></video><br>
+[GIF]
 
 ### Water buoyancy
 
