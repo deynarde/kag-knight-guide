@@ -136,15 +136,15 @@ The three most important things at this level are:
 
 ### Slashing fast
 
-As mentioned in chapter 1, this is very important. __You should be able to do slashes as soon as it's possible__ (after half a second -- watch your cursor for timings). The same applies to double slashes (38 ticks, that is 1.25 seconds).
+As mentioned in chapter 1, this is very important. **You should be able to do slashes as soon as it's possible** (after half a second -- watch your cursor for timings). The same applies to double slashes (38 ticks, that is 1.25 seconds).
 
 ### Jab after successful slashes
 
-This may be obvious, but it is very rarely used by newer players, especially on CTF. You can jab right after successfully slashing someone -- the slashed person is stunned for a short while (2/3s of a second) which allows you to land an additional jab in that time (thus dealing a total of 3 hearts of damage). You should almost always do this, the exception is when you're fighting several enemies at once -- this prevents accidentally jabbing someone's shield. In these situations you should generally focus on using slashes).
+This can seem like a basic thing, but it is very rarely used by majority of players, especially on CTF. You can jab right after successfully slashing someone -- the slashed person is stunned for a short while (2/3s of a second) which allows you to make an additional jab in that time (thus dealing a total of 3 hearts of damage). You should almost always do this, the exception is when you're fighting several enemies at once -- so that you don't accidentally jab someone's shield. In these situations you should generally focus on using slashes.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/18.webm" controls loop="loop" preload></video><br>
 
-You can do the same after successful double slashes.
+You can do the same after successful double slashes when the enemy was shielding.
 
 [GIF]
 
