@@ -8,9 +8,9 @@
 
 We'll start this section with a word about hitboxes in KAG:
 
-  <img src="imgs/knightmodel.png">
+ <img src="imgs/knightmodel.png">
 
-The hitbox of a knight is a circle (although it's an octagon here, but don't mind it).
+The hitbox of a knight is a circle (it's an octagon here and that's false, but don't mind it).
 
 Both jab and slash are shaped as arcs, which move with your character and are active for a certain duration (slashes last much longer than jabs).
 
@@ -94,7 +94,7 @@ A shield slide can be performed even on a single block. This can be very helpful
 
 Slashing can sometimes be used as an escape mechanism due to the small speed boost it gives.
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/slashescape.webm" controls loop="loop" preload></video><br>
+[new gif]
 
 ### Tower wall jump
 
@@ -130,7 +130,6 @@ Bomb jumps are good for getting around obstacles in CTF, so you should become ve
 
 You can also do multi bomb jumps -- read more about them in [Playing CTF] section.
 
-
 ## More on combat and using your sword
 
 The three most important things at this level are:
@@ -141,12 +140,13 @@ As mentioned in chapter 1, this is very important. __You should be able to do sl
 
 ### Jab after successful slashes
 
-This may be obvious, but it is very rarely used by newer players, especially on CTF. You can __jab right after successfully slashing someone__ -- the slashed person is stunned for a short while (2/3s of a second) which allows you to land an additional jab in that time (thus dealing a total of 3 hearts of damage). You should almost always do this, the exception is when you're fighting several enemies at once -- this prevents accidentally jabbing someone's shield. In these situations you should generally focus on using slashes).
+This may be obvious, but it is very rarely used by newer players, especially on CTF. You can jab right after successfully slashing someone -- the slashed person is stunned for a short while (2/3s of a second) which allows you to land an additional jab in that time (thus dealing a total of 3 hearts of damage). You should almost always do this, the exception is when you're fighting several enemies at once -- this prevents accidentally jabbing someone's shield. In these situations you should generally focus on using slashes).
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/18.webm" controls loop="loop" preload></video><br>
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/19.webm" controls loop="loop" preload></video><br>
+You can do the same after successful double slashes.
 
+[GIF]
 
 ### Low jumps while slashing
 
@@ -159,19 +159,20 @@ Keep in mind that your jumps should be small. A very common mistake people make 
 ---
 These are the 3 most important things at this level: slashing fast, jabbing after successful slashes and performing low jumps while slashing. Train these until it feels natural and you do it instinctively.
 ---
+
 Additionally, there are a few more things you can keep in mind, such as:
 
 ### Using double slashes
 
 Another common mistake is just constantly single slashing a shielding enemy. Some people use double slashes too rarely. Double slashes are a very good counter against defensive playstyles. Additionally, you can always land a jab after connecting with a double slash:
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/22.webm" controls loop="loop" preload></video><br>
+[GIF]
 
 Be wary, double slashing can be countered by good players, but you'll learn more about this in the next chapter.
 
 Double slashes are also very good to use after doing a successful slash/jab combo. Once you perform a slash, your enemy is likely to put his shield up and start retreating. You can follow him and double slash for an easy follow up. Keep in mind that this many not work against better players -- they can just jab to break your charging animations.
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/23.webm" controls loop="loop" preload></video><br>
+[GIF]
 
 ### Attacking an enemy who is stunned from jabbing your shield
 
@@ -187,11 +188,13 @@ There are 3 ways dealing damage to him. If someone jabs a shield, he's stunned f
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/25.webm" controls loop="loop" preload></video><br>
 
-3. Double jabbing -- Furthermore, you can land two jabs on an enemy stunned by shield jabbing. To do this, start rapidly clicking as soon as you notice the enemy has been stunned. However, keep in mind this is much harder and more risky than just a slash and also deals less damage (2 hearts from the jabs instead of 3 hearts from a successful slash + jab). This technique requires good ping to perform consistently.
+3. Double jabbing -- You can land two jabs on an enemy stunned by shield jabbing. This usually happens when you do a jab and then realise there's enough time for a 2nd jab. Keep in mind that it's usually much better to slash than double jab, because you do 1 more heart of damage.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/26.webm" controls loop="loop" preload></video><br>
 
-Using a double slash is pointless in these situations. The enemy will haves time to react and start shielding, so you will deal the same damage as you would by doing a single slash.
+If you start charging a slash but the enemy manages to get their shield back up before your slash is charged, you can try to charge it to a double slash. Keep in mind that in this case the enemy has more time to reacat and counterjab you.
+
+[GIF]
 
 ### Counter slashing
 
@@ -205,7 +208,7 @@ It is hard to counter a defensive play style which focuses on counter slashing. 
 
 ### Winning slash fights on L shape
 
-In L shaped environmental situations, the knight who moves first (red in the image below) tends to lose the slash battle – even if red slashed earlier. This is because red have a larger vertical speed but almost no horizontal speed. The knight who moves second (blue) will have a large horizontal speed towards the enemy – and is thus far more likely to connect first and win the fight.
+In L shaped environmental situations, the knight who moves first (red in the image below) can lose the slash battle –- even if they slashed earlier. This is because the red player has a larger vertical speed but almost no horizontal speed. The knight who moves second (blue) will have a large horizontal speed towards the enemy – and is thus far more likely to connect first and win the fight.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/30.webm" controls loop="loop" preload></video><br>
 
@@ -215,14 +218,15 @@ It is worth mentioning that the L-shape situation usually favours the knight com
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/lshape.webm" controls loop="loop" preload></video><br>
 
+In summary -- if you're in the situation in the first gif, try to bait the enemy to slash upwards first, and then follow up with your own slash. In the second situation, to the same, but keep in mind that if you two both slash together at the same time, you'll be the one to win.
+
 ## The art of shield bashing
 
 As mentioned earlier, you can quickly shield slide horizontally into someone or shield down while jumping at an enemy to stun him for a short while -- about half a second. Shield bashing is most useful in narrow corridors where it cannot be countered by an overhead jab or slash.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/32.webm" controls loop="loop" preload></video><br>
 
-Shield bashing is good for interrupting enemy slashes, but the beauty of shield bashes comes from being able to jab someone right after the shield bash connects.
-Shield bashing is a very important aspect of knight combat -- being able to shield bash properly and follow up with attacks can make a big difference, especially when fighting against defensive players.
+Shield bashing is good for interrupting enemy slashes, but the beauty of shield bashes comes from being able to jab someone right after the shield bash connects. It's a very important aspect of knight combat -- being able to shield bash properly and follow up with attacks can make a big difference, especially when fighting against defensive players.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/34.webm" controls loop="loop" preload></video><br>
 
