@@ -185,6 +185,8 @@ Water bombs can also be caught, but you have to be careful, since water bombs wi
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/27.webm" controls loop="loop" preload></video><br>
 
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/watercatch.webm" controls loop="loop" preload></video><br>
+
 ## Combos after landing a successful slash
 
 If you're good and fast enough, just by landing one successful slash (or just doing a doubleslash) you can finish the enemy in most of situations.
