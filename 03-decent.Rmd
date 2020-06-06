@@ -62,7 +62,7 @@ A common situation is you and your enemy both have your shields up and are runni
 
 If you're decent at doing the moves from the earlier chapter and they feel natural to you, you can learn these:
 
-### Jab trading -- counterjabs
+### Jab trading - counterjabs
 
 If you get jabbed any time, you can always instantly jab right after.
 
