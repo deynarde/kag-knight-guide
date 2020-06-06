@@ -152,7 +152,7 @@ The keg will also fall off from your back when shot by an archer. If that happen
 
 Enemy fire arrows will light the keg as well. 
 
-[gif]
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/firekeg.webm" controls loop="loop" preload></video><br>
 
 ## Mobility
 
