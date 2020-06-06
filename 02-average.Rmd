@@ -82,7 +82,7 @@ After an enemy player runs through his team's doors, the doors are momentarily l
 
 If you wall-climb while underwater you receive a significant speed boost. This can be very useful for surprising your enemy with an upwards slash.
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/10.webm" controls loop="loop" preload></video><br>
+[GIF]
 
 ### Small shield glide
 
