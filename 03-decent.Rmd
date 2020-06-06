@@ -24,11 +24,11 @@ You can actually crouch while doing any actions, as long as you don't move. Also
 
 Crouches are a very good counter against stomps as well. If you see someone jumping at you from a distance (with their shield down) you should almost always crouch.
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/new1.webm" controls loop="loop" preload></video><br>
+[GIF]
 
 Keep in mind, however, that you can counter a crouching enemy by slashing them right before landing on them. If someone is charging a slash and wants to land on you, crouching probably isn't a good idea.
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/4.webm" controls loop="loop" preload></video><br>
+[GIF]
 
 ### Attacking while being 'inside' someone that's shielding
 
@@ -46,19 +46,43 @@ A common situation is you and your enemy both have your shields up and are runni
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/9.webm" controls loop="loop" preload></video><br>
 
+### Some additional gifs of crouches in gameplay
+
+[GIF 1]
+
+[GIF 2]
+
+[GIF 3]
+
+[GIF 4]
+
+[GIF 5]
+
 ## Some more moves and tricks
 
 If you're decent at doing the moves from the earlier chapter and they feel natural to you, you can learn these:
+
+### Jab trading -- counterjabs
+
+If you get jabbed any time, you can always instantly jab right after.
+
+[GIF]
+
+[GIF 1]
+
+This is easier to do if you are charging a slash and get jabbed; in that case, just release left mouse button and start holding right mouse button (shielding) -- if your slash was recently interrupted, you'll just release a jab right after that.
+
+[GIF]
 
 ### Countering double slashes
 
 If you're in a situation when the enemy is constantly spamming slashes and you must shield yourself, they may eventually decide to charge a doubleslash. This can be countered: if you notice that they're charging their slash for longer than usual, you can jab them and interrupt their slash.
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/10fx.webm" controls loop="loop" preload></video><br>
+[GIF]
 
-However... this can also be countered - the person charging a double slash can just release their button, counterjabbing the enemy.
+This can also be countered with a double slash - the person charging a double slash can do a counterjab, like mentioned in the section earlier.
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/11.webm" controls loop="loop" preload></video><br>
+[GIF]
 
 He can also just try to not be close enough for you to jab - in some situations if you're fast enough and realise they're going to double slash you can quickly run away with a quick shield slide, but if they're fast they can just slash you before you do that.
 
@@ -68,12 +92,13 @@ Also, if you know that the enemy knows how to interrupt double slashes with jabs
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/12.webm" controls loop="loop" preload></video><br>
 
-### Counter jab
-A counter jab punishes the enemy for missing their attack. As the enemy ends their slash, turn around and quickly jab them. They won’t have time to shield.
+### Bait jab
+
+A bait jab punishes the enemy for missing their attack. As the enemy ends their slash, get close to them and quickly jab them. They won’t have time to shield.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/13.webm" controls loop="loop" preload></video><br>
 
-It's a good way to play against players who just slashspam - bait them to jump at you with their slash, dodge it and then quickly jab right after.
+It's a good way to play against players who just slashspam -- bait them to jump at you with their slash, dodge it and then quickly jab right after.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/dodgejab.webm" controls loop="loop" preload></video><br>
 
@@ -93,7 +118,7 @@ One way to escape this situation is with a quick jab – which will interrupt th
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/146.webm" controls loop="loop" preload></video><br>
 
-Beware though – if you have only 1 heart, a good enemy will instantly jab you back for the kill. Also, there's a chance that the enemy will shield after slashing - worry not, you will learn what to do if this happens in the next chapter.
+Beware though –- if you have only 1 heart, a good enemy will instantly counterjab you back for the kill. Also, there's a chance that the enemy will shield after slashing - worry not, you will learn what to do in this case in the next chapter.
 
 ### Fake jab
 
@@ -205,7 +230,3 @@ If you're good and fast enough, just by landing one successful slash (or just do
 A successful slash / double slash + jab combined with an overhead jab. The enemy will still be ‘in shock’ from the slash + jab and usually won’t be fast enough to shield the final jab.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/31.webm" controls loop="loop" preload></video><br>
-
-## Noanims
-
-At this point, you may probably want to visit the noanims section. They're a rather weird part of the game, but a part of it nonetheless and you should learn more about them. Visit the playing CTF section if you didn't do so yet as well.
