@@ -46,7 +46,7 @@ A double slash takes 1.25 second to fully charge. Again, watch the cursor for ti
 
 If the enemy is shielding, the first slash breaks the shield, then the second slash deals 2 hearts of damage.
 
-[gif double slash on person shield pierce]
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/dslash4.webm" controls loop="loop" preload></video><br>
 
 ### Shield slide
 
