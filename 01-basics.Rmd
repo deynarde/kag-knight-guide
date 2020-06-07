@@ -88,15 +88,15 @@ There are various knight-specific items that you can utilise, such as bombs or w
 
 Bombs cost 25 coins in CTF knight shop or 20 coins in a TDM trader shop. They are activated by pressing space bar after selecting the bomb from your class menu (hold down the F key). It takes 4 seconds for a bomb to 'cook' before it explodes. You can throw bombs at enemies to damage them (the damage taken depends on how close to the enemy the bomb explodes -- 3 hearts or 1,5 hearts).
 
-[gif of bomba throw]
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/bombthrow.webm" controls loop="loop" preload></video><br>
 
 You can perform "bomb jumps" on bombs as well. Simply jump slightly and then shield the bomb before it explodes.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/bombjamp.webm" controls loop="loop" preload></video><br>
 
-If a bomb is thrown too early, it can be picked up back and threw again. Try to not throw bombs too early.
+If a bomb is thrown too early, it can be picked up back and threw again by other people. Don't throw bombs too early and try to catch bombs thrown by enemies.
 
-[gif need new here]
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/bombcatch.webm" controls loop="loop" preload></video><br>
 
 ### Waterbombs
 
@@ -146,7 +146,7 @@ Kegs will also light other nearby unlit kegs on explosion. The fuse will be shor
 
 [gif]
 
-The keg will also fall off from your back when shot by an archer. If that happens, pick it back up as fast as possible.
+The keg will also fall off from your back after being shot by an archer (the keg, not you). If that happens, pick it back up as fast as possible.
 
 [gif]
 
