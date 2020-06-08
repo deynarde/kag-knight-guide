@@ -104,19 +104,19 @@ Waterbombs cost 30 coins in CTF and 40 coins in TDM. Again, select them from you
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/waterbomba.webm" controls loop="loop" preload></video><br>
 
-If shielded, they stun for a slightly shorter time. 
+If you successfully stun someone with a water bomb, you can follow up with an attack, such as a slash or a double slash.
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/waterslash.webm" controls loop="loop" preload></video><br>
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/waterdslash.webm" controls loop="loop" preload></video><br>
+
+If shielded, water bombs stun for a slightly shorter time. 
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/18.webm" controls loop="loop" preload></video>
 
 You can also put a sponge in your inventory (bought at TDM trader shop or CTF builder shop -- 15 coins) for an even shorter stun. They stun is even shorter if you have both a sponge and your shield up. The sponge gets destroyed after absorbing two water stuns.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/18.webm" controls loop="loop" preload></video>
-
-If you successfully stun someone with a water bomb, you can follow up with an attack, such as a slash or a double slash.
-
-<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/waterslash.webm" controls loop="loop" preload></video><br>
-
-<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/waterdslash.webm" controls loop="loop" preload></video><br>
 
 ### Mines
 
@@ -130,7 +130,7 @@ You can pick up enemy mines before they deploy as well -- simply press the C key
 
 ### Kegs
 
-Kegs (costs 120 coins in knight shop) are powerful and unshieldable explosive items with a 6 second fuse, activated by pressing the space key (only knights can activate them). You should avoid fighting enemies while holding a keg (you can't put it in your inventory) because upon being hit by the enemy (even if shielding) or stunned with a waterbomb, the keg will often fall off from your back. They may then steal it and use it to hurt your team (one of the most common mistakes that can be made). Moreover, you're also much slower when holding a keg.
+Kegs (costs 120 coins in knight shop) are powerful and unshieldable explosive items with a 6 second fuse, activated by pressing the space key (only knights can activate them). You should avoid fighting enemies while holding a keg (you can't put it in your inventory) because upon being hit by the enemy (even if shielding) or stunned with a waterbomb, the keg will often fall off from your back. The enemy may then steal it and use it to hurt your team. Moreover, you're also much slower when holding a keg.
 
 Generally, you should activate kegs in the middle of the enemy base or next to the enemy flag room.
 
@@ -144,7 +144,7 @@ Kegs explode on impact instantly with high enough velocity, for example if you t
 
 Kegs will also light other nearby unlit kegs on explosion. The fuse will be shorter than usual (like 1 second instead of 6 seconds).
 
-[gif]
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/kegchain.webm" controls loop="loop" preload></video><br>
 
 The keg will also fall off from your back after being shot by an archer (the keg must be shot -- shielded arrows won't cause the keg to fall). If that happens, pick it back up as fast as possible.
 
