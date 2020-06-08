@@ -146,9 +146,9 @@ Kegs will also light other nearby unlit kegs on explosion. The fuse will be shor
 
 [gif]
 
-The keg will also fall off from your back after being shot by an archer (the keg, not you). If that happens, pick it back up as fast as possible.
+The keg will also fall off from your back after being shot by an archer (the keg must be shot -- shielded arrows won't cause the keg to fall). If that happens, pick it back up as fast as possible.
 
-[gif]
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/kegar.webm" controls loop="loop" preload></video><br>
 
 Enemy fire arrows will light the keg as well. 
 
