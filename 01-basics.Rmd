@@ -120,13 +120,21 @@ You can also put a sponge in your inventory (bought at TDM trader shop or CTF bu
 
 ### Mines
 
-Mines can be bought for 60 coins in a knight shop and can be used by all classes. After taking the mine out of your inventory (F key) you can throw it somewhere. If the mine will not be moved for 2 seconds, it will deploy. Deployed mines instantly kill enemies and can't be shielded, so you should watch out for enemy mines! **This is especially important when playing CTF and pushing with your team in a closed space -- let the builders destroy the mines, don't walk into them -- if you walk into a mine and your teammates are also near, they will be killed as well.**
+Mines can be bought for 60 coins in a knight shop and can be used by all classes. After taking the mine out of your inventory (F key) you can throw it somewhere. If the mine will not be moved for 2 seconds, it will deploy. Deployed mines instantly kill enemies that touch them and can't be shielded, so you should watch out for enemy mines! **This is especially important when playing CTF and pushing with your team in a closed space -- let the builders destroy the mines, don't walk into them -- if you walk into a mine and your teammates are also near, they will be killed as well.**
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/21.webm" controls loop="loop" preload></video><br>
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/mina2.webm" controls loop="loop" preload></video><br>
 
 You can pick up enemy mines before they deploy as well -- simply press the C key when next to them.
 
 [GIF]
+
+Mines also explode upon contact with a corpse of the enemy team.
+
+[GIF]
+
+If the mine explodes near the person who bought it, they will also die. Their teammates however would not (in other words -- you can die to enemy mines and to your own mines activated by enemies, but not to your teammates' mines).
 
 ### Kegs
 
@@ -134,7 +142,7 @@ Kegs (costs 120 coins in knight shop) are powerful and unshieldable explosive it
 
 Generally, you should activate kegs in the middle of the enemy base or next to the enemy flag room.
 
-[gif - putting keg next to tower]
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/towerkeg.webm" controls loop="loop" preload></video><br>
 
 [gif flagroom]
 
