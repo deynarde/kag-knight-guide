@@ -72,11 +72,11 @@ Pushing off a wall will give you a small burst of speed. This speed boost can be
 
 [GIF]
 
-### Following a retreating enemy through doors
+### Making use of enemies opening doors
 
-After an enemy player runs through his team's doors, the doors are momentarily left open. This can give you enough time to walk through them. You can often get to enemy shops or flags using this in a CTF game.
+After an enemy player goes through his team's doors, the doors are momentarily left open. This also happens if you kill an enemy in any doors -- their corpse will hold the door open. This lets you walk through them. You can often get to enemy shops or flagrooms using this in a CTF game.
 
-[GIF]
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/durthru3.webm" controls loop="loop" preload></video><br>
 
 ### Water buoyancy
 
