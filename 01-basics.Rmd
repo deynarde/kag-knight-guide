@@ -136,6 +136,8 @@ Mines also explode upon contact with a corpse of the enemy team.
 
 If the mine explodes near the person who bought it, they will also die. Their teammates however would not (in other words -- you can die to enemy mines and to your own mines activated by enemies, but not to your teammates' mines).
 
+Mines also explode when shot by an archer of the opposing team (e.g. blue mine getting shot by red archer)
+
 ### Kegs
 
 Kegs (costs 120 coins in knight shop) are powerful and unshieldable explosive items with a 6 second fuse, activated by pressing the space key (only knights can activate them). Kegs instantly kill all players in range of the explosion -- both teammates and enemies You should avoid fighting enemies while holding a keg (you can't put it in your inventory) because upon being hit by the enemy (even if shielding) or stunned with a waterbomb, the keg will often fall off from your back. The enemy may then steal it and use it to hurt your team. Moreover, you're also much slower when holding a keg.
