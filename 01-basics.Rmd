@@ -70,7 +70,7 @@ You can use your shield as a parachute:
 
 Not specifically a knight-only move, but you can stomp the enemy if you fall onto them with enough momentum. Most stomps are 1 heart stomps, but 2 heart stomps are possible with enough velocity too.
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/stomp.webm" controls loop="loop" preload></video><br>
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/stomp1.webm" controls loop="loop" preload></video><br>
 
 You can't be stomped by archers or builders if you have your shield up. However, if the stomp is combined with a shieldbash (having your shield down while jumping at the enemy), knights are still able to stomp other shielding knights.
 
