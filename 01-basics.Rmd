@@ -94,7 +94,7 @@ You can perform "bomb jumps" on bombs as well. Simply jump slightly and then shi
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/bombjamp.webm" controls loop="loop" preload></video><br>
 
-If a bomb is thrown too early, it can be picked up back and threw again by other people. Don't throw bombs too early and try to catch bombs thrown by enemies.
+If a bomb is thrown too early, it can be picked up and thrown back by other people. Don't throw bombs too early and try to catch bombs thrown by enemies.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/bombcatch.webm" controls loop="loop" preload></video><br>
 
