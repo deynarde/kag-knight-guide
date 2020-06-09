@@ -64,11 +64,11 @@ It is possible to climb arrows that have been shot into blocks. It is also possi
 
 Arrows that are stuck in air (for example, if they were shot at a structure that collapsed later) can also be climbed.
 
-[GIF]
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/airarrow.webm" controls loop="loop" preload></video><br>
 
 ### Using walls for extra velocity
 
-Pushing off a wall will give you a small burst of speed. This speed boost can be extremely helpful to win a 1v1 by utilising slash timings. This technique is good against people playing defensively.
+Pushing off a wall will give you a small burst of speed. This speed boost can be extremely helpful to win battles by utilising slash timings. It's also good against people playing defensively.
 
 [GIF]
 
@@ -92,7 +92,7 @@ A shield slide can be performed even on a single block. This can be very helpful
 
 ### Slash escape
 
-Slashing can sometimes be used as an escape mechanism due to the small speed boost it gives.
+Slashing can sometimes be used as an escape mechanism due to the small speed boost it gives. This is usually done when you start charging a slash but notice that the enemy is more likely to hit you due to him starting charging a slash earlier as well as being too close to you -- you avoid getting hit by slash escaping.
 
 [new gif]
 
@@ -222,7 +222,7 @@ In summary -- if you're in the situation in the first gif, try to bait the enemy
 
 ## The art of shield bashing
 
-As mentioned earlier, you can quickly shield slide horizontally into someone or shield down while jumping at an enemy to stun him for a short while -- about half a second. Shield bashing is most useful in narrow corridors where it cannot be countered by an overhead jab or slash.
+As mentioned earlier, you can quickly shield slide horizontally into someone or shield down while jumping at an enemy to stun them for a short while -- about half a second. Shield bashing is most useful in narrow corridors where it cannot be countered by an overhead jab or slash.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/32.webm" controls loop="loop" preload></video><br>
 
