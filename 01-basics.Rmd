@@ -52,7 +52,7 @@ If the enemy is shielding, the first slash breaks the shield, then the second sl
 
 Holding W and pointing your shield down while moving horizontally will allow you to shield slide.
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/shieldslide.webm" controls loop="loop" preload></video><br>
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/slide4.webm" controls loop="loop" preload></video><br>
 
 ### Shield bash
 
@@ -168,7 +168,7 @@ One of the most important things to learn when you're starting to play KAG is ho
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/25.webm" controls loop="loop" preload></video>
 
-You can jump higher than normal if you slash upwards while jumping.
+You can jump higher than normal if you slash while jumping.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/26.webm" controls loop="loop" preload></video><br>
 
