@@ -116,7 +116,7 @@ If shielded, water bombs stun for a slightly shorter time.
 
 You can also put a sponge in your inventory (bought at TDM trader shop or CTF builder shop -- 15 coins) for an even shorter stun. They stun is even shorter if you have both a sponge and your shield up. The sponge gets destroyed after absorbing two water stuns.
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/18.webm" controls loop="loop" preload></video>
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/19.webm" controls loop="loop" preload></video>
 
 ### Mines
 
@@ -128,11 +128,11 @@ Mines can be bought for 60 coins in a knight shop and can be used by all classes
 
 You can pick up enemy mines before they deploy as well -- simply press the C key when next to them.
 
-[GIF]
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/mineup.webm" controls loop="loop" preload></video><br>
 
 Mines also explode upon contact with a corpse of the enemy team.
 
-[GIF]
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/corpsemine.webm" controls loop="loop" preload></video><br>
 
 If the mine explodes near the person who bought it, they will also die. Their teammates however would not (in other words -- you can die to enemy mines and to your own mines activated by enemies, but not to your teammates' mines).
 
