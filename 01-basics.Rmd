@@ -74,7 +74,9 @@ Not specifically a knight-only move, but you can stomp the enemy if you fall ont
 
 You can't be stomped by archers or builders if you have your shield up. However, if the stomp is combined with a shieldbash (having your shield down while jumping at the enemy), knights are still able to stomp other shielding knights.
 
-[laggy gif, need new one]
+In the below gif first I do two single heart stomps, and then one two-heart stomp.
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/ssbash.webm" controls loop="loop" preload></video><br>
 
 ### Combining slashes, jabs, stomps, bashes
 
