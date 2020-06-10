@@ -218,16 +218,18 @@ If you're good and fast enough, just by landing one successful slash (or just do
 
 ### Slash + jab + shieldbash + jab
 
-- Successful slash / double slash
+- Successful slash / double slash on shield
 - Jab
-- Move away and then shield slide the enemy to break their shield
+- Shield bash the enemy to stun them
 - Jab again
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/28.webm" controls loop="loop" preload></video><br>
 
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/combopog.webm" controls loop="loop" preload></video><br>
+
 ### Slash + jab + overhead jab
 
-A successful slash / double slash + jab combined with an overhead jab. The enemy will still be ‘in shock’ from the slash + jab and usually won’t be fast enough to shield the final jab (he's likely to shield horizontally instead of vertically).
+A successful slash / double slash on shield + jab combined with an overhead jab. The enemy will still be ‘in shock’ from the slash + jab and usually won’t be fast enough to shield the final jab (he's likely to shield horizontally instead of vertically).
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/31.webm" controls loop="loop" preload></video><br>
 
