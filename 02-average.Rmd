@@ -38,7 +38,7 @@ A knight can jump higher than normal by slashing to get extra velocity. Time you
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/10climbs.webm" controls loop="loop" preload></video><br>
 
-You can also do the same with a double slash -- a total of 10 blocks can be climbed this way (in theory you can do 11, but it's not practical).
+You can also do the same with a double slash -- a total of 10 blocks can be climbed this way (in theory you can do 11, but it's not very practical).
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/10climbd.webm" controls loop="loop" preload></video><br>
 
@@ -144,9 +144,7 @@ This can seem like a basic thing, but it is very rarely used by majority of play
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/18.webm" controls loop="loop" preload></video><br>
 
-You can do the same after successful double slashes when the enemy was shielding.
-
-[GIF]
+You can do the same after successful double slashes when the enemy was shielding (look: double slash section, a bit below).
 
 ### Low jumps while slashing
 
@@ -164,15 +162,11 @@ Additionally, there are a few more things you can keep in mind, such as:
 
 ### Using double slashes
 
-Another common mistake is just constantly single slashing a shielding enemy. Some people use double slashes too rarely. Double slashes are a very good counter against defensive playstyles. Additionally, you can always land a jab after connecting with a double slash:
+Another common mistake is just constantly single slashing a shielding enemy. Some people use double slashes too rarely. Double slashes are a very good counter against defensive playstyles. Additionally, you can always land a jab after connecting with a double slash. Double slashes are also very good to use after doing a successful slash+jab or a double slash on shield+jab combo. Once you successfully damage the enemy with that combo, your enemy is likely to put his shield up and start retreating. You can then follow him and double slash for an easy kill. All of that happens in the gif below.
 
-[GIF]
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/pogslash.webm" controls loop="loop" preload></video><br>
 
-Be wary, double slashing can be countered by good players, but you'll learn more about this in the next chapter.
-
-Double slashes are also very good to use after doing a successful slash/jab combo. Once you perform a slash, your enemy is likely to put his shield up and start retreating. You can follow him and double slash for an easy follow up. Keep in mind that this many not work against better players -- they can just jab to break your charging animations.
-
-[GIF]
+Keep in mind that better players are likely to jab to break your charging animation -- you can just counterjab in this case and kill them (more about jab trading and counterjabs in the next chapter).
 
 ### Attacking an enemy who is stunned from jabbing your shield
 
@@ -198,11 +192,11 @@ If you start charging a slash but the enemy manages to get their shield back up 
 
 ### Counter slashing
 
-If you are against an aggressive player, a good way to beat them is to bait them to attack you with their slash or double slash. As they move towards you, you move backwards whilst charging your own slash. As their slash ends, you move forwards and slash at them. You can do the same with a double slash or jab.
+If you are against an aggressive player, a good way to beat them is to bait them to attack you with their slash or double slash. As they move towards you, you move away from them whilst charging your own slash. After they miss a slash, you move forwards and slash at them. You can do the same with a double slash or jab.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/27.webm" controls loop="loop" preload></video><br>
 
-It is hard to counter a defensive play style which focuses on counter slashing. Counter slashing is also the best way to fight against several enemies at once - a typical combo includes; slash, retreat, slash, and so on.
+It is hard to counter a defensive play style which focuses on counter slashing. Counter slashing is also the best way to fight against several enemies at once -- a typical combo includes; slash, retreat, slash, and so on.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/29.webm" controls loop="loop" preload></video><br>
 
