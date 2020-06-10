@@ -227,6 +227,18 @@ If you're good and fast enough, just by landing one successful slash (or just do
 
 ### Slash + jab + overhead jab
 
-A successful slash / double slash + jab combined with an overhead jab. The enemy will still be ‘in shock’ from the slash + jab and usually won’t be fast enough to shield the final jab.
+A successful slash / double slash + jab combined with an overhead jab. The enemy will still be ‘in shock’ from the slash + jab and usually won’t be fast enough to shield the final jab (he's likely to shield horizontally instead of vertically).
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/31.webm" controls loop="loop" preload></video><br>
+
+However, this can still be shielded if you have fast enough reflexes. Pay attention to what the enemy is going to do after doing a slash+jab combo on you.
+
+### Slash + jab + double slash on shield (optionally counterjab)
+
+As mentioned in the earlier chapter, once you successfully damage the enemy with that a slash+jab, your enemy is likely to put his shield up and start retreating. You can then follow him and double slash for an easy kill. Generally this is the safest thing to do after doing a slash + jab combo.
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/pogslash.webm" controls loop="loop" preload></video><br>
+
+Even if the enemy will jab you, as mentioned earlier you can counterjab instantly and take their last heart away.
+
+[gif]
