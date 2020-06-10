@@ -233,7 +233,9 @@ A successful slash / double slash on shield + jab combined with an overhead jab.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/31.webm" controls loop="loop" preload></video><br>
 
-However, this can still be shielded if you have fast enough reflexes. Pay attention to what the enemy is going to do after doing a slash+jab combo on you.
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/combopog.webm" controls loop="loop" preload></video><br>
+
+However, this can still be shielded if you have fast enough reflexes. Pay attention to what the enemy is going to do after doing a slash + jab combo on you.
 
 ### Slash + jab + double slash on shield (optionally counterjab)
 
