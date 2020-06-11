@@ -88,15 +88,17 @@ This can also be countered with a double slash - the person charging a double sl
 
 [GIF]
 
-He can also just try to not be close enough for you to jab - in some situations if you're fast enough and realise they're going to double slash you can quickly run away with a quick shield slide, but if they're fast they can just slash you before you do that.
+They can also just try to not be close enough for you to jab -- in some situations if you're fast enough and realise they're going to double slash you can quickly run away with a quick shield slide, but if they're fast they can just slash you before you do that.
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/112.webm" controls loop="loop" preload></video><br>
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/112.webm" controls loop="loop" preload></video><br
 
-Also, if you know that the enemy knows how to interrupt double slashes with jabs, you can also prevent them from doing it. You can try charging a slash for a little longer than a perfect 15 tick (half a second) slash, but not as long as a double slash - if you're lucky, the enemy will attempt a jab but you will slash them first and be able to damage them easily.
+### Prolonged slashes
+
+If you know that the enemy knows how to interrupt double slashes with jabs and does it regularly, you can also prevent them from doing it. You can try charging a slash for a little longer than a perfect 16 tick (half a second) slash, but not as long as a double slash -- if you're lucky, the enemy will attempt a jab but you will slash them first and be able to damage them easily. 
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/12.webm" controls loop="loop" preload></video><br>
 
-### Bait jab
+### Bait jab, punishing enemies for missing slashes
 
 A bait jab punishes the enemy for missing their attack. As the enemy ends their slash, get close to them and quickly jab them. They won’t have time to shield.
 
@@ -106,13 +108,19 @@ It's a good way to play against players who just slashspam -- bait them to jump 
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/dodgejab.webm" controls loop="loop" preload></video><br>
 
+You can pretty much do this every time your enemy misses a slash but they're still close enough for you to jab.
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/missjab.webm" controls loop="loop" preload></video><br>
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/missjab2.webm" controls loop="loop" preload></video><br>
+
 ### Overhead jab
 
-A rather simple move, mentioned already as a counter when your enemy attempts to shield bash you with a shield slide, but you can do it when the enemy is just walking forward with their shield up as well:
+Mentioned already as a counter when your enemy attempts to shield bash you with a shield slide, but you can do it when the enemy is just walking forward with their shield up as well:
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/145.webm" controls loop="loop" preload></video><br>
 
-Jump over the enemy’s head quickly and jab them before they can react and move their shield. Don’t just click but instead hold your mouse button for a short while until you are at the perfect point to release the jab.
+Jump over the enemy’s head quickly and jab them before they can react and move their shield. Instead of clicking, you can also hold your mouse button for a short while until you are at the perfect point to release the jab.
 
 ### Tempo jab 
 
@@ -147,6 +155,8 @@ This is a very fun trick to do. Basically, the idea is to charge a double slash,
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/15.webm" controls loop="loop" preload></video><br>
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/faked.webm" controls loop="loop" preload></video><br>
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/fakedd.webm" controls loop="loop" preload></video><br
 
 ### Aggressive double slash
 
@@ -208,7 +218,7 @@ Bombs in water will rise very quickly upwards. This can be used to surprise an e
 
 ### Catching and throwing back enemy bombs
 
-You can catch enemy bombs and throw them back! The best way to do this is to catch with C and throw with Space. This is because the Space key cannot catch, only throw -- so it prevents you catching the bomb, throwing it, and catching it again -- which might happen if you just spam C. Be careful doing this -- if the enemy throws their bomb very late, you will just blow yourself up. 
+As mentioned in the first chapter, you can catch and throw back enemy bombs. The best way to do this is to catch with C and throw with Space. This is because the Space key cannot catch, only throw -- so it prevents you catching the bomb, throwing it, and catching it again -- which might happen if you just spam C. Be careful doing this -- if the enemy throws their bomb very late, you will just blow yourself up. 
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/26.webm" controls loop="loop" preload></video><br>
 
@@ -249,6 +259,6 @@ As mentioned in the earlier chapter, once you successfully damage the enemy with
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/pogslash.webm" controls loop="loop" preload></video><br>
 
-Even if the enemy will jab you, as mentioned earlier you can counterjab instantly and take their last heart away.
+Even if the enemy will interrupt the double slash and jab you, as mentioned earlier you can counterjab instantly and take their last heart away.
 
-[gif]
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/dcntr.webm" controls loop="loop" preload></video><br>
