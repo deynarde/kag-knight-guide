@@ -68,7 +68,7 @@ Arrows that are stuck in air (for example, if they were shot at a structure that
 
 ### Using walls for extra velocity
 
-Pushing off a wall will give you a small burst of speed. This speed boost can be extremely helpful to win battles by utilising slash timings. It's also good against people playing defensively.
+Pushing off a wall will give you a small burst of speed. This speed boost can be helpful to win battles by utilising slash timings. It's also good against people playing defensively.
 
 [GIF]
 
@@ -186,9 +186,9 @@ There are 3 ways dealing damage to him. If someone jabs a shield, he's stunned f
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/26.webm" controls loop="loop" preload></video><br>
 
-If you start charging a slash but the enemy manages to get their shield back up before your slash is charged, you can try to charge it to a double slash. Keep in mind that in this case the enemy has more time to reacat and counterjab you.
+If you start charging a slash but the enemy manages to get their shield back up before your slash is charged, you can try to charge it to a double slash. Keep in mind that in this case the enemy has more time to react and can counterjab you, so it's good to keep some distance before the double slash is charged.
 
-[GIF]
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/dafterstun.webm" controls loop="loop" preload></video><br>
 
 ### Counter slashing
 
@@ -214,7 +214,7 @@ It is worth mentioning that the L-shape situation usually favours the knight com
 
 In summary -- if you're in the situation in the first gif, try to bait the enemy to slash upwards first, and then follow up with your own slash. In the second situation, to the same, but keep in mind that if you two both slash together at the same time, you'll be the one to win.
 
-## The art of shield bashing
+## Shield bashing and countering it
 
 As mentioned earlier, you can quickly shield slide horizontally into someone or shield down while jumping at an enemy to stun them for a short while -- about half a second. Shield bashing is most useful in narrow corridors where it cannot be countered by an overhead jab or slash.
 
@@ -224,9 +224,9 @@ Shield bashing is good for interrupting enemy slashes, but the beauty of shield 
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/34.webm" controls loop="loop" preload></video><br>
 
-Alternatively, there are several ways to counter shield bashes, all of which you should learn. These include overhead slashing, overhead jabbing and crouching (which you'll learn more about in the next chapter.)
+There are several ways to counter shield bashes, all of which you should learn. These include overhead slashing, overhead jabbing and crouching (which you'll learn more about in the next chapter.)
 
-Jumping over the shield sliding enemy whilst charging a slash and then hitting them in the back (either with the charged slash or jab) is a consistent way to beat shieldbashers. In some of the situations, the enemy won't even be able to put his shield back up, no matter what -- if you're shield sliding really fast there is a delay before putting your shield back up. However, this doesn't happen every time.
+Jumping over the shield sliding enemy whilst charging a slash and then hitting them in their head/back (either with the charged slash or jab) is a consistent way to beat shieldbashers. In some of the situations, the enemy won't even be able to put his shield back up, no matter what -- if you're shield sliding really fast there is a slight delay before putting your shield back up. However, this doesn't happen every time.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/overheadslash.webm" controls loop="loop" preload></video><br>
 
