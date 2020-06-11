@@ -20,7 +20,7 @@ It is possible to see your hit boxes by going into solo sandbox mode, opening th
 
 ## On learning itself
 
-If you want to get better at knight, the most important thing is practice. There are 3 options for that: playing TDMs, playing CTF or playing on a custom 1v1 server. 1v1s allow you to fully focus on purely knight gameplay, movement and timing. It's similar on TDM, but also with the inclusion of archers, so you get to train against them too. On CTF you're able to greatly help your builders and practice positioning and fighting against many enemies at once, as well as using kegs and bombs properly.
+If you want to get better at knight, the most important thing is practice. There are 3 options for that: playing TDMs, playing CTF or playing on a custom 1v1 server. 1v1s allow you to fully focus on purely knight gameplay, movement and timing. TDM is similar, but also with the inclusion of archers and items, so you get to train against them too. On CTF you're able to greatly help your builders and practice positioning and fighting against many enemies at once, as well as using kegs and bombs properly.
 
 You should always try to use tricks consistently. For a lot of moves, you just need to get into the habit of using them. If you really want to get better, we recommend always focusing and actually trying, no matter who you are playing against or what mode it is; playing optimally helps you in training muscle memory and getting used to the mechanics of knight combat. This applies to anyone, regardless of your skill level -- you should always give your best. Doing this will make you a better player.
 
@@ -80,7 +80,7 @@ After an enemy player goes through his team's doors, the doors are momentarily l
 
 ### Water buoyancy
 
-If you wall-climb while underwater you receive a significant speed boost. This can be very useful for surprising your enemy with an upwards slash.
+If you wallclimb while underwater you receive a significant speed boost. This can be very useful for surprising your enemy with an upwards slash.
 
 [GIF]
 
@@ -237,7 +237,3 @@ You can also do an overhead jab if you don't have enough time to charge a slash:
 Keep in mind that in this variation, if the enemy manages to put his shield back up, you may get stunned due to jabbing his shield.
 
 Again, don't be demotivated if this may seem a lot and it is hard for you to learn everything. Many good knights struggled with this - it takes them a while before it clicks and shield bashes just feel natural to them.
-
-## Playing CTF
-
-At this point it would be good for you to read the section for [Playing CTF] as well.
