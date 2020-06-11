@@ -104,9 +104,11 @@ This is a good way to get some extra horizontal distance when jumping off a towe
 
 ### Notch climbing
 
-If there are small holes in an enemy wall like in the gif below, you can use them to reset your walljump and climb higher.
+If there are small holes in a wall like in the gif below, you can use them to reset your walljump and climb higher. Gaps in walls like that are often accidentally made by bombs.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/notch.webm" controls loop="loop" preload></video><br>
+
+You could actually climb such a wall infinitely, as long as you made sure to reset the wallclimb at every gap.
 
 ### Bounce off water
 
