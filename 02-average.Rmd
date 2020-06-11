@@ -92,9 +92,13 @@ A shield slide can be performed even on a single block. This can be very helpful
 
 ### Slash escape
 
-Slashing can sometimes be used as an escape mechanism due to the small speed boost it gives. This is usually done when you start charging a slash but notice that the enemy is more likely to hit you due to him starting charging a slash earlier as well as being too close to you -- you avoid getting hit by slash escaping.
+Slashing can sometimes be used as an escape mechanism due to the small speed boost it gives. This is usually done when you start charging a slash but notice that the enemy is more likely to hit you due to them starting charging a slash earlier as well as being too close to you -- you avoid getting hit by slash escaping.
 
-[new gif]
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/slashescape.webm" controls loop="loop" preload></video><br>
+
+In the gif below, the red knight would've died if they hadn't slash escaped (slashes have a short duration after releasing and move with the knight, so the blue knight's slash would've likely hit them)
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/slashescape2.webm" controls loop="loop" preload></video><br>
 
 ### Tower wall jump
 
@@ -176,9 +180,11 @@ If an enemy makes the mistake of jabbing your shield, you can pretty much always
 
 There are 3 ways dealing damage to him. If someone jabs a shield, he's stunned for 2/3s of a second - that is plenty of time to deal your damage.
 
-1. Slashing -- This option is the best and should be utilised the most often. As soon as you notice the person has been stunned, start charging a single slash. If you're fast enough, you should always be able to land a slash on the enemy (Remember to follow it up with a jab if your slash connected.)
+1. Slashing -- This option is the best and should be utilised the most often. As soon as you notice the person has been stunned, start charging a single slash. If you're fast enough, you should always be able to land a slash on the enemy. Remember to follow it up with a jab if your slash connected.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/24.webm" controls loop="loop" preload></video><br>
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/slashjab3.webm" controls loop="loop" preload></video><br>
 
 2. Jabbing -- If you don't have the confidence to perform slashes quickly, you can use a single jab. Keep in mind the earlier option is superior to this one and you should eventually learn to utilise it.
 
