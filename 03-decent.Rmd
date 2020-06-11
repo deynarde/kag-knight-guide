@@ -74,6 +74,10 @@ This is easier to do if you are charging a slash and get jabbed; in that case, j
 
 [GIF]
 
+If you know that the enemy will counterjab you, you can also counterjab the counterjab (red knight in GIF below).
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/countercounter.webm" controls loop="loop" preload></video><br>
+
 ### Countering double slashes
 
 If you're in a situation when the enemy is constantly spamming slashes and you must shield yourself, they may eventually decide to charge a doubleslash. This can be countered: if you notice that they're charging their slash for longer than usual, you can jab them and interrupt their slash.
@@ -128,19 +132,21 @@ Sometimes, when you and the enemy are shielding each other, you may attempt to d
 
 ### Slash stomping (easy version)
 
-When you have height advantage over the enemy (at least 3 blocks), you can just jump down at them with a slash. The slash will pierce their shield and the momentum from slashing will let you stomp them for 1 heart of damage.
+When you have height advantage over the enemy (at least 3 blocks), you can just jump down at them with a slash. The slash will pierce their shield and the additional velocity from slashing will let you stomp them for 1 heart of damage.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/147.webm" controls loop="loop" preload></video><br>
 
-Also, you can jab after every successful slashstomp:
+You can jab after every successful slashstomp.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/hura.webm" controls loop="loop" preload></video><br>
 
 ### Cancelling and baiting with a double slash
 
-This is a very fun trick to do. Basically, the idea is to charge a double slash, but only slash once, then shield. This way, you will get closer to the enemy, which will think you want to double slash them and try to counterjab, but will jab your shield instead.
+This is a very fun trick to do. Basically, the idea is to charge a double slash, but only slash once, then shield. This way, you will get closer to the enemy, which will think you want to double slash them and try to interrupt with a jab, but will jab your shield instead.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/15.webm" controls loop="loop" preload></video><br>
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/faked.webm" controls loop="loop" preload></video><br>
 
 ### Aggressive double slash
 
