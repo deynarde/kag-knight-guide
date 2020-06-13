@@ -10,6 +10,8 @@ This is another very important (and largely forgotten) feature in KAG. Basically
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/1fix.webm" controls loop="loop" preload></video><br>
 
+Keep in mind that slashing moves you slightly, even if you stand still -- you have to re-crouch after releasing every slash.
+
 ### Countering shieldbashes
 
 Aside from overhead attacks to counter enemies shield sliding into you, you can decide to crouch instead. The sliding enemy just goes through you and you can surprise them with an attack right after. You can actually crouch while doing any actions -- even shielding or slashing, as long as you don't move. Any time you move, you have to press S again after that to keep crouching. Keep in mind that there are no seperate animations for crouching while slashing or shielding.
