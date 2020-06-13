@@ -9,25 +9,43 @@
 
 You'll learn about the final tricks which you should learn now, requiring very good timing and being familiar with how the game works in general.
 
-### Aggressive jab (jab charge)
+### Aggressive jabs
 
-An aggressive but extremely fun move; a jab charge is a quick shield slide to gain speed followed by a jab. This is an effective way to interrupt someone who is charging a slash -- but for it to succeed it must be done with extreme speed and good timing.
+One aggressive and extremely fun move is a jab charge -- a quick shield slide to gain speed followed by a jab. This is an effective way to interrupt someone who is charging a slash -- but for it to succeed it must be done with extreme speed and good timing.
+
+Keep in mind that sometimes you may want to press left mouse button before you even get near the enemy (jabs aren't instant because you always have slight delay on online servers, and they also have a duration). This also applies to the rest of this section.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/04-good/1.webm" controls loop="loop" preload></video><br>
 
+<video style="display:block; max-width:100%; height:auto;" src="webm/04-good/agjab.webm" controls loop="loop" preload></video><br>
+
+You can actually try to interrupt every slash with a jab as soon as you're close enough to the enemy -- but keep in mind this requires a lot of focus and very good reflexes. You have only half a second before the enemy is able to release your slash, so be careful. This is something that only the best knights do, but it's very satisfying to constantly interrupt slashes with jabs.
+
+[gif]
+
+[gif]
+
+[gif]
+
+[gif]
+
+[gif]
+
 ### Instajabs
 
-This is a very important move in high end duels. It allows you to damage knights that slash your shield, even if they shield right after.
+This is a very important move in high end duels, similar to [tempo jabs] from the previous chapter. It allows you to damage knights that slash your shield, even if they shield right after. Basically -- there's a small delay between slashing and putting your shield back up. If you put your shield up right after slashing, the animation may show, but the shield won't actually be there.
 
-Basically -- there's a small delay between slashing and putting your shield back up. If you put your shield up right after slashing, the animation may show, but the shield won't actually be there. Moreover, it usually ends up causing messed up animations (if the enemy does an instajab) -- because on your screen the enemy jabbed the shield.
+During that small delay, and right after your stun from being slashed in the shield is finished, you can jab the enemy. It requires good timing and quite a bit of training. In most cases you want to click left mouse button while you're still stunned on your screen.
 
-During that small delay, and right after your stun from being slashed in the shield is finished, you can jab the enemy. It requires good timing and quite a bit of training.
+[gif 1]
 
-POV of instajabbing person:
-<video style="display:block; max-width:100%; height:auto;" src="webm/04-good/3.webm" controls loop="loop" preload></video><br>
+[gif 2]
 
-POV of instajabbed person:
-<video style="display:block; max-width:100%; height:auto;" src="webm/04-good/4.webm" controls loop="loop" preload></video><br>
+[gif 3]
+
+[gif 4]
+
+If you know that the enemy knows how to instajab, you should try to jump back slightly after slashing them on their shield.
 
 ### Instaslashes
 
@@ -72,13 +90,19 @@ At this point, you can phase through the enemy and attack them.
 
 ### Glue after crouch
 
-When you and the enemy keep walking into each other, you can move back slightly, crouch and wait for him to get inside you, then release the crouch and start walking forward. In some cases you may glue yourself to the enemy -- you should use this to your advantage and slash your enemy when he's confused and doesn't know what direction to shield. On your enemy's screen, you aren't inside him.
+When you and the enemy keep walking into each other, you can move back slightly, crouch and wait for him to get inside you, then stop the crouching and start walking forward. In some cases you may glue yourself to the enemy (you will be moving the enemy towards where you're walking) -- you should use this to your advantage and slash your enemy when he's confused and doesn't know what direction to shield. On your enemy's screen, you aren't inside them -- you're in front of them.
 
 Enemy's POV:
+
 <video style="display:block; max-width:100%; height:auto;" src="webm/04-good/55.webm" controls loop="loop" preload></video><br>
 
 Your POV:
+
 <video style="display:block; max-width:100%; height:auto;" src="webm/04-good/56.webm" controls loop="loop" preload></video><br>
+
+Example in actual gameplay:
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/04-good/crouchglue.webm" controls loop="loop" preload></video><br>
 
 ### Shieldslide crouch
 
@@ -91,6 +115,4 @@ Works best on a flat terrain. Basically, do a quick shieldslide, but stop when y
 
 At this point, you know pretty much all the moves. If you can do all of them, all there's left for you to do is just mastering everything. Keep optimising your playstyle. Of course, you won't ever stop doing mistakes completely, but now you just need to focus on doing them less and less. Train your timing and muscle memory to be even better.
 
-We recommend getting into competitive CTF if you didn't yet. In our opinion, competitive CTF (Captains, clanwars and so on) is much more fun than just plain 1v1s and playing TDMs. You also learn how to teamwork much better there, and in general it's a lot more satisfying to play.
-
-If you want to learn even more about Knight, and want to win tournaments outside of your region, you could try learning and mastering playing with lags (for example, most EU players get 133-166 ping on US servers). For more about this, read the section about playing with lags.
+We recommend getting into competitive CTF if you didn't yet. In our opinion, competitive CTF (Captains, clanwars and so on -- ask around on the official discord, discord.gg/kag) is much more fun than just plain 1v1s and playing TDMs. You also learn how to teamwork much better there, and in general it's a lot more satisfying to play. 
