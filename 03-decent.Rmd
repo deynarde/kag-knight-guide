@@ -6,15 +6,13 @@
 
 ## Crouching
 
-This is another very important (and largely forgotten) feature in KAG. Basically, when you crouch (hold S) and not move in any direction, enemies do not collide with you. This allows you to do lots of new situational moves. Crouching also increases the radius of your shield.
-
-### Countering shieldbashes
-
-Aside from overhead attacks to counter enemies shield sliding into you, you can decide to crouch instead. The sliding enemy just goes through you and you can surprise them with an attack right after.
+This is another very important (and largely forgotten) feature in KAG. Basically, when you crouch (hold S) and don't move in any direction, enemies do not collide with you. This allows you to do lots of new situational moves. 
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/1fix.webm" controls loop="loop" preload></video><br>
 
-You can actually crouch while doing any actions, as long as you don't move. Also, you can't see the enemies doing it - there are no seperate animations for crouching while doing other actions.
+### Countering shieldbashes
+
+Aside from overhead attacks to counter enemies shield sliding into you, you can decide to crouch instead. The sliding enemy just goes through you and you can surprise them with an attack right after. You can actually crouch while doing any actions -- even shielding or slashing, as long as you don't move. Any time you move, you have to press S again after that to keep crouching. Keep in mind that there are no seperate animations for crouching while slashing or shielding.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/2,.webm" controls loop="loop" preload></video><br>
 
@@ -22,31 +20,39 @@ You can actually crouch while doing any actions, as long as you don't move. Also
 
 ### Countering stomps
 
-Crouches are a very good counter against stomps as well. If you see someone jumping at you from a distance (with their shield down) you should almost always crouch.
+Crouches are a very good counter against stomps as well. If you see someone jumping at you from a distance with their shield down, or if it's an archer or a builder, you should almost always crouch.
 
 [GIF]
 
-Keep in mind, however, that you can counter a crouching enemy by slashing them right before landing on them. If someone is charging a slash and wants to land on you, crouching probably isn't a good idea.
+### Countering crouches (height advantage)
+
+However, if you have height advantage, you can counter a crouching+shielding enemy by slashing them right before landing on them. In this case, the slash will stun them and you'll be able to stomp them. This is mostly information regarding [Slash stomping (easy version)] for later. If you're the one without height advantage fighting a knight that slashes a lot, they're likely to do this, so in that case you may want to not crouch.
 
 [GIF]
 
 ### Attacking while being 'inside' someone that's shielding
 
-If the enemy crouches and you get inside them, you can also make use of that and attack them (with a jab or a slash). However, if they're shielding, it requires you to slash or jab in a specific direction.
+If you or your enemy walk into each other due to crouches, you can make use of that and attack them (with a jab or a slash). However, if they're shielding, it requires you to slash or jab in a specific direction.
 
-__You must attack in the direction they're shielding, or instead the shield will protect them from the attack.__
+__You must attack in the direction they're shielding, or instead their shield will protect them from the attack.__
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/new2.webm" controls loop="loop" preload></video><br>
+[staged gif demo]
 
 If you're fighting against a player who knows this technique, you can prevent them from damaging you by rapidly changing your direction of shielding.
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/8.webm" controls loop="loop" preload></video><br>
+[nonstaged gif]
 
-A common situation is you and your enemy both have your shields up and are running into each other (especially in narrow spaces). A good trick is to slightly move back and crouch, so that the enemy phases through you. As they get inside you, attack them.
+Sometimes your enemy may be running into you with their shield up -- this usually happens in narrow spaces. A good trick is to slightly move back and crouch, so that the enemy phases through you. As they get inside you, start moving in the direction they're moving and  attack them while aiming in the proper direction.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/9.webm" controls loop="loop" preload></video><br>
 
+If you're countering a shieldbash with a crouch, you want to slash down when the enemy phases into you (they're shielding down, so you want to slash in that direction).
+
+[GIF]
+
 ### Some additional gifs of crouches in gameplay
+
+If an enemy is on top of you and is shielding down, you can slash them and then stand still while crouching and slashing to damage them. Generally we can crouch after every slash in narrow spaces or when we're at a slightly height disadvantage in case the enemy tries to shieldbash or walk into us.
 
 [GIF 1]
 
@@ -59,8 +65,6 @@ A common situation is you and your enemy both have your shields up and are runni
 [GIF 5]
 
 ## Some more moves and tricks
-
-If you're decent at doing the moves from the earlier chapter and they feel natural to you, you can learn these:
 
 ### Jab trading - counterjabs
 
@@ -80,7 +84,7 @@ If you know that the enemy will counterjab you, you can also counterjab the coun
 
 ### Countering double slashes
 
-If you're in a situation when the enemy is constantly spamming slashes and you must shield yourself, they may eventually decide to charge a doubleslash. This can be countered: if you notice that they're charging their slash for longer than usual, you can jab them and interrupt their slash.
+If you're in a situation when the enemy is constantly spamming slashes and you must shield yourself, they may eventually decide to charge a doubleslash. This can be countered: if you notice that they're trying to charge a double slash instead of just a single slash, you can jab them and interrupt their slash.
 
 [GIF]
 
