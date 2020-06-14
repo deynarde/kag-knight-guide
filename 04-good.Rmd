@@ -4,7 +4,6 @@
   <img src="imgs/miecz.png">
 </p>
 
-
 ## More advanced moves and tricks
 
 You'll learn about the final tricks which you should learn now, requiring very good timing and being familiar with how the game works in general.
@@ -49,34 +48,65 @@ If you know that the enemy knows how to instajab, you should try to jump back sl
 
 ### Instaslashes
 
-Another useful move, in the past used only by very few players which knew about this. 
+The idea is that if someone slashes your shield, you can start holding left mouse button as soon as you get stunned, and release it when 75% of the cursor charges (first yellow dot on the cursor charging). Even though you see only 75% of the cursor, you will do a slash both on your screen and the enemy's screen.
 
-Basically, if someone slashes your shield, you can start holding left mouse button as soon as you get stunned, and release it when 75% of the cursor charges (first yellow dot on the cursor charging). On your screen it will show a jab, but it will actually be a slash. 
-With high ping (133+) 50% of the cursor also works.
+<video style="display:block; max-width:100%; height:auto;" src="webm/04-good/drag2.webm" controls loop="loop" preload></video><br>
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/04-good/asda.webm" controls loop="loop" preload></video><br>
+Any time you do a quick instaslash (75% of cursor), you'll be able to release it faster than the enemy will be able to, even if they're slashspamming. This is due to slashes having a duration after releasing -- you can't instantly start charging another slash after releasing one. Instaslashes make use of that -- they're a perfect counter against slashspamming enemies.
+
+You can actually do it from other stuns as well, such as being stunned from fall damage -- start slashing as soon as you get stunned. 
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/04-good/knockinsta1.webm" controls loop="loop" preload></video><br>
+
+Instaslashes are actually a very viable trick and not just a niche trick -- if somebody will start charging a slash right after releasing their first one on your shield, you will always be able to slash them.
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/04-good/insta1.webm" controls loop="loop" preload></video><br>
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/04-good/pepesad.webm" controls loop="loop" preload></video><br>
+
+As you can see in the gif below, you can of course do a jab after a successful instaslash -- they're pretty much the same as normal slashes.
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/04-good/insta2.webm" controls loop="loop" preload></video><br>
+
+90% of the cursor (final yellow dot before full cursor charge) obviously also works, but if the enemy is able to slash fast you may sometimes get slashed first. Try to do instaslashes as fast as possible.
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/04-good/insta3.webm" controls loop="loop" preload></video><br>
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/04-good/insta42.webm" controls loop="loop" preload></video><br>
 
 ### Jab after being slashed+jabbed
 
-You can jab right after being slashed + jabbed:
+You can jab right after being slashed + jabbed if you do it fast enough (I usually just mash the left mouse button when I'm waiting to get unstunned):
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/04-good/69.webm" controls loop="loop" preload></video><br>
 
+<video style="display:block; max-width:100%; height:auto;" src="webm/04-good/sadeg.webm" controls loop="loop" preload></video><br>
+
+If you know that the enemy does this consistently, you can counter it in 2 ways:
+
+A) counterjab the jab, killing the enemy (if they didn't heal):
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/04-good/sadge1.webm" controls loop="loop" preload></video><br>
+
+B) jump away right after doing the slash + jab combo:
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/realisation.webm" controls loop="loop" preload></video><br>
+
 ### Slash stomping (hard)
 
-Start charging a slash, jump from the highest point of the enemy (as mentioned earlier, the players' model is an octagon) shielding up and try to land on a lower point, slightly to the side. This way the slash pierces their shield, and the additional velocity allows you to do a 1 heart stomp.
+Start charging a slash, jump from the highest point of the enemy that is shielding up (as mentioned earlier, the players' model is a circle) and try to land on a lower point, slightly to the side. This way the slash pierces their shield, and the additional velocity allows you to do a 1 heart stomp.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/04-good/5.webm" controls loop="loop" preload></video><br>
 
 ### Shield bash + double jab
 
-Rather hard move to do, requires good timing and familiarity with shield bashes. Basically, shieldbash someone and then very quickly double jab.
+Rather hard move to do, requires good timing and familiarity with shield bashes. Basically, shieldbash someone and then very quickly double jab. Nobody in the game is able to do this consistently as of June 2020, so it's probably more trivia rather than an actual trick.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/04-good/6.webm" controls loop="loop" preload></video><br>
 
 ### Shield bash + slash
 
-This one is more trivia than an actual trick -- it's very hard to do this consistently. Basically, you need to do the fastest slash possible right after stunning the enemy. You basically need to start charging the slash before you know the enemy is even stunned, which is why it's so hard.
+This one is also more trivia than an actual trick, similarly to shield bash + double jab -- it's very hard to do this consistently. Basically, you need to do the fastest slash possible right after stunning the enemy. You basically need to start charging the slash before you know the enemy is even stunned, which is why it's so hard.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/04-good/7.webm" controls loop="loop" preload></video><br>
 
@@ -103,6 +133,8 @@ Your POV:
 Example in actual gameplay:
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/04-good/crouchglue.webm" controls loop="loop" preload></video><br>
+
+If this happens to you after walking into somebody's crouch (although on your screen you may not see yourself walking into a crouching enemy, which is why this happens), you should jab/slash in the opposite direction than you actually see the enemy (if you're walking left with somebody glued to you but them being in front of you from your right side, you should attack while aiming left rather than right). Better yet, you can also do 360 angle attacks (mentioned in chapter earlier, this is when you quickly move your mouse from left to right after releasing an attack -- attacks have a duration so the arc of the attack will be a full 360 angle arc) 
 
 ### Shieldslide crouch
 
