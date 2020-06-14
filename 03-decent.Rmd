@@ -22,15 +22,23 @@ Aside from overhead attacks to counter enemies shield sliding into you, you can 
 
 ### Countering stomps
 
-Crouches are a very good counter against stomps as well. If you see someone jumping at you from a distance with their shield down, or if it's an archer or a builder, you should almost always crouch.
+Crouches are a very good counter against stomps as well. If you see someone jumping at you from a distance with their shield down, or if it's an archer or a builder, you should always crouch.
 
-[GIF]
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/crouchone.webm" controls loop="loop" preload></video><br>
 
 ### Countering crouches (height advantage)
 
-However, if you have height advantage, you can counter a crouching+shielding enemy by slashing them right before landing on them. In this case, the slash will stun them and you'll be able to stomp them. This is mostly information regarding [Slash stomping (easy version)] for later. If you're the one without height advantage fighting a knight that slashes a lot, they're likely to do this, so in that case you may want to not crouch.
+However, if you have height advantage, you can counter a crouching+shielding enemy by slashing them right before landing on them. In this case, the slash will stun them and you'll be able to stomp them. Also see: [Slash stomping (easy version)] later this chapter. If you're the one without height advantage fighting a knight that slashes a lot, they're likely to do this, so in that case you may want to not crouch.
+
+In this gif, the person we're attacking is constantly trying to crouch.
 
 [GIF]
+
+### Countering crouches (equal level)
+
+If you're on the same ground level as your enemy and you notice that they're crouching (either trying to protect themselves from a shieldbash or trying to bait you into walking into them), you can try to walk into them and quickly attack before they attack you.
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/verysad1.webm" controls loop="loop" preload></video><br>
 
 ### Attacking while being 'inside' someone that's shielding
 
@@ -48,27 +56,43 @@ Sometimes your enemy may be running into you with their shield up -- this usuall
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/9.webm" controls loop="loop" preload></video><br>
 
-If you're countering a shieldbash with a crouch, you want to slash down when the enemy phases into you (they're shielding down, so you want to slash in that direction).
+If you're countering a shieldbash or a stomp with a crouch, you want to slash down when the enemy phases into you (they're shielding down, so you want to slash in that direction).
 
 [GIF]
 
-### Some additional gifs of crouches in gameplay
+### Crouches in actual gameplay
 
-If an enemy is on top of you and is shielding down, you can slash them and then stand still while crouching and slashing to damage them. Generally we can crouch after every slash in narrow spaces or when we're at a slightly height disadvantage in case the enemy tries to shieldbash or walk into us.
+In the gif below, our enemy is constantly shielding, so we're baiting them to walk into us.
 
-[GIF 1]
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/crouchslash.webm" controls loop="loop" preload></video><br>
 
-[GIF 2]
+If an enemy is on top of you, you can slash them and then stand still while crouching, and then slash (aiming downwards -- slash in the direction the enemy is shielding towards) to damage them when they phase into you. Generally we can crouch after every slash in narrow spaces or when we're at a slight height disadvantage in case the enemy tries to shieldbash or walk into us.
 
-[GIF 3]
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/crouchslash2.webm" controls loop="loop" preload></video><br>
 
-[GIF 4]
+In the gif below, first we damage the enemies, and then when they start shielding we bait them to walk into us. After that we just have to slash in the proper direction (direction enemy is shielding towards) while following the enemies.
 
-[GIF 5]
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/crouchslash3.webm" controls loop="loop" preload></video><br>
+
+As soon as we notice that the enemy is trying to jump on us with their shield down, we start slashing while crouching and release the slash (aiming downwards) as soon as the enemy lands.
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/crouchslash4.webm" controls loop="loop" preload></video><br>
+
+In the gif below, we predict that the enemy will try to move away from us so we get there first, crouch and then slash. Again, notice how we're slashing towards left -- as constantly mentioned, you want to slash in the direction the enemy is shielding towards.
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/crouchslash5.webm" controls loop="loop" preload></video><br>
+
+Some more baiting so that the enemy goes through us.
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/crouchslash6.webm" controls loop="loop" preload></video><br>
+
+Getting close to the enemy and then crouching. Even though crouching requires you to stand still, sometimes it can be just a very short while -- time your crouches well, try to surprise your enemy.
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/crouchslash7.webm" controls loop="loop" preload></video><br>
 
 ## Some more moves and tricks
 
-### Jab trading - counterjabs
+### Jab trading (counterjabs)
 
 If you get jabbed any time while not stunned from anything, you can always instantly jab right after before the enemy puts their shield up.
 
