@@ -98,19 +98,17 @@ If you get jabbed any time while not stunned from anything, you can always insta
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/jabtrade.webm" controls loop="loop" preload></video><br>
 
-[GIF 1]
+This is easiest to do if you are charging a slash or a double slash and get jabbed; in that case, just release left mouse button and start holding right mouse button (shielding) -- if your slash was recently interrupted, you'll just release a jab right after that.
 
-This is easiest to do if you are charging a slash and get jabbed; in that case, just release left mouse button and start holding right mouse button (shielding) -- if your slash was recently interrupted, you'll just release a jab right after that.
-
-[GIF]
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/jarven.webm" controls loop="loop" preload></video><br>
 
 If you know that the enemy will counterjab you, you can also counterjab the counterjab (red knight in GIF below).
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/countercounter.webm" controls loop="loop" preload></video><br>
 
-### Countering double slashes
+### Jabbing to interrupt double slashes
 
-If you're in a situation when the enemy is constantly spamming slashes and you must shield yourself, they may eventually decide to charge a doubleslash. This can be countered: if you notice that they're trying to charge a double slash instead of just a single slash, you can jab them and interrupt their slash.
+If you're in a situation when the enemy is constantly spamming slashes and you must shield yourself, they may eventually decide to charge a doubleslash. This can be countered: if you notice that they're charging for longer than usual -- a double slash instead of just a single slash, you can jab them and interrupt their slash.
 
 [GIF]
 
@@ -128,9 +126,9 @@ The enemy will sometimes try to not be close enough for you to jab -- in some si
 
 ### Prolonged slashes
 
-If you know that the enemy knows how to interrupt double slashes with jabs and does it regularly, you can also prevent them from doing it. You can try charging a slash for a little longer than a perfect 16 tick (half a second) slash, but not as long as a double slash -- if you're lucky, the enemy will attempt a jab but you will slash them first and be able to damage them easily. 
+If you know that the enemy knows how to interrupt double slashes with jabs and does it regularly, you can also prevent them from doing it. You can try charging a slash for a little longer than a perfect 16 tick (half a second) slash, but not as long as a double slash -- if you're lucky, the enemy will attempt a jab but you will slash them first (slashes have priority over jabs) and be able to damage them easily. 
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/12.webm" controls loop="loop" preload></video><br>
+[new gif]
 
 ### Bait jab, punishing enemies for missing slashes
 
@@ -200,13 +198,27 @@ For maximum effectiveness, do a small jump between the slashes so your movement 
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/16.webm" controls loop="loop" preload></video><br>
 
+### Two-angled/360 slash
+
+Slashes have a duration after releasing -- this means that the arc (angle) of the slash can be moved for a very short while after releasing left mouse button. Here's how it looks with `g_debug 2` in Sandbox:
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/360g2.webm" controls loop="loop" preload></video><br>
+
+This can be used to attack enemies that are near you from both sides. Some examples are in the gifs below.
+
+[GIF]
+
+[GIF 1]
+
+[GIF 2]
+
 ### Chained shieldbashing
 
 It is possible to keep someone in a near permanent stunlock by repeatedly shield bashing them. This move is especially useful to counter someone who is holding a bomb, as they won’t be able to throw it while stunned.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/17.webm" controls loop="loop" preload></video><br>
 
-## Using bombs (especially in 1v1s)
+## Using bombs 
 
 Being able to use bombs efficiently is an important part of 1v1s (in most duels and 1v1 tournaments, knights start with a single bomb). You can use them in several ways:
 
@@ -222,11 +234,13 @@ However, as mentioned earlier, in some cases it's possible for the enemy to coun
 
 ### Using them after stunning someone
 
-Light a bomb and time its explosion with stunning an enemy, either by shield stunning them or slashing them. keep in mind that in the 2nd variation you also get damage because of not being able to shield the bomb (either 3 hearts if it explodes close to you, or 1.5 if a bit further).
+Light a bomb and time its explosion with stunning an enemy, either by shield stunning them or slashing them. Keep in mind that in the 2nd variation you may also get damaged because of not being able to shield the bomb (3 hearts if it explodes close to you or 1.5 if a bit further).
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/20.webm" controls loop="loop" preload></video><br>
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/21.webm" controls loop="loop" preload></video><br>
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/cbomba.webm" controls loop="loop" preload></video><br>
 
 ### Combat bomb
 
@@ -243,6 +257,12 @@ The idea is to light a bomb and throw it behind the enemy (don't do it too early
 If the enemy is far away, you can also do it with a slash (to have bigger range)
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/bombslash.webm" controls loop="loop" preload></video><br>
+
+### Bomb bait
+
+Throw a bomb behind the enemy when they have 1 heart and then jab them while they're trying to shield it.
+
+
 
 ### Water buoyancy for bombs
 
