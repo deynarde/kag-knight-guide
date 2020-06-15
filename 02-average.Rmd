@@ -68,9 +68,17 @@ Arrows that are stuck in air (for example, if they were shot at a structure that
 
 ### Using walls for extra velocity
 
-Pushing off a wall will give you a small burst of speed. This speed boost can be helpful to win battles by utilising slash timings. It's also good against people playing defensively.
+Pushing off a wall will give you a small burst of speed. This speed boost can be helpful to win battles by utilising slash timings. You can often surprise the enemy who won't expect you to walljump off a 2 block tall wall.
 
-[GIF]
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/walljump.webm" controls loop="loop" preload></video><br>
+
+Walljumps can also be used in order to gain height advantage over enemies, thus allowing you to slash them more easily.
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/wallj2.webm" controls loop="loop" preload></video><br>
+
+They can be utilised in water combat as well.
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/wallj3.webm" controls loop="loop" preload></video><br>
 
 ### Making use of enemies opening doors
 
@@ -158,17 +166,17 @@ You can do the same after successful double slashes when the enemy was shielding
 
 ### Low jumps while slashing
 
-This is another very important mechanic that you should get into the habit of using. You should almost always slightly jump while slashing -- doing this allows you to gain additional horizontal momentum, thus cover a larger distance, with the added benefit of making your sword's slash range longer (slash range depends on your momentum).
+This is another very important mechanic that you should get into the habit of using. You should almost always slightly jump while slashing -- doing this allows you to gain additional horizontal momentum, thus cover a larger distance, with the added benefit of making your sword's slash range longer (slash range depends on your velocity). All good players do this instinctively -- just keep practicing doing it until it happens naturally.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/20.webm" controls loop="loop" preload></video><br>
 
-Keep in mind that your jumps should be small. A very common mistake people make is that they jump too far - jumping too high while slashing makes your slash range worse than if you would actually not jump at all (slashing below you when you're going up has a very small range), making it easier for enemies to slash you from below.
+Keep in mind that your jumps should be small. A very common mistake people make is that they jump too far -- jumping too high while slashing makes your slash range worse than if you would actually not jump at all (slashing below you when you're going up has a very small range), making it easier for enemies to slash you from below.
 
 ---
 These are the 3 most important things at this level: slashing fast, jabbing after successful slashes and performing low jumps while slashing. Train these until it feels natural and you do it instinctively.
 ---
 
-Additionally, there are a few more things you can keep in mind, such as:
+Additionally, there are a few more things you should be aware of, such as:
 
 ### Using double slashes
 
