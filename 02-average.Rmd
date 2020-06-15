@@ -232,11 +232,17 @@ As mentioned earlier, you can quickly shield slide horizontally into someone or 
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/32.webm" controls loop="loop" preload></video><br>
 
-Shield bashing is good for interrupting enemy slashes, but the beauty of shield bashes comes from being able to jab someone right after the shield bash connects. It's a very important aspect of knight combat -- being able to shield bash properly and follow up with attacks can make a big difference, especially when fighting against defensive players.
+### Shield bash + jab
+
+Shield bashing is good for interrupting enemy slashes, but the beauty of shield bashes comes from being able to jab someone right after the shield bash connects. It's a very important aspect of knight combat -- being able to shield bash properly and follow up with jabs can make a big difference, especially when fighting against defensive players.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/34.webm" controls loop="loop" preload></video><br>
 
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/sjab.webm" controls loop="loop" preload></video><br>
+
 There are several ways to counter shield bashes, all of which you should learn. These include overhead slashing, overhead jabbing and crouching (which you'll learn more about in the next chapter.)
+
+### Overhead attacks
 
 Jumping over the shield sliding enemy whilst charging a slash and then hitting them in their head/back (either with the charged slash or jab) is a consistent way to beat shieldbashers. In some of the situations, the enemy won't even be able to put his shield back up, no matter what -- if you're shield sliding really fast there is a slight delay before putting your shield back up. However, this doesn't happen every time.
 
