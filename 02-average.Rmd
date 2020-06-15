@@ -100,6 +100,10 @@ In the gif below, the red knight would've died if they hadn't slash escaped (sla
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/slashescape2.webm" controls loop="loop" preload></video><br>
 
+In the gif below, I (red knight) slash escape after realising the enemy has started charging a slash earlier than me.
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/slashescape3.webm" controls loop="loop" preload></video><br>
+
 ### Tower wall jump
 
 This is a good way to get some extra horizontal distance when jumping off a tower. To do it, slightly drop off the tower and push off while shield gliding.
