@@ -32,7 +32,7 @@ However, if you have height advantage, you can counter a crouching+shielding ene
 
 In this gif, the person we're attacking is constantly trying to crouch.
 
-[GIF]
+[staged GIF]
 
 ### Countering crouches (equal level)
 
@@ -44,13 +44,13 @@ If you're on the same ground level as your enemy and you notice that they're cro
 
 If you or your enemy walk into each other due to crouches, you can make use of that and attack them (with a jab or a slash). However, if they're shielding, it requires you to slash or jab in a specific direction.
 
-__You must attack in the direction they're shielding, or instead their shield will protect them from the attack.__
+**You must attack in the direction they're shielding, or instead their shield will protect them from the attack.**
 
 [staged gif demo]
 
-If you're fighting against a player who knows this technique, you can prevent them from damaging you by rapidly changing your direction of shielding.
+If you're fighting against a player who knows this technique, you can prevent them from damaging you by rapidly changing your direction of shielding. For example, I didn't manage to do a 2nd jab on the enemy in the gif below due to them moving their shield around rapidly.
 
-[nonstaged gif]
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/rapid.webm" controls loop="loop" preload></video><br>
 
 Sometimes your enemy may be running into you with their shield up -- this usually happens in narrow spaces. A good trick is to slightly move back and crouch, so that the enemy phases through you. As they get inside you, start moving in the direction they're moving and  attack them while aiming in the proper direction.
 
@@ -77,6 +77,10 @@ In the gif below, first we damage the enemies, and then when they start shieldin
 As soon as we notice that the enemy is trying to jump on us with their shield down, we start slashing while crouching and release the slash (aiming downwards) as soon as the enemy lands.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/crouchslash4.webm" controls loop="loop" preload></video><br>
+
+If we successfully slash an enemy knight and they get knocked upwards, they will likely try to fall down on us with their shield down. Crouch and slash after they're inside us.
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/col.webm" controls loop="loop" preload></video><br>
 
 In the gif below, we predict that the enemy will try to move away from us so we get there first, crouch and then slash. Again, notice how we're slashing towards left -- as constantly mentioned, you want to slash in the direction the enemy is shielding towards.
 
@@ -200,7 +204,7 @@ For maximum effectiveness, do a small jump between the slashes so your movement 
 
 ### Two-angled/360 slash
 
-Slashes have a duration after releasing -- this means that the arc (angle) of the slash can be moved for a very short while after releasing left mouse button. Here's how it looks with `g_debug 2` in Sandbox:
+As mentioned at the start of chapter 2, slashes have a duration after releasing -- this means that the arc (angle) of the slash can be moved for a very short while after releasing left mouse button. Here's how it looks with `g_debug 2` in Sandbox:
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/360g2.webm" controls loop="loop" preload></video><br>
 
@@ -242,27 +246,27 @@ Light a bomb and time its explosion with stunning an enemy, either by shield stu
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/cbomba.webm" controls loop="loop" preload></video><br>
 
+You can also attempt to slash the enemy right before their own bomb is about to explode. If they throw it right before that, you can catch the bomb and throw it back (do this only if you have more health than the enemy though)
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/cbomba3.webm" controls loop="loop" preload></video><br>
+
 ### Combat bomb
 
-Throw your bomb right so it explodes as it hits an enemy. Usually the best way to catch an enemy off guard is to aim it just behind their character or at their head.
+Throw your bomb right so it surprises the enemy and explodes next to them, dealing 3 hearts of damage. Usually the best way to catch an enemy off guard is to aim it just behind their character or at their head.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/22.webm" controls loop="loop" preload></video><br>
 
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/divan.webm" controls loop="loop" preload></video><br>
+
 ### Bomb and jab/slash combo
 
-The idea is to light a bomb and throw it behind the enemy (don't do it too early -- you don't want them to throw it back), dealing 3 hearts of damage and stunning them for a short while, allowing you to do another jab and kill the enemy.
+Instead of stunning the person with a shieldbash or a slash before damaging them with a bomb, here we're doing the opposite. The idea is to light a bomb and throw it behind the enemy (don't do it too early -- you don't want them to throw it back). If it successfully explodes and deals 3 hearts of damage, it will stun the enemy for a short while, allowing you to do another jab and kill them.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/23.webm" controls loop="loop" preload></video><br>
 
 If the enemy is far away, you can also do it with a slash (to have bigger range)
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/bombslash.webm" controls loop="loop" preload></video><br>
-
-### Bomb bait
-
-Throw a bomb behind the enemy when they have 1 heart and then jab them while they're trying to shield it.
-
-
 
 ### Water buoyancy for bombs
 
