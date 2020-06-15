@@ -210,7 +210,7 @@ If you start charging a slash but the enemy manages to get their shield back up 
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/dafterstun.webm" controls loop="loop" preload></video><br>
 
-### Counter slashing
+### Counter slashing / slash baiting
 
 If you are against an aggressive player, a good way to beat them is to bait them to attack you with their slash or double slash. As they move towards you, you move away from them whilst charging your own slash. After they miss a slash, you move forwards and slash at them. You can do the same with a double slash or jab.
 
@@ -219,6 +219,10 @@ If you are against an aggressive player, a good way to beat them is to bait them
 It is hard to counter a defensive play style which focuses on counter slashing. Counter slashing is also the best way to fight against several enemies at once -- a typical combo includes; slash, retreat, slash, and so on.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/29.webm" controls loop="loop" preload></video><br>
+
+In the gif below, we charge a double slash while baiting the enemy to jump at us (notice the slight left/right movement), then attack them after they miss their first slash. In order to not get hit by their slash, we also release the first slash a very short moment before we get close enough to the enemy.
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/dest2.webm" controls loop="loop" preload></video><br>
 
 ### Winning slash fights on L shape
 
