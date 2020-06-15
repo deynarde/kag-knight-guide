@@ -8,7 +8,7 @@
 
 We'll start this section with a word about hitboxes in KAG:
 
- <img src="imgs/knightmodel.png">
+<img src="imgs/knightmodel.png">
 
 The hitbox of a knight is a circle (it's an octagon here and that's false, but don't mind it).
 
@@ -258,8 +258,10 @@ Jumping over the shield sliding enemy whilst charging a slash and then hitting t
 
 You can also do an overhead jab if you don't have enough time to charge a slash:
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/37.webm" controls loop="loop" preload></video><br>
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/37.webm" controls loop="loop" preload></video><br
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/ojab.webm" controls loop="loop" preload></video><br>
 
 Keep in mind that in this variation, if the enemy manages to put his shield back up, you may get stunned due to jabbing his shield.
 
-Again, don't be demotivated if this may seem a lot and it is hard for you to learn everything. Many good knights struggled with this - it takes them a while before it clicks and shield bashes just feel natural to them.
+Again, don't be demotivated if it's hard for you to learn shield bashes. Many good knights struggled with this -- it takes them a while before it clicks and shield bashes just feel natural to them.
