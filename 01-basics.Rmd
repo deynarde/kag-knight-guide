@@ -116,6 +116,10 @@ If shielded, water bombs stun for half of the original time.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/18.webm" controls loop="loop" preload></video>
 
+It works the same way with shielded water arrows.
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/shwater.webm" controls loop="loop" preload></video><br>
+
 You can also put a sponge in your inventory (bought at TDM trader shop or CTF builder shop -- 15 coins) for an even shorter stun. The stun is even shorter if you have both a sponge and your shield up. The sponge gets destroyed after absorbing two water stuns.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/19.webm" controls loop="loop" preload></video>
