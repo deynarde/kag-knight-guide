@@ -18,11 +18,11 @@ Keep in mind that sometimes you may want to press left mouse button before you e
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/04-good/agjab.webm" controls loop="loop" preload></video><br>
 
-You can actually try to interrupt every slash with a jab as soon as you're close enough to the enemy -- but keep in mind this requires a lot of focus and very good reflexes. You have only half a second before the enemy is able to release your slash, so be careful. This is something that only the best knights do, but it's very satisfying to constantly interrupt slashes with jabs.
+You can actually try to interrupt every slash with a jab as soon as you're close enough to the enemy -- but keep in mind this requires a lot of focus and very good reflexes. You have only half a second before the enemy is able to release their slash, so be careful. This is something that only the best knights do, but it's very satisfying to constantly interrupt slashes with jabs.
 
-[gif]
+<video style="display:block; max-width:100%; height:auto;" src="webm/04-good/agjab4.webm" controls loop="loop" preload></video><br>
 
-[gif]
+<video style="display:block; max-width:100%; height:auto;" src="webm/04-good/agjab3.webm" controls loop="loop" preload></video><br>
 
 [gif]
 
@@ -120,7 +120,7 @@ At this point, you can phase through the enemy and attack them.
 
 ### Glue after crouch
 
-When you and the enemy keep walking into each other, you can move back slightly, crouch and wait for him to get inside you, then stop the crouching and start walking forward. In some cases you may glue yourself to the enemy (you will be moving the enemy towards where you're walking) -- you should use this to your advantage and slash your enemy when he's confused and doesn't know what direction to shield. On your enemy's screen, you aren't inside them -- you're in front of them.
+When you and the enemy keep walking into each other, you can move back slightly, crouch and wait for him to get inside you, then stop the crouching and start walking forward. In some cases you may glue yourself to the enemy (you will be moving the enemy towards where you're walking while still being inside them) -- you should use this to your advantage and slash your enemy when he's confused and doesn't know what direction to shield. On your enemy's screen, you aren't inside them -- you're in front of them.
 
 Enemy's POV:
 
@@ -136,11 +136,18 @@ Example in actual gameplay:
 
 If this happens to you after walking into somebody's crouch (although on your screen you may not see yourself walking into a crouching enemy, which is why this happens), you should jab/slash in the opposite direction than you actually see the enemy (if you're walking left with somebody glued to you but them being in front of you from your right side, you should attack while aiming left rather than right). Better yet, you can also do 360 angle attacks (mentioned in chapter earlier, this is when you quickly move your mouse from left to right after releasing an attack -- attacks have a duration so the arc of the attack will be a full 360 angle arc) 
 
+Another example, although it's a bit harder to notice it here -- this time we're the one being pushed by the enemy:
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/04-good/oddity2.webm" controls loop="loop" preload></video><br>
+
+We can tell this is happening to us due to the specific movement of our character and being pushed by the enemy. As you can see, in the above gif I slash right while the enemy is pushing me from the left -- what is actually happening here is that the enemy is inside me and moving their shield around, even though on my screen he appears to my left. This is why I slash right (remember the direction of attack while inside somebody/crouching). You can also notice that I quickly move the cursor to the left after releasing the slash -- to make sure that the enemy gets hit I do a 360/two-angled slash.
+
 ### Shieldslide crouch
 
 Works best on a flat terrain. Basically, do a quick shieldslide, but stop when you're getting closer to the enemy. Start holding S. You will still have the momentum from the crouch and will get inside the enemy. If done with certain timing, it can glue the enemy with you as shown above. Hard to do consistently, so it's again more trivia than an actually useful trick.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/04-good/9.webm" controls loop="loop" preload></video><br>
+
 <video style="display:block; max-width:100%; height:auto;" src="webm/04-good/10.webm" controls loop="loop" preload></video><br>
 
 ## Becoming the best
