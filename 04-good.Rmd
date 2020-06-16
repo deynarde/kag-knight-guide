@@ -12,7 +12,7 @@ You'll learn about the final tricks which you should learn now, requiring very g
 
 One aggressive and extremely fun move is a jab charge -- a quick shield slide to gain speed followed by a jab. This is an effective way to interrupt someone who is charging a slash -- but for it to succeed it must be done with extreme speed and good timing.
 
-Keep in mind that sometimes you may want to press left mouse button before you even get near the enemy (jabs aren't instant because you always have slight delay on online servers, and they also have a duration). This also applies to the rest of this section.
+Keep in mind that sometimes you may want to press left mouse button before you even get near the enemy (jabs aren't instant because you always have slight delay on online servers, and they also have a short duration after release). This also applies to the rest of this section.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/04-good/1.webm" controls loop="loop" preload></video><br>
 
@@ -24,7 +24,19 @@ You can actually try to interrupt every slash with a jab as soon as you're close
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/04-good/agjab3.webm" controls loop="loop" preload></video><br>
 
-[gif]
+Surprise jab right after being unstunned from jabbing enemy shield (notice how I released the jab slightly before I got close enough to the enemy)
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/04-good/agjab52.webm" controls loop="loop" preload></video><br>
+
+Another surprise jab on enemy that starts charging a slash after shieldbashing me:
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/04-good/dab.webm" controls loop="loop" preload></video><br>
+
+Some more jabbing in the gif below. First, me and the enemy start charging a slash around the same time, but I release it as a jab instead of continuing to charge it in case the enemy started charging first. After that, I shieldbash the enemy (which couldn't be crouching because they're moving around) and follow up with a jab. The enemy stays still in place after that happens, so they're likely to be crouching -- I go in and jab in the proper direction. The enemy attempted to jab first but failed.
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/04-good/jabr2.webm" controls loop="loop" preload></video><br>
+
+Staying close to the enemy and jabbing every time they try to charge a slash:
 
 [gif]
 
@@ -36,6 +48,8 @@ This is a very important move in high end duels, similar to [tempo jabs] from th
 
 During that small delay, and right after your stun from being slashed in the shield is finished, you can jab the enemy. It requires good timing and quite a bit of training. In most cases you want to click left mouse button while you're still stunned on your screen.
 
+[gif 1 on training bot]
+
 [gif 1]
 
 [gif 2]
@@ -44,7 +58,7 @@ During that small delay, and right after your stun from being slashed in the shi
 
 [gif 4]
 
-If you know that the enemy knows how to instajab, you should try to jump back slightly after slashing them on their shield.
+If you know that the enemy knows how to instajab, you should try to jump back slightly every time after slashing them on their shield.
 
 ### Instaslashes
 
