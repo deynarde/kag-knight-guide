@@ -222,7 +222,11 @@ As mentioned at the start of chapter 2, slashes have a duration after releasing 
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/360g2.webm" controls loop="loop" preload></video><br>
 
-This can be used to attack enemies that are near you from both sides. Some examples are in the gifs below.
+This can be used to attack enemies that are near you from both sides. Example on bots in Sandbox:
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/360k2.webm" controls loop="loop" preload></video><br>
+
+Gameplay examples below.
 
 [GIF]
 
