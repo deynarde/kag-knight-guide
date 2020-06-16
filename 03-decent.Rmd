@@ -26,13 +26,13 @@ Crouches are a very good counter against stomps as well. If you see someone jump
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/crouchone.webm" controls loop="loop" preload></video><br>
 
-### Countering crouches (height advantage)
+### Countering crouches with slash + stomp
 
 However, if you have height advantage, you can counter a crouching+shielding enemy by slashing them right before landing on them. In this case, the slash will stun them and you'll be able to stomp them. Also see: [Slash stomping (easy version)] later this chapter. If you're the one without height advantage fighting a knight that slashes a lot, they're likely to do this, so in that case you may want to not crouch.
 
 In this gif, the person we're attacking is constantly trying to crouch.
 
-[staged GIF]
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/voice.webm" controls loop="loop" preload></video><br>
 
 ### Countering crouches (equal level)
 
@@ -46,7 +46,21 @@ If you or your enemy walk into each other due to crouches, you can make use of t
 
 **You must attack in the direction they're shielding, or instead their shield will protect them from the attack.**
 
-[staged gif demo]
+For example, in the image below -- we're inside the enemy knight. Attacking to the left, top left or bottom left will hit the enemy, but attacks in the opposite directions will be shielded by them. This is because the jab's range doesn't start at the edge of the jab, but rather at the handle of the sword.
+
+<img src="webm/03-decent/drem.png">
+
+Some gifs demonstrating this:
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/dim1.webm" controls loop="loop" preload></video><br>
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/dim2.webm" controls loop="loop" preload></video><br>
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/dim3.webm" controls loop="loop" preload></video><br>
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/dim4.webm" controls loop="loop" preload></video><br>
+
+The best way is to attack is to always just aim in the same place the enemy is aiming their shield towards.
 
 If you're fighting against a player who knows this technique, you can prevent them from damaging you by rapidly changing your direction of shielding. For example, I didn't manage to do a 2nd jab on the enemy in the gif below due to them moving their shield around rapidly.
 
@@ -213,8 +227,6 @@ This can be used to attack enemies that are near you from both sides. Some examp
 [GIF]
 
 [GIF 1]
-
-[GIF 2]
 
 ### Chained shieldbashing
 
