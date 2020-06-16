@@ -48,7 +48,11 @@ This is a very important move in high end duels, similar to [tempo jabs] from th
 
 During that small delay, and right after your stun from being slashed in the shield is finished, you can jab the enemy. It requires good timing and quite a bit of training. In most cases you want to click left mouse button while you're still stunned on your screen.
 
-[gif 1 on training bot]
+In the gif below, the red knight is a bot that starts shielding right after finishing a slash.
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/04-good/instaj1.webm" controls loop="loop" preload></video><br>
+
+Gifs of instajabs in actual gameplay:
 
 [gif 1]
 
