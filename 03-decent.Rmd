@@ -150,6 +150,8 @@ If you know that the enemy knows how to interrupt double slashes with jabs and d
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/pro2.webm" controls loop="loop" preload></video><br>
 
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/pro4.webm" controls loop="loop" preload></video><br>
+
 ### Bait jab, punishing enemies for missing slashes
 
 A bait jab punishes the enemy for missing their attack. As the enemy ends their slash, get close to them and quickly jab them. They won’t have time to shield.
@@ -205,6 +207,8 @@ You can jab after every successful slashstomp.
 If the enemy isn't shielding, you will do 2 hearts from a slash and 1 heart from a stomp. If you jab right after, that's another heart -- 4 hearts of damage in total.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/slashstomp2.webm" controls loop="loop" preload></video><br>
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/ss4.webm" controls loop="loop" preload></video><br>
 
 ### Cancelling and baiting with a double slash
 
