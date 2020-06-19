@@ -24,6 +24,8 @@ You can actually try to interrupt every slash with a jab as soon as you're close
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/04-good/agjab3.webm" controls loop="loop" preload></video><br>
 
+<video style="display:block; max-width:100%; height:auto;" src="webm/04-good/loved.webm" controls loop="loop" preload></video><br>
+
 Surprise jab right after being unstunned from jabbing enemy shield (notice how I released the jab slightly before I got close enough to the enemy)
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/04-good/agjab52.webm" controls loop="loop" preload></video><br>
@@ -56,13 +58,15 @@ Gifs of instajabs in actual gameplay:
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/04-good/intj3.webm" controls loop="loop" preload></video><br>
 
-[gif 2]
+<video style="display:block; max-width:100%; height:auto;" src="webm/04-good/pogdog2.webm" controls loop="loop" preload></video><br>
 
-[gif 3]
+<video style="display:block; max-width:100%; height:auto;" src="webm/04-good/int6.webm" controls loop="loop" preload></video><br>
 
-Finishing a low-health enemy with an instajab after they slash our shield:
+<video style="display:block; max-width:100%; height:auto;" src="webm/04-good/peg3.webm" controls loop="loop" preload></video><br>
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/04-good/secretpag.webm" controls loop="loop" preload></video><br>
+Finishing a low-health enemy with an instajab:
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/04-good/secretpag2.webm" controls loop="loop" preload></video><br>
 
 If you know that the enemy knows how to instajab, you should try to jump back slightly every time after slashing them on their shield.
 
@@ -93,6 +97,10 @@ As you can see in the gif below, you can of course do a jab after a successful i
 <video style="display:block; max-width:100%; height:auto;" src="webm/04-good/insta3.webm" controls loop="loop" preload></video><br>
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/04-good/insta42.webm" controls loop="loop" preload></video><br>
+
+Knights can sometimes try to shieldbash after slashing your shield. We can combine crouching with an instaslash to hit them.
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/04-good/peg2.webm" controls loop="loop" preload></video><br>
 
 ### Jabbing after slashing shield
 
