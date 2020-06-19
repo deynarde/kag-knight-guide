@@ -54,13 +54,15 @@ In the gif below, the red knight is a bot that starts shielding right after fini
 
 Gifs of instajabs in actual gameplay:
 
-[gif 1]
+<video style="display:block; max-width:100%; height:auto;" src="webm/04-good/intj3.webm" controls loop="loop" preload></video><br>
 
 [gif 2]
 
 [gif 3]
 
-[gif 4]
+Finishing a low-health enemy with an instajab after they slash our shield:
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/04-good/secretpag.webm" controls loop="loop" preload></video><br>
 
 If you know that the enemy knows how to instajab, you should try to jump back slightly every time after slashing them on their shield.
 
@@ -92,6 +94,14 @@ As you can see in the gif below, you can of course do a jab after a successful i
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/04-good/insta42.webm" controls loop="loop" preload></video><br>
 
+### Jabbing after slashing shield
+
+If you know that the enemy regularly instajabs or instaslashes, you can try to jab right after slashing at their shield. This will prevent them from doing both (although they're still able to counterjab it).
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/04-good/instjc.webm" controls loop="loop" preload></video><br>
+
+Try to not do this too often though -- if the enemy won't be doing an instajab or an instaslash, you will just jab the shield and get stunned.
+
 ### Jab after being slashed+jabbed
 
 You can jab right after being slashed + jabbed if you do it fast enough (I usually just mash the left mouse button when I'm waiting to get unstunned):
@@ -116,6 +126,8 @@ Start charging a slash, jump from the highest point of the enemy that is shieldi
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/04-good/5.webm" controls loop="loop" preload></video><br>
 
+It works the same as a normal slash stomp, so you can jab the enemy after successfully doing this.
+
 ### Shield bash + double jab
 
 Rather hard move to do, requires good timing and familiarity with shield bashes. Basically, shieldbash someone and then very quickly double jab. Nobody in the game is able to do this consistently as of June 2020, so it's probably more trivia rather than an actual trick.
@@ -130,7 +142,7 @@ This one is also more trivia than an actual trick, similarly to shield bash + do
 
 ### Blitz crouch
 
-This is a more advanced way to get 'inside' the enemy so you can attack him (credit to Auky for inventing and naming this). To do it, do a shield slide stun which will slightly pop the enemy up in the air. As they fall you move slightly under them and crouch so that they fall into you (both of your hitboxes are overlapping). Works the best when the enemy is next to a wall.
+This is a more advanced way to get 'inside' the enemy so you can attack him. To do it, do a shield slide stun which will slightly pop the enemy up in the air. As they fall you move slightly under them and crouch so that they fall into you (both of your hitboxes are overlapping). Works the best when the enemy is next to a wall.
 
 At this point, you can phase through the enemy and attack them.
 
