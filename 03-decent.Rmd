@@ -146,7 +146,9 @@ The enemy will sometimes try to not be close enough for you to jab -- in some si
 
 If you know that the enemy knows how to interrupt double slashes with jabs and does it regularly, you can also prevent them from doing it. You can try charging a slash for a little longer than a perfect 16 tick (half a second) slash, but not as long as a double slash -- if you're lucky, the enemy will attempt a jab but you will slash them first (slashes have priority over jabs) and be able to damage them easily. 
 
-[new gif]
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/pro1.webm" controls loop="loop" preload></video><br>
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/pro2.webm" controls loop="loop" preload></video><br>
 
 ### Bait jab, punishing enemies for missing slashes
 
@@ -190,13 +192,19 @@ Sometimes, when you and the enemy are shielding each other, you may attempt to d
 
 ### Slash stomping (easy version)
 
-When you have height advantage over the enemy (at least 3 blocks), you can just jump down at them with a slash. The slash will pierce their shield and the additional velocity from slashing will let you stomp them for 1 heart of damage.
+When you have height advantage over a shielding enemy (at least 3 blocks), you can jump down at them with a slash. The slash will pierce their shield and the additional velocity from slashing will let you stomp them for 1 heart of damage.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/147.webm" controls loop="loop" preload></video><br>
 
 You can jab after every successful slashstomp.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/hura.webm" controls loop="loop" preload></video><br>
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/ss3.webm" controls loop="loop" preload></video><br>
+
+If the enemy isn't shielding, you will do 2 hearts from a slash and 1 heart from a stomp. If you jab right after, that's another heart -- 4 hearts of damage in total.
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/slashstomp2.webm" controls loop="loop" preload></video><br>
 
 ### Cancelling and baiting with a double slash
 
