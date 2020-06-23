@@ -39,3 +39,32 @@ Important note: Most (if not all) stuns do not add up.
 | Getting shot w/ catapult stuns for:                 | 30 ticks.          |
 | Falling stuns for:                                  | 12 ticks.          |
 
+## Videos
+
+Some videos of 1v1s I did -- try to analyse and understand what is happening on the screen; pay attention to tricks such as instaslashes, instajabs, slash stomps, shieldbashes, etc. Try to notice mistakes that I make and what causes my death. 
+
+1v1 Bunnie vs Blackiceball https://www.youtube.com/watch?v=ZSfmCd5ZKoY
+1v1 Bunnie vs Eshlost https://www.youtube.com/watch?v=6MVQPdZmWyw
+1v1 Bunnie vs frangeorgeelliott https://www.youtube.com/watch?v=ZzP4XXEaP3Q
+1v1 Bunnie vs Junko-Enoshima https://www.youtube.com/watch?v=Cfoq16YZYtM
+
+## TDM vs CTF fall damage
+
+CTF has much more strict fall damage than TDM. Keep this in mind when jumping off from your tower or doing slash stomps from big distances. 
+
+Some numbers (without gliding):
+
+stun from falling (no damage) on TDM: from 17 blocks minimum
+stun from falling (no damage) on CTF: from 12 blocks minimum
+
+stun from falling with 0.5 heart of damage on TDM: from 23 blocks minimum
+stun from falling with 0.5 heart of damage on CTF: from 17 blocks minimum
+
+stun from falling with 1 heart of damage on TDM: from 33 blocks minimum
+stun from falling with 1 heart of damage on CTF: from 23 blocks minimum
+
+stun from falling with 4 hearts of damage on TDM: from 48 blocks minimum
+stun from falling with 4 hearts of damage on CTF: from 33 blocks minimum
+
+
+
