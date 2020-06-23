@@ -86,12 +86,6 @@ After an enemy player goes through his team's doors, the doors are momentarily l
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/durthru3.webm" controls loop="loop" preload></video><br>
 
-### Water buoyancy
-
-If you wallclimb while underwater you receive a significant speed boost. This can be very useful for surprising your enemy with an upwards slash.
-
-[GIF]
-
 ### Small shield glide
 
 A shield slide can be performed even on a single block. This can be very helpful in CTF to get some extra speed for crossing larger gaps.
