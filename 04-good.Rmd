@@ -44,7 +44,6 @@ Some more jabbing in the gif below. First, me and the enemy start charging a sla
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/04-good/jabr2.webm" controls loop="loop" preload></video><br>
 
-
 ### Instajabs
 
 This is a very important move in high end duels, similar to [tempo jabs] from the previous chapter. It allows you to damage knights that slash your shield, even if they shield right after. Basically -- there's a small delay between slashing and putting your shield back up. If you put your shield up right after slashing, the animation may show, but the shield won't actually be there.
