@@ -78,7 +78,7 @@ If you're countering a shieldbash or a stomp with a crouch, you want to slash do
 
 In the gif below, our enemy is constantly shielding, so we're baiting them to walk into us.
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/crouchslash.webm" controls loop="loop" preload></video><br>
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/crouchslash1.webm" controls loop="loop" preload></video><br>
 
 If an enemy is on top of you, you can slash them and then stand still while crouching, and then slash (aiming downwards -- slash in the direction the enemy is shielding towards) to damage them when they phase into you. Generally we can crouch after every slash in narrow spaces or when we're at a slight height disadvantage in case the enemy tries to shieldbash or walk into us.
 
