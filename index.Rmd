@@ -26,3 +26,9 @@ We hope this guide will help people who are trying to get better at knight. We a
 > You can contact us on [KAG Discord](https://discord.gg/kag) (`bunnie#8553`, `deynarde#4491`).
 
 > Big thanks to Turtlebutt and the HOMEK clan, especially to Homek, Voxez (\_Mike\_), Magmus, Biurza, Zanzibar, Psiklaw, Junko-Enoshima, and Ehra for correcting language mistakes
+
+**OTHER KAG GUIDES:**
+
+Builder Guide -- https://deynarde.github.io/kag-builder-guide/
+
+
