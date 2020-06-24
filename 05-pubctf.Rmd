@@ -139,15 +139,13 @@ While you're defending yourself from enemies pushing your tower, you should keep
 
 ### Focus on the builder
 
-Kill the builder at all costs. He's the most dangerous -- without him, it's much harder for enemy knights to get inside your base.
-
-I recommend jumping from the top of the tower and just slashing him.
+Kill the builder at all costs. They're the most dangerous -- without them, it's much harder for enemy knights to get inside your base.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/05-ctf/13.webm" controls loop="loop" preload></video><br>
 
 ### Mass-keg
 
-You can mass-keg the enemies if there are many of them. However, keep in mind that the enemies could catch it and use it against your tower - so sometimes (if you see a good player that could catch, for example) it's good to kill yourself with the keg.
+You can keg the enemies if there are many of them. However, keep in mind that the enemies could catch it and use it against your tower -- so sometimes (if you see a good player that could catch, for example) it's good to kill yourself with the keg.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/05-ctf/14.webm" controls loop="loop" preload></video><br>
 
