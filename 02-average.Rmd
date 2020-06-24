@@ -36,7 +36,7 @@ At this point, it would be good to learn basic mobility tricks, such as these --
 
 A knight can jump higher than normal by slashing to get extra velocity. Time your slash so that it releases right after you start your jump. It can be combined with an upwards shield glide in order to get extra height. By pushing off the wall as you get near the top and then floating back onto it, you can also climb more -- in total up to 10 blocks (although this is mostly done for 7-9 block high walls). This can be useful when you're escaping from the enemies' base with their flag (but in that case, you're not going to be able to climb as much).
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/10climbs.webm" controls loop="loop" preload></video><br>
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/tr1.webm" controls loop="loop" preload></video><br>
 
 You can also do the same with a double slash -- a total of 10 blocks can be climbed this way (in theory you can do 11, but it's not very practical).
 
