@@ -46,7 +46,7 @@ Some more jabbing in the gif below. First, me and the enemy start charging a sla
 
 ### Instajabs
 
-This is a very important move in high end duels, similar to [tempo jabs] from the previous chapter. It allows you to damage knights that slash your shield, even if they shield right after. Basically -- there's a small delay between slashing and putting your shield back up. If you put your shield up right after slashing, the animation may show, but the shield won't actually be there.
+This is a very important move in high end duels, similar to [tempo jabs](https://deynarde.github.io/kag-knight-guide/knight-iii-advanced.html#tempo-jab) from the previous chapter. It allows you to damage knights that slash your shield, even if they shield right after. Basically -- there's a small delay between slashing and putting your shield back up. If you put your shield up right after slashing, the animation may show, but the shield won't actually be there.
 
 During that small delay, and right after your stun from being slashed in the shield is finished, you can jab the enemy. It requires good timing and quite a bit of training. In most cases you want to click left mouse button while you're still stunned on your screen.
 
