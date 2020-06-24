@@ -216,8 +216,6 @@ This is a very fun trick to do. Basically, the idea is to charge a double slash,
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/15.webm" controls loop="loop" preload></video><br>
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/faked.webm" controls loop="loop" preload></video><br>
-
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/fakedd.webm" controls loop="loop" preload></video><br
 
 ### Aggressive double slash
