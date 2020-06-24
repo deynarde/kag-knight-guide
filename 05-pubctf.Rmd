@@ -53,7 +53,7 @@ If you have one in inventory (builder shop, 15 coins), you are stunned for short
 
 ### Mines
 
-Mines are good (knight shop, 60 coins), especially when your team is on the defense. Place at least 1 in flagroom (if enemies get in there, they will be killed by the mine)
+Mines are good for securing important places in your base (knight shop, 60 coins), especially when your team is on the defense. Place at least 1 in flagroom (if enemies get in there, they will be killed by the mine)
 
 <p align="left">
   <img src="webm/05-ctf/i1.png">
@@ -227,11 +227,13 @@ You can also do it with holding a keg in hand to get to the enemy base.
 
 Another variation includes holding a crate with a builder in it.
 
-### Keg + waterbomb
+### Keg + waterbomb (Hadouken kegs)
 
-This also applies to TDM. If you explode a water bomb on a keg (with enough momentum) the keg will quickly go forward, like this.
+This also applies to TDM. If you explode a water bomb on a keg (with enough momentum) the keg will quickly go forward and explode on impact, like this.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/05-ctf/23.webm" controls loop="loop" preload></video><br>
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/05-ctf/poggers.webm" controls loop="loop" preload></video><br>
 
 Can be used to hurt enemy structures -- enemies most likely won't catch the keg.
 
