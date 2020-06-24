@@ -170,11 +170,11 @@ Another example, although it's a bit harder to notice it here -- this time we're
 
 We can tell this is happening to us due to the specific movement of our character and being pushed by the enemy. As you can see, in the above gif I slash right while the enemy is pushing me from the left -- what is actually happening here is that the enemy is inside me and moving their shield around, even though on my screen he appears to my left. This is why I slash right (remember the direction of attack while inside somebody/crouching). You can also notice that I quickly move the cursor to the left after releasing the slash -- to make sure that the enemy gets hit I do a 360/two-angled slash.
 
-## Becoming the best
+## Using food items in between double slashes
 
-At this point, you know pretty much all the moves. If you can do all of them, all there's left for you to do is just mastering everything. Keep optimising your playstyle. Of course, you won't ever stop doing mistakes completely, but now you just need to focus on doing them less and less. Train your timing and muscle memory to be even better.
+You can use food items between double slashes from the enemy -- however, you can only do so by opening the inventory with F and selecting the item, rather than by pressing V (You're able to open inventory while stunned, but not use the heal key). It works the same while being stunned from water.
 
-We recommend getting into competitive CTF if you didn't yet. In our opinion, competitive CTF (Captains, clanwars and so on -- ask around on the official discord, discord.gg/kag) is much more fun than just plain 1v1s and playing TDMs. You also learn how to teamwork much better there, and in general it's a lot more satisfying to play. 
+<video style="display:block; max-width:100%; height:auto;" src="webm/04-good/hahanoob.webm" controls loop="loop" preload></video><br>
 
 ## Some trivia
 
@@ -201,3 +201,9 @@ Works best on a flat terrain. Basically, do a quick shieldslide, but stop when y
 If done with certain timing, it can glue the enemy with you as shown above. Hard to do consistently, so it's again more trivia than an actually useful trick.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/04-good/10.webm" controls loop="loop" preload></video><br>
+
+## Becoming the best
+
+At this point, you know pretty much all the moves. If you can do all of them, all there's left for you to do is just mastering everything. Keep optimising your playstyle. Of course, you won't ever stop doing mistakes completely, but now you just need to focus on doing them less and less. Train your timing and muscle memory to be even better.
+
+We recommend getting into competitive CTF if you didn't yet. In our opinion, competitive CTF (Captains, clanwars and so on -- ask around on the official discord, discord.gg/kag) is much more fun than just plain 1v1s and playing TDMs. You also learn how to teamwork much better there, and in general it's a lot more satisfying to play. 
