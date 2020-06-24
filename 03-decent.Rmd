@@ -351,4 +351,4 @@ As mentioned in the earlier chapter, once you successfully damage the enemy with
 
 Even if the enemy will interrupt the double slash and jab you, as mentioned earlier you can counterjab instantly and take their last heart away.
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/dcntr.webm" controls loop="loop" preload></video><br>
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/dcntr.webm" controls loop="loop" preload></video><br>
