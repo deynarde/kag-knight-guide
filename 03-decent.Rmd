@@ -140,7 +140,7 @@ To avoid this, you can try to always slightly jump away right after interrupting
 
 The enemy will sometimes try to not be close enough for you to jab -- in some situations if you're fast enough and realise they're going to double slash your shield you can quickly run away with a quick shield slide, but if they're fast they can just slash you before you do that.
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/112.webm" controls loop="loop" preload></video><br
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/112.webm" controls loop="loop" preload></video><br>
 
 ### Prolonged slashes
 
