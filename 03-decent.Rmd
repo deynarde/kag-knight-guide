@@ -72,7 +72,7 @@ Sometimes your enemy may be running into you with their shield up -- this usuall
 
 If you're countering a shieldbash or a stomp with a crouch, you want to slash down when the enemy phases into you (they're shielding down, so you want to slash in that direction).
 
-[GIF]
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/sd1.webm" controls loop="loop" preload></video><br>
 
 ### Crouches in actual gameplay
 
@@ -128,15 +128,15 @@ If you know that the enemy will counterjab you, you can also counterjab the coun
 
 If you're in a situation when the enemy is constantly spamming slashes and you must shield yourself, they may eventually decide to charge a doubleslash. This can be countered: if you notice that they're charging for longer than usual -- a double slash instead of just a single slash, you can jab them and interrupt their slash.
 
-[GIF]
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/fakit.webm" controls loop="loop" preload></video><br>
 
 This can also be countered -- the person charging a double slash can do a counterjab, like mentioned in the section earlier.
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/dcntr.webm" controls loop="loop" preload></video><br>
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/dcntr.webm" controls loop="loop" preload></video><br>
 
-To avoid this, you should always try to jump away right after interrupting someone with a jab.
+To avoid this, you can try to always slightly jump away right after interrupting someone with a jab.
 
-[GIF]
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/xqc.webm" controls loop="loop" preload></video><br>
 
 The enemy will sometimes try to not be close enough for you to jab -- in some situations if you're fast enough and realise they're going to double slash your shield you can quickly run away with a quick shield slide, but if they're fast they can just slash you before you do that.
 
@@ -238,11 +238,13 @@ This can be used to attack enemies that are near you from both sides. Example on
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/360k2.webm" controls loop="loop" preload></video><br>
 
-Gameplay examples below.
+This is generally done in narrow passages or tunnels in CTF, or when you're trying to fight several enemies at once.
 
-[GIF]
+Gameplay example (accidentally opened the taunt menu twice, don't mind it):
 
-[GIF 1]
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/pog7.webm" controls loop="loop" preload></video><br>
+
+Doing a 360 slash made it possible to both kill the red archer on the right, as well as slash the knights on the left.
 
 ### Chained shieldbashing
 
@@ -254,15 +256,17 @@ It is possible to keep someone in a near permanent stunlock by repeatedly shield
 
 Being able to use bombs efficiently is an important part of 1v1s (in most duels and 1v1 tournaments, knights start with a single bomb). You can use them in several ways:
 
-### Using them to bomb jump
+### Bomb jump + slashstomp
 
-If the enemy has a defensive playstyle, you may bomb jump and then slash stomp them.
+If the enemy has a defensive playstyle, you can bomb jump and then slash stomp them.
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/18.webm" controls loop="loop" preload></video><br>
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/pog5.webm" controls loop="loop" preload></video><br>
 
-However, as mentioned earlier, in some cases it's possible for the enemy to counter it if they're good enough, by slashing above at a correct angle with proper timing:
+However, sometimes it's possible to counter this by slashing above at a correct angle with proper timing before the enemy does, although you may still get 1 heart of damage due to getting stomped:
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/19.webm" controls loop="loop" preload></video><br>
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/hm3.webm" controls loop="loop" preload></video><br>
+
+Most of the time the bomb jumping person will still be able to slash first -- they can release the slash before you'd be even able to hit them and they'll still hit you due to the falling velocity, so it's generally not worth trying to slash somebody doing a bomb jump + slash stomp
 
 ### Using them after stunning someone
 
