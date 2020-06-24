@@ -266,7 +266,7 @@ However, sometimes it's possible to counter this by slashing above at a correct 
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/hm3.webm" controls loop="loop" preload></video><br>
 
-Most of the time the bomb jumping person will still be able to slash first -- they can release the slash before you'd be even able to hit them and they'll still hit you due to the falling velocity, so it's generally not worth trying to slash somebody doing a bomb jump + slash stomp
+Most of the time the bomb jumping person will still be able to slash first -- they can release the slash before you'd be even able to hit them and they'll still hit you due to the falling velocity, so it's generally not worth trying to slash somebody doing a bomb jump + slash stomp.
 
 ### Using them after stunning someone
 
