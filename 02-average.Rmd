@@ -52,7 +52,7 @@ It's also the same for when you're not slashing and just moving -- moving backwa
 
 ### Quick shield slide
 
-Shield sliding is performed by pointing the mouse below your character and shielding. However, you can move significantly faster by rapidly tapping the W key as you slide. For maximum speed, try to hit W as soon as you hit the ground on each bounce. Quick shield sliding is very useful when you're escaping from several enemies, or from an enemy charging a double slash.
+Shield sliding is performed by pointing the mouse below your character and shielding. However, you can move significantly faster by rapidly tapping the W key as you slide. For maximum speed, try to hit W as soon as you hit the ground on each bounce. Quick shield sliding is very useful when you're escaping from several enemies, or from an enemy charging a double slash. In the gif below I quickly shield slide a few times, and at the end I do a slow shield slide with just holding W for comparison (thumbs down emote).
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/qslide.webm" controls loop="loop" preload></video><br>
 
