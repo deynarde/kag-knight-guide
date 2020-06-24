@@ -227,7 +227,7 @@ Another variation includes holding a crate with a builder in it.
 
 ### Keg + waterbomb (Hadouken kegs)
 
-This also applies to TDM. If you explode a water bomb on a keg (with enough momentum) the keg will quickly go forward and explode on impact, like this.
+This also applies to TDM. If you explode a water bomb on a keg (with enough momentum) the keg will quickly go forward and explode on impact. Can be done mid-air as well if done quickly enough.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/05-ctf/23.webm" controls loop="loop" preload></video><br>
 
