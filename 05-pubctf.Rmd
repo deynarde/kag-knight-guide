@@ -205,7 +205,7 @@ If you're certain that they don't have a sawtrap on their other tunnels, you can
 
 Generally, if it's a catapult, you should just destroy it (easy money), unless it still has wheels attached and you can use it to hurt the enemies. If you have enough time, capture it.
 
-As for ballistas, depends on the situation. Generally, if you're safe on the enemy ballista, and no enemies are coming, capture it. If there are lots of enemies trying to get it back - destroy it, it gives you a lots of coins (just jabspam it). Keep in mind you can also swap to the builder on enemy ballistas to block enemies from coming.
+As for ballistas, depends on the situation. Generally, if you're safe on the enemy ballista, and no enemies are coming, capture it. If there are lots of enemies trying to get it back -- swap to builder on it and block enemies from coming. If you can't secure the ballista, destroy it as a builder (5 coins per pickaxe hit as well).
 
 ### Keg jump
 
