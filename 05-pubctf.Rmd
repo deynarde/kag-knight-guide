@@ -95,7 +95,7 @@ Good siege vehicle (siege shop, 200 coins), can be bought if you've got a lot of
 
 ### Catapult
 
-Another good siege vehicle (siege shop, 200 coins) -- lets you shoot people with it. Place on top of your tower.
+Another good siege vehicle (siege shop, 80 coins) -- lets you shoot people with it. Place on top of your tower.
 
 <p align="left">
   <img src="webm/05-ctf/i4.png">
