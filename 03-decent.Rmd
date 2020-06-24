@@ -114,7 +114,7 @@ Getting close to the enemy and then crouching. Even though crouching requires yo
 
 If you get jabbed any time while not stunned from anything, you can always instantly jab right after before the enemy puts their shield up.
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/jabtrade.webm" controls loop="loop" preload></video><br>
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/jabtrade1.webm" controls loop="loop" preload></video><br>
 
 This is easiest to do if you are charging a slash or a double slash and get jabbed; in that case, just release left mouse button and start holding right mouse button (shielding) -- if your slash was recently interrupted, you'll just release a jab right after that.
 
