@@ -18,13 +18,13 @@ Aside from overhead attacks to counter enemies shield sliding into you, you can 
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/2,.webm" controls loop="loop" preload></video><br>
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/3.webm" controls loop="loop" preload></video><br>
-
 ### Countering stomps
 
 Crouches are a very good counter against stomps as well. If you see someone jumping at you from a distance with their shield down, or if it's an archer or a builder, you should always crouch.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/crouchone.webm" controls loop="loop" preload></video><br>
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/3.webm" controls loop="loop" preload></video><br>
 
 ### Countering crouches with slash + stomp
 
