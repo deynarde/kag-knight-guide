@@ -85,6 +85,8 @@ Getting yourself launched from a catapult with a keg is a good tactic as well.
 
 Kegs, aside from exploding after 6 seconds, explode on impact if they're lit and have enough velocity.
 
+Try to not stockpile a lot of kegs in one spot -- kegs can chain explode, so if an enemy gets there somehow, they'll be able to use up all of the kegs. Don't put kegs in your tower either.
+
 ### Ballista
 
 Good siege vehicle (siege shop, 200 coins), can be bought if you've got a lot of money. It lets people respawn on it, so I recommend putting it on top of your tower.
