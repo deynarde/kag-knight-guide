@@ -49,7 +49,7 @@ Countered if enemy has a sponge in inventory (as mentioned in the first chapter)
 
 ### Sponges
 
-If you have one in inventory (builder shop, 15 coins), you are stunned for shorter time when hit by a water bomb. Good to buy if you know the enemy team has lots of archers spamming water.
+If you have one in inventory (builder shop, 15 coins), you are stunned for shorter time when hit by a water bomb or water arrow. Sponges absorb up to 2 stuns before being destroyed. Good to buy if you know the enemy team has lots of archers spamming water.
 
 ### Mines
 
