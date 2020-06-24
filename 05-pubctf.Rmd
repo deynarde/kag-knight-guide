@@ -242,3 +242,10 @@ Can be used to hurt enemy structures -- enemies most likely won't catch the keg.
 Mines need to stay still to be able to deploy -- so you can't deploy them in mid air. However, you can deploy one on top of your enemy tower, and then push it forward with a bomb or a waterbomb.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/05-ctf/25.webm" controls loop="loop" preload></video><br>
+
+### Hitting builder at weird door angle
+
+In situations like in the gif below, you're not able to slash the builder due to the door being there. Doors absorb damage slashes. To avoid this, you want to do a two-angled slash so that the arc of the slash doesn't hit the door -- slash away and then move your cursor from the below to the right. This way you'll be able to damage the builder without hitting the door.
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/05-ctf/pepegir.webm" controls loop="loop" preload></video><br>
+
