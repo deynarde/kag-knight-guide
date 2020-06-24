@@ -114,9 +114,9 @@ Try to not do this too often though -- if the enemy won't be doing an instajab o
 
 You can jab right after being slashed + jabbed if you do it fast enough (I usually just mash the left mouse button when I'm waiting to get unstunned):
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/04-good/691.webm" controls loop="loop" preload></video><br>
-
 <video style="display:block; max-width:100%; height:auto;" src="webm/04-good/sadeg.webm" controls loop="loop" preload></video><br>
+
+Even if the enemy shields right after, you will still be able to damage them with a jab (similar to how instajabs work).
 
 If you know that the enemy does this consistently, you can counter it in a few ways:
 
