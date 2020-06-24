@@ -192,6 +192,8 @@ Sometimes, when you and the enemy are shielding each other, you may attempt to d
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-decent/fakejab.webm" controls loop="loop" preload></video><br>
 
+If they will jab your shield, you're able to follow up with an attack (preferably a slash + jab).
+
 ### Slash stomping (easy version)
 
 When you have height advantage over a shielding enemy (at least 3 blocks), you can jump down at them with a slash. The slash will pierce their shield and the additional velocity from slashing will let you stomp them for 1 heart of damage.
