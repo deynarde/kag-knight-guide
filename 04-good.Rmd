@@ -102,6 +102,10 @@ Knights can sometimes try to shieldbash after slashing your shield. We can combi
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/04-good/peg2.webm" controls loop="loop" preload></video><br>
 
+Instaslashes can be also done from the stun on an unshielded slash and the slight stun from a jab interrupt -- although on 90% of cursor (final yellow dot before full cursor)
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/04-good/instad3.webm" controls loop="loop" preload></video><br>
+
 ### Jabbing after slashing shield
 
 If you know that the enemy regularly instajabs or instaslashes, you can try to jab right after slashing at their shield. This will prevent them from doing both (although they're still able to counterjab it).
