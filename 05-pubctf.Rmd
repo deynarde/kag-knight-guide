@@ -255,7 +255,7 @@ You can slash through one block gaps.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/05-ctf/hfd.webm" controls loop="loop" preload></video><br>
 
-In case the gap is under or above you, you want to slash slightly to the side. This is a bit confusing, but it's due to how slash arcs work. You have more range when slashing sideways because the slash hitbox is attached to your character's back and not to the center. Some images:
+In case the gap is under or above you, you want to slash slightly to the side. This is a bit confusing, but it's due to how slash arcs work. You have more range when slashing sideways because the slash hitbox is attached to your character's back and not to the center. 
 
 <p align="left">
   <img src="webm/05-ctf/hfd1.png">
@@ -263,9 +263,5 @@ In case the gap is under or above you, you want to slash slightly to the side. T
 
 <p align="left">
   <img src="webm/05-ctf/hfd2.png">
-</p>
-
-<p align="left">
-  <img src="webm/05-ctf/hfd3.png">
 </p>
 
