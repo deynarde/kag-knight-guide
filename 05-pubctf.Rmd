@@ -243,11 +243,37 @@ Mines need to stay still to be able to deploy -- so you can't deploy them in mid
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/05-ctf/25.webm" controls loop="loop" preload></video><br>
 
-### Hitting builder at weird door angle
+### Hitting enemies at specific door angles
 
 In situations like in the gif below, you're not able to slash the builder due to the door being there. Doors absorb damage from slashes. To avoid this, you want to do a two-angled slash so that the arc of the slash doesn't hit the door -- slash away and then move your cursor from the below to the right. This way you'll be able to damage the builder without hitting the door.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/05-ctf/pepegir.webm" controls loop="loop" preload></video><br>
+
+Some more gifs demonstrating this with `g_debug 1` turned on to show the slash arc:
+
+Opposite of the gif above (switched places):
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/05-ctf/edur1.webm" controls loop="loop" preload></video><br>
+
+Opening a single door and slashing downwards to not hit the top door:
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/05-ctf/edur2.webm" controls loop="loop" preload></video><br>
+
+Skipping door (mostly an academic example -- door situations like this almost never happen):
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/05-ctf/edur3.webm" controls loop="loop" preload></video><br>
+
+Slashing through a gap when there's a door -- slight jump so that your slash doesn't hit the door and is able to hit the enemy:
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/05-ctf/edur4.webm" controls loop="loop" preload></video><br>
+
+Slashing through a gap when there's a door downwards:
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/05-ctf/edur5.webm" controls loop="loop" preload></video><br>
+
+Slashing through a gap when there's a door upwards (note that you need some space):
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/05-ctf/edur6.webm" controls loop="loop" preload></video><br>
 
 ### Slashing through one block gaps
 
