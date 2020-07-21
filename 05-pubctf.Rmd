@@ -259,7 +259,7 @@ Opening a single door and slashing downwards to not hit the top door:
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/05-ctf/edur2.webm" controls loop="loop" preload></video><br>
 
-Skipping door (mostly an academic example -- door situations like this almost never happen):
+Skipping door:
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/05-ctf/edur3.webm" controls loop="loop" preload></video><br>
 
