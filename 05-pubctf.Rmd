@@ -295,6 +295,5 @@ In case the gap is under you, you want to slash slightly to the side. This is a 
 
 Due to the way slashes work against doors and slash arcs, if you keep slashing two doors without moving your cursor, you will only damage one of them. However, if you move your cursor around your character (360 degree slashes) you will be able to damage both doors.
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/05-ctf/tehehd.webm" controls loop="loop" preload></video><br>
-
+<video style="display:block; max-width:100%; height:auto;" src="webm/tehehd.webm" controls loop="loop" preload></video><br>
 
