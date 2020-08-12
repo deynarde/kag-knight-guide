@@ -1,0 +1,301 @@
+\documentclass[]{book}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\usepackage[margin=1in]{geometry}
+\usepackage{hyperref}
+\hypersetup{unicode=true,
+            pdftitle={Knight Guides},
+            pdfauthor={by Bunnie and deynarde},
+            pdfborder={0 0 0},
+            breaklinks=true}
+\urlstyle{same}  % don't use monospace font for urls
+\usepackage{natbib}
+\bibliographystyle{apalike}
+\usepackage{longtable,booktabs}
+\usepackage{graphicx,grffile}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+\IfFileExists{parskip.sty}{%
+\usepackage{parskip}
+}{% else
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{5}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+%%% Use protect on footnotes to avoid problems with footnotes in titles
+\let\rmarkdownfootnote\footnote%
+\def\footnote{\protect\rmarkdownfootnote}
+
+%%% Change title format to be more compact
+\usepackage{titling}
+
+% Create subtitle command for use in maketitle
+\newcommand{\subtitle}[1]{
+  \posttitle{
+    \begin{center}\large#1\end{center}
+    }
+}
+
+\setlength{\droptitle}{-2em}
+
+  \title{Knight Guides}
+    \pretitle{\vspace{\droptitle}\centering\huge}
+  \posttitle{\par}
+  \subtitle{Tender is the Knight}
+  \author{by Bunnie and deynarde}
+    \preauthor{\centering\large\emph}
+  \postauthor{\par}
+      \predate{\centering\large\emph}
+  \postdate{\par}
+    \date{31/01/2019}
+
+\usepackage{booktabs}
+\usepackage{amsthm}
+\makeatletter
+\def\thm@space@setup{%
+  \thm@preskip=8pt plus 2pt minus 4pt
+  \thm@postskip=\thm@preskip
+}
+\makeatother
+
+\begin{document}
+\maketitle
+
+{
+\setcounter{tocdepth}{1}
+\tableofcontents
+}
+\hypertarget{introduction}{%
+\chapter*{Introduction}\label{introduction}}
+\addcontentsline{toc}{chapter}{Introduction}
+
+We've read many tutorials concerning the knight gameplay, both on THD forums and Steam community hub and most of them were either shallow or outdated. Considering we're going to have new players coming with KAG F2P release we decided to write this new player friendly guide.
+
+We hope it'll help people who try to get better at knight. We're going to cover everything: improving your skills on various levels, how to play on CTF, how to deal with high ping or bugs, how to fight in 1v1s, competitive CTF and many more. It may seem like a lot, but knight combat is very extensive and if you really want to get better this guide will certainly help you.
+
+\begin{quote}
+For a collection of knight tips and tricks see the \href{https://deynarde.github.io/kag-knight-compendium/}{Knight Compendium}. Also you can contact us on Discord (\texttt{bunnie\#8671}, \texttt{deynarde\#4491}).
+\end{quote}
+
+\hypertarget{the-basics-and-learning-as-a-newbie}{%
+\chapter{The basics and learning as a newbie}\label{the-basics-and-learning-as-a-newbie}}
+
+\hypertarget{the-knight-class}{%
+\section{The knight class}\label{the-knight-class}}
+
+In KAG, the are 3 main classes: the Archer, the Builder and the Knight. The knight is arguably the strongest class of the game. A good team in CTF (the most played game mode -- Capture The Flag) or TTH (Take The Halls) should be mostly composed of knights protecting the builders and archers. In TDM (team deathmatch) the knight is the most played class as well.
+
+As a knight in CTF and TTH, your role is helping the team advance forward to get the enemy flag/enemy hall, but before you can learn more about game modes and playing in a team, let's talk about the combat mechanics first.
+
+\hypertarget{mechanics}{%
+\section{Mechanics}\label{mechanics}}
+
+As a knight, you can use your sword and shield to do the following stuff:
+
+\textbf{Jab} -- the simplest attack. It does 1 heart of damage.
+
+{[}gif 1 -- jabbing someone{]}
+
+\textbf{Slash} -- charged attack (it takes half a second to charge it -- just watch the cursor), it does 2 hearts of damage and stuns the enemy for a short time. If the enemy is shielding, it pierces through the shield.
+
+\emph{Being able to do slashes as fast as possible is very important -- you should be able to do them as soon as the cursor charges fully.}
+
+{[}gif 1 -- slash someone without shield{]}
+
+{[}gif 2 -- slash someone with shield{]}
+
+\textbf{Double slash} -- charged double attack (it takes 1 and 1/4 of a second to charge it, again, watch the cursor), does 4 hearts in total (if unshielded). If shielding, the first slash pierces the shield, the second slash deals 2 hearts of damage.
+
+{[}gif 1 -- double slash without shield{]}
+
+{[}gif 2 -- double slash with shield{]}
+
+For now you should keep in mind that if you jab the shield, you get stunned for a short while. Avoid doing it, because you can get jabbed during that moment, or in some cases even slashed:
+
+{[}gif 1 -- jab shield, get jabbed{]}
+
+{[}gif 2 -- jab shield, get slashed{]}
+
+You can also \textbf{slide on your shield} (hold W and shield down):
+
+{[}gif 1 -- shield slide{]}
+
+\textbf{Shield stun} -- If you quickly shield slide into someone, he can also get stunned for a short time (and sometimes knocked back):
+
+{[}gif 1 -- shield slide into someone to stun{]}
+
+\textbf{Glide} -- use the shield as a parachute:
+
+{[}gif 1 -- shield parachute{]}
+
+Not really a knight-only move, but you can also stomp the enemy if you fall on him with enough momentum.
+
+{[}gif 1 -- stomp 1 heart{]}
+{[}gif 2 -- stomp shield{]}
+{[}gif 3 -- stomp 2 heart{]}
+
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+
+Of course, you can do much more with these moves -- you could chain combos, for example slashing someone and then quickly jabbing him after, but you'll learn about that later on. For now, it's just important to know the theory how the combat works. The one thing you should focus on related to combat is to mostly use slashes for now -- the most common mistake a newbie can do is just jab spam, which is easily counterable and can quickly get you killed.
+
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+
+\hypertarget{items}{%
+\section{Items}\label{items}}
+
+There are various knight-specific items, such as bombs and waterbombs, which can be bought at the knight workshop in CTF (25 coins), trader shop in TDM (20 coins) or generated by explosives factories in TTH.
+
+\textbf{Bombs} in your inventory can be activated with the space bar button. It takes 4 seconds before a bomb explodes. You can throw bombs near enemies to damage them (the damage depends on how close the bomb was -- 3 hearts or 1,5 hearts), or use it to bomb jump.
+
+{[}gif 1 -- throw bomb at enemies{]}
+
+{[}gif 2 -- bomb jump{]}
+
+Keep in mind that if you throw the bomb too early the enemies can catch it and throw it back.
+
+{[}gif 1 -- throw back bomb{]}
+
+Then there's a \textbf{waterbomb}, which explodes on impact and stuns you for a bit. If you shield it, it stuns you for slightly shorter time. You can also put a sponge in your inventory (bought at TDM trader shop or CTF builder shop) which will also reduce the stun duration. If you successfully stun someone with it, you could for example kill him with a double slash.
+
+{[}gif 1 -- water bomb without shield{]}
+
+{[}gif 2 -- water bomb with shield{]}
+
+{[}gif 3 -- water bomb with sponge{]}
+\^{} The stunned person had a sponge in the inventory.
+
+{[}gif 4 -- slashing someone while hes stunned{]}
+
+There's also a \textbf{mine} (60 coins in CTF knight shop, but the mine can actually be used by every class), which activates if it stays still on the ground for some time. It instakills enemies and you can't shield it, so you should watch out for enemy mines!
+
+{[}gif 1 -- mine activating and players dying to mine{]}
+
+The last item is a \textbf{keg} (120 coins in CTF knight shop), which is a powerful (also unshieldable) explosive item with a 6 seconds fuse. You should avoid fighting enemies while holding a keg (you can't put it in your inventory) because they may steal it and hurt your team (one of the most common mistakes that can be made). Generally, you should activate kegs in the middle of the enemy base or next to the enemy flag room.
+
+{[}gif 1 -- keg exploding in the middle of enemy base{]}
+
+{[}gif 2 -- player losing a keg to the enemies{]}
+
+\hypertarget{movement}{%
+\section{Movement}\label{movement}}
+
+One of the most important things to learn when you're starting to play KAG is how to navigate the terrain properly: if you don't feel your character and its movement, you will have trouble slashing your enemies from a distance or even avoiding enemy attacks. You have to be able to move around obstacles freely, consistently use wall jumps, use your slash to gain additional momentum or jump forward while slashing to quickly move through terrain.
+
+{[}gif 1 -- wall jump{]}
+
+{[}gif 2 -- slash giving momentum{]}
+
+{[}gif 3 -- jumping forward while slashing{]}
+
+There's not really much to explain here -- it just takes practice, but if you really want to get better faster, then you just could play Save the Princess or the solo Challenges modes.
+
+\hypertarget{getting-good}{%
+\section{Getting good}\label{getting-good}}
+
+Every time you die to someone, ask yourself the question -- why did I die? Could I've done something to avoid death? Did I mess up timing or get baited by the enemy? Try to learn on your mistakes and minimize them as much as possible:
+
+{[}gif 1 -- slashing at someone while he already started slashing{]}
+
+{[}gif 2 -- messing up a slash jump at someone{]}
+
+{[}gif 3 -- jabbing a shield{]}
+
+Remember to slash often -- if you constantly slash, the enemies will be afraid to get closer to you. Make use of double slashes as well -- the first slash pierces through the shield and the second one deals 2 hearts of damage, as mentioned earlier.
+
+{[}gif 1 -- slashing and holding ground so the enemy doesn't get close{]}
+
+{[}gif 2 -- double slashing an enemy that retreats with a shield{]}
+
+Don't get demotivated if you're not as good as you want to be -- as we said earlier, at this level you just need to practice a lot and skill will come with time. Most of the players get stuck at what this guide considers the \emph{average} level. The next chapters should help you getting past that point.
+
+test
+
+\hypertarget{learning-as-an-average-player}{%
+\chapter{Learning as an average player}\label{learning-as-an-average-player}}
+
+test
+
+\hypertarget{learning-as-a-decent-player}{%
+\chapter{Learning as a decent player}\label{learning-as-a-decent-player}}
+
+test
+
+\hypertarget{learning-as-a-very-good-player}{%
+\chapter{Learning as a very good player}\label{learning-as-a-very-good-player}}
+
+test
+siek siek siekam cebolge
+
+\hypertarget{being-useful-in-pub-ctf}{%
+\chapter{Being useful in pub CTF}\label{being-useful-in-pub-ctf}}
+
+test
+
+\hypertarget{playing-tdm}{%
+\chapter{Playing TDM}\label{playing-tdm}}
+
+test
+
+\hypertarget{playing-1v1s-2v2s}{%
+\chapter{Playing 1v1s, 2v2s}\label{playing-1v1s-2v2s}}
+
+test
+
+\hypertarget{playing-competitive-ctf}{%
+\chapter{Playing competitive CTF}\label{playing-competitive-ctf}}
+
+test
+
+\hypertarget{dealing-with-the-no-animations-bug}{%
+\chapter{Dealing with the no animations bug}\label{dealing-with-the-no-animations-bug}}
+
+test
+
+\hypertarget{playing-with-lag}{%
+\chapter{Playing with lag}\label{playing-with-lag}}
+
+test
+
+\bibliography{latex/book.bib,latex/packages.bib}
+
+
+\end{document}

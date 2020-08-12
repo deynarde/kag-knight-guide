@@ -1,0 +1,576 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+<head>
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>Chapter 2 Knight II: Intermediate | Knight Guides</title>
+  <meta name="description" content="A KAG knight guide for both new and experienced players." />
+  <meta name="generator" content="bookdown 0.20.2 and GitBook 2.6.7" />
+
+  <meta property="og:title" content="Chapter 2 Knight II: Intermediate | Knight Guides" />
+  <meta property="og:type" content="book" />
+  
+  
+  <meta property="og:description" content="A KAG knight guide for both new and experienced players." />
+  <meta name="github-repo" content="deynarde/kag-knight-guide" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Chapter 2 Knight II: Intermediate | Knight Guides" />
+  
+  <meta name="twitter:description" content="A KAG knight guide for both new and experienced players." />
+  
+
+<meta name="author" content="by Bunnie and deynarde" />
+
+
+<meta name="date" content="2020-12-08" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  
+  
+<link rel="prev" href="knight-i-the-basics.html"/>
+<link rel="next" href="knight-iii-advanced.html"/>
+<script src="libs/jquery-2.2.3/jquery.min.js"></script>
+<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" href="css/style.css" type="text/css" />
+</head>
+
+<body>
+
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<li><a href="./">Knight Guides</a></li>
+
+<li class="divider"></li>
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i>Introduction</a></li>
+<li class="chapter" data-level="1" data-path="knight-i-the-basics.html"><a href="knight-i-the-basics.html"><i class="fa fa-check"></i><b>1</b> Knight I: The Basics</a><ul>
+<li class="chapter" data-level="1.1" data-path="knight-i-the-basics.html"><a href="knight-i-the-basics.html#the-knight-class"><i class="fa fa-check"></i><b>1.1</b> The knight class</a></li>
+<li class="chapter" data-level="1.2" data-path="knight-i-the-basics.html"><a href="knight-i-the-basics.html#mechanics"><i class="fa fa-check"></i><b>1.2</b> Mechanics</a><ul>
+<li class="chapter" data-level="1.2.1" data-path="knight-i-the-basics.html"><a href="knight-i-the-basics.html#jab"><i class="fa fa-check"></i><b>1.2.1</b> Jab</a></li>
+<li class="chapter" data-level="1.2.2" data-path="knight-i-the-basics.html"><a href="knight-i-the-basics.html#slash"><i class="fa fa-check"></i><b>1.2.2</b> Slash</a></li>
+<li class="chapter" data-level="1.2.3" data-path="knight-i-the-basics.html"><a href="knight-i-the-basics.html#double-slash"><i class="fa fa-check"></i><b>1.2.3</b> Double slash</a></li>
+<li class="chapter" data-level="1.2.4" data-path="knight-i-the-basics.html"><a href="knight-i-the-basics.html#shield-slide"><i class="fa fa-check"></i><b>1.2.4</b> Shield slide</a></li>
+<li class="chapter" data-level="1.2.5" data-path="knight-i-the-basics.html"><a href="knight-i-the-basics.html#shield-bash"><i class="fa fa-check"></i><b>1.2.5</b> Shield bash</a></li>
+<li class="chapter" data-level="1.2.6" data-path="knight-i-the-basics.html"><a href="knight-i-the-basics.html#shield-glide"><i class="fa fa-check"></i><b>1.2.6</b> Shield glide</a></li>
+<li class="chapter" data-level="1.2.7" data-path="knight-i-the-basics.html"><a href="knight-i-the-basics.html#stomping"><i class="fa fa-check"></i><b>1.2.7</b> Stomping</a></li>
+<li class="chapter" data-level="1.2.8" data-path="knight-i-the-basics.html"><a href="knight-i-the-basics.html#combining-slashes-jabs-stomps-bashes"><i class="fa fa-check"></i><b>1.2.8</b> Combining slashes, jabs, stomps, bashes</a></li>
+</ul></li>
+<li class="chapter" data-level="1.3" data-path="knight-i-the-basics.html"><a href="knight-i-the-basics.html#items"><i class="fa fa-check"></i><b>1.3</b> Items</a><ul>
+<li class="chapter" data-level="1.3.1" data-path="knight-i-the-basics.html"><a href="knight-i-the-basics.html#bombs"><i class="fa fa-check"></i><b>1.3.1</b> Bombs</a></li>
+<li class="chapter" data-level="1.3.2" data-path="knight-i-the-basics.html"><a href="knight-i-the-basics.html#waterbombs"><i class="fa fa-check"></i><b>1.3.2</b> Waterbombs</a></li>
+<li class="chapter" data-level="1.3.3" data-path="knight-i-the-basics.html"><a href="knight-i-the-basics.html#mines"><i class="fa fa-check"></i><b>1.3.3</b> Mines</a></li>
+<li class="chapter" data-level="1.3.4" data-path="knight-i-the-basics.html"><a href="knight-i-the-basics.html#kegs"><i class="fa fa-check"></i><b>1.3.4</b> Kegs</a></li>
+</ul></li>
+<li class="chapter" data-level="1.4" data-path="knight-i-the-basics.html"><a href="knight-i-the-basics.html#mobility"><i class="fa fa-check"></i><b>1.4</b> Mobility</a></li>
+<li class="chapter" data-level="1.5" data-path="knight-i-the-basics.html"><a href="knight-i-the-basics.html#learning"><i class="fa fa-check"></i><b>1.5</b> Learning</a></li>
+</ul></li>
+<li class="chapter" data-level="2" data-path="knight-ii-intermediate.html"><a href="knight-ii-intermediate.html"><i class="fa fa-check"></i><b>2</b> Knight II: Intermediate</a><ul>
+<li class="chapter" data-level="2.1" data-path="knight-ii-intermediate.html"><a href="knight-ii-intermediate.html#knight-model-slash-and-jab-range"><i class="fa fa-check"></i><b>2.1</b> Knight model, slash and jab range</a></li>
+<li class="chapter" data-level="2.2" data-path="knight-ii-intermediate.html"><a href="knight-ii-intermediate.html#on-learning-itself"><i class="fa fa-check"></i><b>2.2</b> On learning itself</a></li>
+<li class="chapter" data-level="2.3" data-path="knight-ii-intermediate.html"><a href="knight-ii-intermediate.html#more-on-mobility"><i class="fa fa-check"></i><b>2.3</b> More on mobility</a><ul>
+<li class="chapter" data-level="2.3.1" data-path="knight-ii-intermediate.html"><a href="knight-ii-intermediate.html#slash-jumping"><i class="fa fa-check"></i><b>2.3.1</b> Slash jumping</a></li>
+<li class="chapter" data-level="2.3.2" data-path="knight-ii-intermediate.html"><a href="knight-ii-intermediate.html#looking-at-proper-direction-while-charging-a-slash"><i class="fa fa-check"></i><b>2.3.2</b> Looking at proper direction while charging a slash</a></li>
+<li class="chapter" data-level="2.3.3" data-path="knight-ii-intermediate.html"><a href="knight-ii-intermediate.html#quick-shield-slide"><i class="fa fa-check"></i><b>2.3.3</b> Quick shield slide</a></li>
+<li class="chapter" data-level="2.3.4" data-path="knight-ii-intermediate.html"><a href="knight-ii-intermediate.html#climbing-arrows"><i class="fa fa-check"></i><b>2.3.4</b> Climbing arrows</a></li>
+<li class="chapter" data-level="2.3.5" data-path="knight-ii-intermediate.html"><a href="knight-ii-intermediate.html#using-walls-for-extra-velocity"><i class="fa fa-check"></i><b>2.3.5</b> Using walls for extra velocity</a></li>
+<li class="chapter" data-level="2.3.6" data-path="knight-ii-intermediate.html"><a href="knight-ii-intermediate.html#making-use-of-enemies-opening-doors"><i class="fa fa-check"></i><b>2.3.6</b> Making use of enemies opening doors</a></li>
+<li class="chapter" data-level="2.3.7" data-path="knight-ii-intermediate.html"><a href="knight-ii-intermediate.html#small-shield-glide"><i class="fa fa-check"></i><b>2.3.7</b> Small shield glide</a></li>
+<li class="chapter" data-level="2.3.8" data-path="knight-ii-intermediate.html"><a href="knight-ii-intermediate.html#slash-escape"><i class="fa fa-check"></i><b>2.3.8</b> Slash escape</a></li>
+<li class="chapter" data-level="2.3.9" data-path="knight-ii-intermediate.html"><a href="knight-ii-intermediate.html#tower-wall-jump"><i class="fa fa-check"></i><b>2.3.9</b> Tower wall jump</a></li>
+<li class="chapter" data-level="2.3.10" data-path="knight-ii-intermediate.html"><a href="knight-ii-intermediate.html#notch-climbing"><i class="fa fa-check"></i><b>2.3.10</b> Notch climbing</a></li>
+<li class="chapter" data-level="2.3.11" data-path="knight-ii-intermediate.html"><a href="knight-ii-intermediate.html#bounce-off-water"><i class="fa fa-check"></i><b>2.3.11</b> Bounce off water</a></li>
+<li class="chapter" data-level="2.3.12" data-path="knight-ii-intermediate.html"><a href="knight-ii-intermediate.html#bomb-jumps"><i class="fa fa-check"></i><b>2.3.12</b> Bomb jumps</a></li>
+</ul></li>
+<li class="chapter" data-level="2.4" data-path="knight-ii-intermediate.html"><a href="knight-ii-intermediate.html#more-on-combat-and-using-your-sword"><i class="fa fa-check"></i><b>2.4</b> More on combat and using your sword</a><ul>
+<li class="chapter" data-level="2.4.1" data-path="knight-ii-intermediate.html"><a href="knight-ii-intermediate.html#slashing-fast"><i class="fa fa-check"></i><b>2.4.1</b> Slashing fast</a></li>
+<li class="chapter" data-level="2.4.2" data-path="knight-ii-intermediate.html"><a href="knight-ii-intermediate.html#jab-after-successful-slashes"><i class="fa fa-check"></i><b>2.4.2</b> Jab after successful slashes</a></li>
+<li class="chapter" data-level="2.4.3" data-path="knight-ii-intermediate.html"><a href="knight-ii-intermediate.html#low-jumps-while-slashing"><i class="fa fa-check"></i><b>2.4.3</b> Low jumps while slashing</a></li>
+<li class="chapter" data-level="2.4.4" data-path="knight-ii-intermediate.html"><a href="knight-ii-intermediate.html#using-double-slashes"><i class="fa fa-check"></i><b>2.4.4</b> Using double slashes</a></li>
+<li class="chapter" data-level="2.4.5" data-path="knight-ii-intermediate.html"><a href="knight-ii-intermediate.html#attacking-an-enemy-who-is-stunned-from-jabbing-your-shield"><i class="fa fa-check"></i><b>2.4.5</b> Attacking an enemy who is stunned from jabbing your shield</a></li>
+<li class="chapter" data-level="2.4.6" data-path="knight-ii-intermediate.html"><a href="knight-ii-intermediate.html#counter-slashing-slash-baiting"><i class="fa fa-check"></i><b>2.4.6</b> Counter slashing / slash baiting</a></li>
+<li class="chapter" data-level="2.4.7" data-path="knight-ii-intermediate.html"><a href="knight-ii-intermediate.html#winning-slash-fights-on-l-shape"><i class="fa fa-check"></i><b>2.4.7</b> Winning slash fights on L shape</a></li>
+</ul></li>
+<li class="chapter" data-level="2.5" data-path="knight-ii-intermediate.html"><a href="knight-ii-intermediate.html#shield-bashing-and-countering-it"><i class="fa fa-check"></i><b>2.5</b> Shield bashing and countering it</a><ul>
+<li class="chapter" data-level="2.5.1" data-path="knight-ii-intermediate.html"><a href="knight-ii-intermediate.html#shield-bash-jab"><i class="fa fa-check"></i><b>2.5.1</b> Shield bash + jab</a></li>
+<li class="chapter" data-level="2.5.2" data-path="knight-ii-intermediate.html"><a href="knight-ii-intermediate.html#overhead-attacks"><i class="fa fa-check"></i><b>2.5.2</b> Overhead attacks</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="3" data-path="knight-iii-advanced.html"><a href="knight-iii-advanced.html"><i class="fa fa-check"></i><b>3</b> Knight III: Advanced</a><ul>
+<li class="chapter" data-level="3.1" data-path="knight-iii-advanced.html"><a href="knight-iii-advanced.html#crouching"><i class="fa fa-check"></i><b>3.1</b> Crouching</a><ul>
+<li class="chapter" data-level="3.1.1" data-path="knight-iii-advanced.html"><a href="knight-iii-advanced.html#countering-shieldbashes"><i class="fa fa-check"></i><b>3.1.1</b> Countering shieldbashes</a></li>
+<li class="chapter" data-level="3.1.2" data-path="knight-iii-advanced.html"><a href="knight-iii-advanced.html#countering-stomps"><i class="fa fa-check"></i><b>3.1.2</b> Countering stomps</a></li>
+<li class="chapter" data-level="3.1.3" data-path="knight-iii-advanced.html"><a href="knight-iii-advanced.html#countering-crouches-with-slash-stomp"><i class="fa fa-check"></i><b>3.1.3</b> Countering crouches with slash + stomp</a></li>
+<li class="chapter" data-level="3.1.4" data-path="knight-iii-advanced.html"><a href="knight-iii-advanced.html#countering-crouches-equal-level"><i class="fa fa-check"></i><b>3.1.4</b> Countering crouches (equal level)</a></li>
+<li class="chapter" data-level="3.1.5" data-path="knight-iii-advanced.html"><a href="knight-iii-advanced.html#attacking-while-being-inside-someone-thats-shielding"><i class="fa fa-check"></i><b>3.1.5</b> Attacking while being 'inside' someone that's shielding</a></li>
+<li class="chapter" data-level="3.1.6" data-path="knight-iii-advanced.html"><a href="knight-iii-advanced.html#crouches-in-actual-gameplay"><i class="fa fa-check"></i><b>3.1.6</b> Crouches in actual gameplay</a></li>
+</ul></li>
+<li class="chapter" data-level="3.2" data-path="knight-iii-advanced.html"><a href="knight-iii-advanced.html#some-more-moves-and-tricks"><i class="fa fa-check"></i><b>3.2</b> Some more moves and tricks</a><ul>
+<li class="chapter" data-level="3.2.1" data-path="knight-iii-advanced.html"><a href="knight-iii-advanced.html#jab-trading-counterjabs"><i class="fa fa-check"></i><b>3.2.1</b> Jab trading (counterjabs)</a></li>
+<li class="chapter" data-level="3.2.2" data-path="knight-iii-advanced.html"><a href="knight-iii-advanced.html#jabbing-to-interrupt-double-slashes"><i class="fa fa-check"></i><b>3.2.2</b> Jabbing to interrupt double slashes</a></li>
+<li class="chapter" data-level="3.2.3" data-path="knight-iii-advanced.html"><a href="knight-iii-advanced.html#prolonged-slashes"><i class="fa fa-check"></i><b>3.2.3</b> Prolonged slashes</a></li>
+<li class="chapter" data-level="3.2.4" data-path="knight-iii-advanced.html"><a href="knight-iii-advanced.html#bait-jab-punishing-enemies-for-missing-slashes"><i class="fa fa-check"></i><b>3.2.4</b> Bait jab, punishing enemies for missing slashes</a></li>
+<li class="chapter" data-level="3.2.5" data-path="knight-iii-advanced.html"><a href="knight-iii-advanced.html#overhead-jab"><i class="fa fa-check"></i><b>3.2.5</b> Overhead jab</a></li>
+<li class="chapter" data-level="3.2.6" data-path="knight-iii-advanced.html"><a href="knight-iii-advanced.html#tempo-jab"><i class="fa fa-check"></i><b>3.2.6</b> Tempo jab</a></li>
+<li class="chapter" data-level="3.2.7" data-path="knight-iii-advanced.html"><a href="knight-iii-advanced.html#fake-jab"><i class="fa fa-check"></i><b>3.2.7</b> Fake jab</a></li>
+<li class="chapter" data-level="3.2.8" data-path="knight-iii-advanced.html"><a href="knight-iii-advanced.html#slash-stomping-easy-version"><i class="fa fa-check"></i><b>3.2.8</b> Slash stomping (easy version)</a></li>
+<li class="chapter" data-level="3.2.9" data-path="knight-iii-advanced.html"><a href="knight-iii-advanced.html#cancelling-and-baiting-with-a-double-slash"><i class="fa fa-check"></i><b>3.2.9</b> Cancelling and baiting with a double slash</a></li>
+<li class="chapter" data-level="3.2.10" data-path="knight-iii-advanced.html"><a href="knight-iii-advanced.html#two-angled360-slash"><i class="fa fa-check"></i><b>3.2.10</b> Two-angled/360 slash</a></li>
+<li class="chapter" data-level="3.2.11" data-path="knight-iii-advanced.html"><a href="knight-iii-advanced.html#chained-shieldbashing"><i class="fa fa-check"></i><b>3.2.11</b> Chained shieldbashing</a></li>
+</ul></li>
+<li class="chapter" data-level="3.3" data-path="knight-iii-advanced.html"><a href="knight-iii-advanced.html#using-bombs"><i class="fa fa-check"></i><b>3.3</b> Using bombs</a><ul>
+<li class="chapter" data-level="3.3.1" data-path="knight-iii-advanced.html"><a href="knight-iii-advanced.html#bomb-jump-slashstomp"><i class="fa fa-check"></i><b>3.3.1</b> Bomb jump + slashstomp</a></li>
+<li class="chapter" data-level="3.3.2" data-path="knight-iii-advanced.html"><a href="knight-iii-advanced.html#using-them-after-stunning-someone"><i class="fa fa-check"></i><b>3.3.2</b> Using them after stunning someone</a></li>
+<li class="chapter" data-level="3.3.3" data-path="knight-iii-advanced.html"><a href="knight-iii-advanced.html#combat-bomb"><i class="fa fa-check"></i><b>3.3.3</b> Combat bomb</a></li>
+<li class="chapter" data-level="3.3.4" data-path="knight-iii-advanced.html"><a href="knight-iii-advanced.html#bomb-and-jabslash-combo"><i class="fa fa-check"></i><b>3.3.4</b> Bomb and jab/slash combo</a></li>
+<li class="chapter" data-level="3.3.5" data-path="knight-iii-advanced.html"><a href="knight-iii-advanced.html#water-buoyancy-for-bombs"><i class="fa fa-check"></i><b>3.3.5</b> Water buoyancy for bombs</a></li>
+<li class="chapter" data-level="3.3.6" data-path="knight-iii-advanced.html"><a href="knight-iii-advanced.html#catching-and-throwing-back-enemy-bombs"><i class="fa fa-check"></i><b>3.3.6</b> Catching and throwing back enemy bombs</a></li>
+</ul></li>
+<li class="chapter" data-level="3.4" data-path="knight-iii-advanced.html"><a href="knight-iii-advanced.html#combos-after-landing-a-successful-slash"><i class="fa fa-check"></i><b>3.4</b> Combos after landing a successful slash</a><ul>
+<li class="chapter" data-level="3.4.1" data-path="knight-iii-advanced.html"><a href="knight-iii-advanced.html#slash-jab-shieldbash-jab"><i class="fa fa-check"></i><b>3.4.1</b> Slash + jab + shieldbash + jab</a></li>
+<li class="chapter" data-level="3.4.2" data-path="knight-iii-advanced.html"><a href="knight-iii-advanced.html#slash-jab-overhead-jab"><i class="fa fa-check"></i><b>3.4.2</b> Slash + jab + overhead jab</a></li>
+<li class="chapter" data-level="3.4.3" data-path="knight-iii-advanced.html"><a href="knight-iii-advanced.html#slash-jab-double-slash-on-shield-optionally-counterjab"><i class="fa fa-check"></i><b>3.4.3</b> Slash + jab + double slash on shield (optionally counterjab)</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="4" data-path="knight-iv-expert.html"><a href="knight-iv-expert.html"><i class="fa fa-check"></i><b>4</b> Knight IV: Expert</a><ul>
+<li class="chapter" data-level="4.1" data-path="knight-iv-expert.html"><a href="knight-iv-expert.html#more-advanced-moves-and-tricks"><i class="fa fa-check"></i><b>4.1</b> More advanced moves and tricks</a><ul>
+<li class="chapter" data-level="4.1.1" data-path="knight-iv-expert.html"><a href="knight-iv-expert.html#aggressive-jabs"><i class="fa fa-check"></i><b>4.1.1</b> Aggressive jabs</a></li>
+<li class="chapter" data-level="4.1.2" data-path="knight-iv-expert.html"><a href="knight-iv-expert.html#instajabs"><i class="fa fa-check"></i><b>4.1.2</b> Instajabs</a></li>
+<li class="chapter" data-level="4.1.3" data-path="knight-iv-expert.html"><a href="knight-iv-expert.html#instaslashes"><i class="fa fa-check"></i><b>4.1.3</b> Instaslashes</a></li>
+<li class="chapter" data-level="4.1.4" data-path="knight-iv-expert.html"><a href="knight-iv-expert.html#jabbing-after-slashing-shield"><i class="fa fa-check"></i><b>4.1.4</b> Jabbing after slashing shield</a></li>
+<li class="chapter" data-level="4.1.5" data-path="knight-iv-expert.html"><a href="knight-iv-expert.html#jab-after-being-slashedjabbed"><i class="fa fa-check"></i><b>4.1.5</b> Jab after being slashed+jabbed</a></li>
+<li class="chapter" data-level="4.1.6" data-path="knight-iv-expert.html"><a href="knight-iv-expert.html#slash-stomping-hard"><i class="fa fa-check"></i><b>4.1.6</b> Slash stomping (hard)</a></li>
+<li class="chapter" data-level="4.1.7" data-path="knight-iv-expert.html"><a href="knight-iv-expert.html#blitz-crouch"><i class="fa fa-check"></i><b>4.1.7</b> Blitz crouch</a></li>
+<li class="chapter" data-level="4.1.8" data-path="knight-iv-expert.html"><a href="knight-iv-expert.html#glue-after-crouch"><i class="fa fa-check"></i><b>4.1.8</b> Glue after crouch</a></li>
+</ul></li>
+<li class="chapter" data-level="4.2" data-path="knight-iv-expert.html"><a href="knight-iv-expert.html#using-food-items-in-between-double-slashes"><i class="fa fa-check"></i><b>4.2</b> Using food items in between double slashes</a></li>
+<li class="chapter" data-level="4.3" data-path="knight-iv-expert.html"><a href="knight-iv-expert.html#some-trivia"><i class="fa fa-check"></i><b>4.3</b> Some trivia</a><ul>
+<li class="chapter" data-level="4.3.1" data-path="knight-iv-expert.html"><a href="knight-iv-expert.html#shield-bash-double-jab"><i class="fa fa-check"></i><b>4.3.1</b> Shield bash + double jab</a></li>
+<li class="chapter" data-level="4.3.2" data-path="knight-iv-expert.html"><a href="knight-iv-expert.html#shield-bash-slash"><i class="fa fa-check"></i><b>4.3.2</b> Shield bash + slash</a></li>
+<li class="chapter" data-level="4.3.3" data-path="knight-iv-expert.html"><a href="knight-iv-expert.html#shieldslide-crouch"><i class="fa fa-check"></i><b>4.3.3</b> Shieldslide crouch</a></li>
+</ul></li>
+<li class="chapter" data-level="4.4" data-path="knight-iv-expert.html"><a href="knight-iv-expert.html#becoming-the-best"><i class="fa fa-check"></i><b>4.4</b> Becoming the best</a></li>
+</ul></li>
+<li class="chapter" data-level="5" data-path="playing-ctf.html"><a href="playing-ctf.html"><i class="fa fa-check"></i><b>5</b> Playing CTF</a><ul>
+<li class="chapter" data-level="5.1" data-path="playing-ctf.html"><a href="playing-ctf.html#dropping-resupplies-dropping-mats"><i class="fa fa-check"></i><b>5.1</b> Dropping resupplies (dropping mats)</a></li>
+<li class="chapter" data-level="5.2" data-path="playing-ctf.html"><a href="playing-ctf.html#buying-items"><i class="fa fa-check"></i><b>5.2</b> Buying items</a><ul>
+<li class="chapter" data-level="5.2.1" data-path="playing-ctf.html"><a href="playing-ctf.html#bombs-1"><i class="fa fa-check"></i><b>5.2.1</b> Bombs</a></li>
+<li class="chapter" data-level="5.2.2" data-path="playing-ctf.html"><a href="playing-ctf.html#burgers"><i class="fa fa-check"></i><b>5.2.2</b> Burgers</a></li>
+<li class="chapter" data-level="5.2.3" data-path="playing-ctf.html"><a href="playing-ctf.html#water-bombs"><i class="fa fa-check"></i><b>5.2.3</b> Water bombs</a></li>
+<li class="chapter" data-level="5.2.4" data-path="playing-ctf.html"><a href="playing-ctf.html#sponges"><i class="fa fa-check"></i><b>5.2.4</b> Sponges</a></li>
+<li class="chapter" data-level="5.2.5" data-path="playing-ctf.html"><a href="playing-ctf.html#mines-1"><i class="fa fa-check"></i><b>5.2.5</b> Mines</a></li>
+<li class="chapter" data-level="5.2.6" data-path="playing-ctf.html"><a href="playing-ctf.html#kegs-1"><i class="fa fa-check"></i><b>5.2.6</b> Kegs</a></li>
+<li class="chapter" data-level="5.2.7" data-path="playing-ctf.html"><a href="playing-ctf.html#ballista"><i class="fa fa-check"></i><b>5.2.7</b> Ballista</a></li>
+<li class="chapter" data-level="5.2.8" data-path="playing-ctf.html"><a href="playing-ctf.html#catapult"><i class="fa fa-check"></i><b>5.2.8</b> Catapult</a></li>
+<li class="chapter" data-level="5.2.9" data-path="playing-ctf.html"><a href="playing-ctf.html#arrows-for-your-archers"><i class="fa fa-check"></i><b>5.2.9</b> Arrows for your archers</a></li>
+</ul></li>
+<li class="chapter" data-level="5.3" data-path="playing-ctf.html"><a href="playing-ctf.html#teamwork"><i class="fa fa-check"></i><b>5.3</b> Teamwork</a><ul>
+<li class="chapter" data-level="5.3.1" data-path="playing-ctf.html"><a href="playing-ctf.html#protect-your-builders"><i class="fa fa-check"></i><b>5.3.1</b> Protect your builders</a></li>
+<li class="chapter" data-level="5.3.2" data-path="playing-ctf.html"><a href="playing-ctf.html#catch-bombs"><i class="fa fa-check"></i><b>5.3.2</b> Catch bombs</a></li>
+<li class="chapter" data-level="5.3.3" data-path="playing-ctf.html"><a href="playing-ctf.html#pick-up-materials"><i class="fa fa-check"></i><b>5.3.3</b> Pick up materials</a></li>
+</ul></li>
+<li class="chapter" data-level="5.4" data-path="playing-ctf.html"><a href="playing-ctf.html#on-the-defense"><i class="fa fa-check"></i><b>5.4</b> On the defense</a><ul>
+<li class="chapter" data-level="5.4.1" data-path="playing-ctf.html"><a href="playing-ctf.html#focus-on-the-builder"><i class="fa fa-check"></i><b>5.4.1</b> Focus on the builder</a></li>
+<li class="chapter" data-level="5.4.2" data-path="playing-ctf.html"><a href="playing-ctf.html#mass-keg"><i class="fa fa-check"></i><b>5.4.2</b> Mass-keg</a></li>
+<li class="chapter" data-level="5.4.3" data-path="playing-ctf.html"><a href="playing-ctf.html#catch-enemy-kegs"><i class="fa fa-check"></i><b>5.4.3</b> Catch enemy kegs</a></li>
+<li class="chapter" data-level="5.4.4" data-path="playing-ctf.html"><a href="playing-ctf.html#slash-ballista-bomb-bolts"><i class="fa fa-check"></i><b>5.4.4</b> Slash ballista bomb bolts</a></li>
+<li class="chapter" data-level="5.4.5" data-path="playing-ctf.html"><a href="playing-ctf.html#shield-enemy-bomb-arrows"><i class="fa fa-check"></i><b>5.4.5</b> Shield enemy bomb arrows</a></li>
+</ul></li>
+<li class="chapter" data-level="5.5" data-path="playing-ctf.html"><a href="playing-ctf.html#on-the-offense"><i class="fa fa-check"></i><b>5.5</b> On the offense</a><ul>
+<li class="chapter" data-level="5.5.1" data-path="playing-ctf.html"><a href="playing-ctf.html#multi-bomb-jumps"><i class="fa fa-check"></i><b>5.5.1</b> Multi bomb jumps</a></li>
+<li class="chapter" data-level="5.5.2" data-path="playing-ctf.html"><a href="playing-ctf.html#enemy-tunnels"><i class="fa fa-check"></i><b>5.5.2</b> Enemy tunnels</a></li>
+<li class="chapter" data-level="5.5.3" data-path="playing-ctf.html"><a href="playing-ctf.html#enemy-siege-vehicles"><i class="fa fa-check"></i><b>5.5.3</b> Enemy siege vehicles</a></li>
+<li class="chapter" data-level="5.5.4" data-path="playing-ctf.html"><a href="playing-ctf.html#keg-jump"><i class="fa fa-check"></i><b>5.5.4</b> Keg jump</a></li>
+</ul></li>
+<li class="chapter" data-level="5.6" data-path="playing-ctf.html"><a href="playing-ctf.html#random-tricks"><i class="fa fa-check"></i><b>5.6</b> Random tricks</a><ul>
+<li class="chapter" data-level="5.6.1" data-path="playing-ctf.html"><a href="playing-ctf.html#sawjump"><i class="fa fa-check"></i><b>5.6.1</b> Sawjump</a></li>
+<li class="chapter" data-level="5.6.2" data-path="playing-ctf.html"><a href="playing-ctf.html#keg-waterbomb-hadouken-kegs"><i class="fa fa-check"></i><b>5.6.2</b> Keg + waterbomb (Hadouken kegs)</a></li>
+<li class="chapter" data-level="5.6.3" data-path="playing-ctf.html"><a href="playing-ctf.html#mine-bomb"><i class="fa fa-check"></i><b>5.6.3</b> Mine + bomb</a></li>
+<li class="chapter" data-level="5.6.4" data-path="playing-ctf.html"><a href="playing-ctf.html#hitting-enemies-at-specific-door-angles"><i class="fa fa-check"></i><b>5.6.4</b> Hitting enemies at specific door angles</a></li>
+<li class="chapter" data-level="5.6.5" data-path="playing-ctf.html"><a href="playing-ctf.html#slashing-through-one-block-gaps"><i class="fa fa-check"></i><b>5.6.5</b> Slashing through one block gaps</a></li>
+<li class="chapter" data-level="5.6.6" data-path="playing-ctf.html"><a href="playing-ctf.html#using-360-slashes-to-damage-multiple-doors"><i class="fa fa-check"></i><b>5.6.6</b> Using 360 slashes to damage multiple doors</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="6" data-path="playing-with-lags.html"><a href="playing-with-lags.html"><i class="fa fa-check"></i><b>6</b> Playing with lags</a><ul>
+<li class="chapter" data-level="6.1" data-path="playing-with-lags.html"><a href="playing-with-lags.html#practice"><i class="fa fa-check"></i><b>6.1</b> Practice</a></li>
+<li class="chapter" data-level="6.2" data-path="playing-with-lags.html"><a href="playing-with-lags.html#how-to-play"><i class="fa fa-check"></i><b>6.2</b> How to play</a></li>
+<li class="chapter" data-level="6.3" data-path="playing-with-lags.html"><a href="playing-with-lags.html#bomb-jumping-with-lags"><i class="fa fa-check"></i><b>6.3</b> Bomb jumping with lags</a></li>
+</ul></li>
+<li class="chapter" data-level="7" data-path="miscellanous.html"><a href="miscellanous.html"><i class="fa fa-check"></i><b>7</b> Miscellanous</a><ul>
+<li class="chapter" data-level="7.1" data-path="miscellanous.html"><a href="miscellanous.html#tick-table"><i class="fa fa-check"></i><b>7.1</b> Tick Table</a></li>
+<li class="chapter" data-level="7.2" data-path="miscellanous.html"><a href="miscellanous.html#videos"><i class="fa fa-check"></i><b>7.2</b> Videos</a></li>
+<li class="chapter" data-level="7.3" data-path="miscellanous.html"><a href="miscellanous.html#tdm-vs-ctf-fall-damage"><i class="fa fa-check"></i><b>7.3</b> TDM vs CTF fall damage</a></li>
+</ul></li>
+<li class="divider"></li>
+<li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">Knight Guides</a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<div id="knight-ii-intermediate" class="section level1">
+<h1><span class="header-section-number">Chapter 2</span> Knight II: Intermediate</h1>
+<p align="center">
+<img src="imgs/miecz.png">
+</p>
+<div id="knight-model-slash-and-jab-range" class="section level2">
+<h2><span class="header-section-number">2.1</span> Knight model, slash and jab range</h2>
+<p>We'll start this section with a word about hitboxes in KAG:</p>
+<p><img src="imgs/knightmodel.png"></p>
+<p>The hitbox of a knight is a circle (it's an octagon here and that's false, but don't mind it).</p>
+<p>Both jab and slash are shaped as arcs, which move with your character and are active for a certain duration (slashes last much longer than jabs).</p>
+<p>Your shield covers an arc around your character centered on the direction pointed by your mouse. If you were hit through your shield by someone, you may have not been aiming at the right direction to cover the full arc of the attack.</p>
+<p>It is possible to see your hit boxes by going into solo sandbox mode, opening the console (by pressing HOME key) and typing <code>/g_debug 1</code>.</p>
+</div>
+<div id="on-learning-itself" class="section level2">
+<h2><span class="header-section-number">2.2</span> On learning itself</h2>
+<p>If you want to get better at knight, the most important thing is practice. There are 3 options for that: playing TDMs, playing CTF or playing on a custom 1v1 server. 1v1s allow you to fully focus on purely knight gameplay, movement and timing. TDM is similar, but also with the inclusion of archers and items, so you get to train against them too. On CTF you're able to greatly help your builders and practice positioning and fighting against many enemies at once, as well as using kegs and bombs properly.</p>
+<p>You should always try to use tricks consistently. For a lot of moves, you just need to get into the habit of using them. If you really want to get better, we recommend always focusing and actually trying, no matter who you are playing against or what mode it is; playing optimally helps you in training muscle memory and getting used to the mechanics of knight combat. This applies to anyone, regardless of your skill level -- you should always give your best. Doing this will make you a better player.</p>
+<p>As mentioned in the first chapter, analysing your play style and mistakes also helps a lot. It may be hard to do so in real-time, so you may decide to record your gameplay and analyse the videos later. We suggest recording your 1v1 gameplay.</p>
+<p>In summary -- don't stop trying, always give your best, and try to use the moves and tricks you learned here in actual matches, don't be afraid to experiment with your playstyle.</p>
+</div>
+<div id="more-on-mobility" class="section level2">
+<h2><span class="header-section-number">2.3</span> More on mobility</h2>
+<p>At this point, it would be good to learn basic mobility tricks, such as these -- they're useful in more situations than you may think, so you should be able to do them consistently. Good mobility is as important as good timings and reflexes.</p>
+<div id="slash-jumping" class="section level3">
+<h3><span class="header-section-number">2.3.1</span> Slash jumping</h3>
+<p>A knight can jump higher than normal by slashing to get extra velocity. Time your slash so that it releases right after you start your jump. It can be combined with an upwards shield glide in order to get extra height. By pushing off the wall as you get near the top and then floating back onto it, you can also climb more -- in total up to 10 blocks (although this is mostly done for 7-9 block high walls). This can be useful when you're escaping from the enemies' base with their flag (but in that case, you're not going to be able to climb as much).</p>
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/tr1.webm" controls loop="loop" preload>
+</video>
+<p><br></p>
+<p>You can also do the same with a double slash -- a total of 10 blocks can be climbed this way (in theory you can do 11, but it's not very practical).</p>
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/10climbd.webm" controls loop="loop" preload>
+</video>
+<p><br></p>
+</div>
+<div id="looking-at-proper-direction-while-charging-a-slash" class="section level3">
+<h3><span class="header-section-number">2.3.2</span> Looking at proper direction while charging a slash</h3>
+<p>Aiming in the same direction to which you are moving will allow you to move a little faster while charging an attack. <strong>You should always do this whenever you're charging a slash!</strong></p>
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/3.webm" controls loop="loop" preload>
+</video>
+<p><br></p>
+<p>It's also the same for when you're not slashing and just moving -- moving backwards is slower, so if you want to be quick, try to not do that.</p>
+</div>
+<div id="quick-shield-slide" class="section level3">
+<h3><span class="header-section-number">2.3.3</span> Quick shield slide</h3>
+<p>Shield sliding is performed by pointing the mouse below your character and shielding. However, you can move significantly faster by rapidly tapping the W key as you slide. For maximum speed, try to hit W as soon as you hit the ground on each bounce. Quick shield sliding is very useful when you're escaping from several enemies, or from an enemy charging a double slash. In the gif below I quickly shield slide a few times, and at the end I do a slow shield slide with just holding W for comparison (thumbs down emote).</p>
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/qslide.webm" controls loop="loop" preload>
+</video>
+<p><br></p>
+</div>
+<div id="climbing-arrows" class="section level3">
+<h3><span class="header-section-number">2.3.4</span> Climbing arrows</h3>
+<p>It is possible to climb arrows that have been shot into blocks. It is also possible to navigate around platforms on towers if there are enough arrows.</p>
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/5.webm" controls loop="loop" preload>
+</video>
+<p><br></p>
+<p>Arrows that are stuck in air (for example, if they were shot at a structure that collapsed later) can also be climbed.</p>
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/airarrow.webm" controls loop="loop" preload>
+</video>
+<p><br></p>
+</div>
+<div id="using-walls-for-extra-velocity" class="section level3">
+<h3><span class="header-section-number">2.3.5</span> Using walls for extra velocity</h3>
+<p>Pushing off a wall will give you a small burst of speed. This speed boost can be helpful to win battles by utilising slash timings. You can often surprise the enemy who won't expect you to walljump off a 2 block tall wall.</p>
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/walljump.webm" controls loop="loop" preload>
+</video>
+<p><br></p>
+<p>Walljumps can also be used in order to gain height advantage over enemies, thus allowing you to slash them more easily.</p>
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/wallj2.webm" controls loop="loop" preload>
+</video>
+<p><br></p>
+<p>They can be utilised in water combat as well.</p>
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/wallj3.webm" controls loop="loop" preload>
+</video>
+<p><br></p>
+</div>
+<div id="making-use-of-enemies-opening-doors" class="section level3">
+<h3><span class="header-section-number">2.3.6</span> Making use of enemies opening doors</h3>
+<p>After an enemy player goes through his team's doors, the doors are momentarily left open. This also happens if you kill an enemy in any doors -- their corpse will hold the door open. This lets you walk through them. You can often get to enemy shops or flagrooms using this in a CTF game.</p>
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/durthru3.webm" controls loop="loop" preload>
+</video>
+<p><br></p>
+</div>
+<div id="small-shield-glide" class="section level3">
+<h3><span class="header-section-number">2.3.7</span> Small shield glide</h3>
+<p>A shield slide can be performed even on a single block. This can be very helpful in CTF to get some extra speed for crossing larger gaps.</p>
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/11.webm" controls loop="loop" preload>
+</video>
+<p><br></p>
+</div>
+<div id="slash-escape" class="section level3">
+<h3><span class="header-section-number">2.3.8</span> Slash escape</h3>
+<p>Slashing can sometimes be used as an escape mechanism due to the small speed boost it gives. This is usually done when you start charging a slash but notice that the enemy is more likely to hit you due to them starting charging a slash earlier as well as being too close to you -- you avoid getting hit by slash escaping.</p>
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/slashescape.webm" controls loop="loop" preload>
+</video>
+<p><br></p>
+<p>In the gif below, the red knight would've died if they hadn't slash escaped (slashes have a short duration after releasing and move with the knight, so the blue knight's slash would've likely hit them)</p>
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/slashescape2.webm" controls loop="loop" preload>
+</video>
+<p><br></p>
+<p>In the gif below, I (red knight) slash escape after realising the enemy has started charging a slash earlier than me.</p>
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/slashescape3.webm" controls loop="loop" preload>
+</video>
+<p><br></p>
+</div>
+<div id="tower-wall-jump" class="section level3">
+<h3><span class="header-section-number">2.3.9</span> Tower wall jump</h3>
+<p>This is a good way to get some extra horizontal distance when jumping off a tower. To do it, slightly drop off the tower and push off while shield gliding.</p>
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/13.webm" controls loop="loop" preload>
+</video>
+<p><br></p>
+</div>
+<div id="notch-climbing" class="section level3">
+<h3><span class="header-section-number">2.3.10</span> Notch climbing</h3>
+<p>If there are small holes in a wall like in the gif below, you can use them to reset your walljump and climb higher. Gaps in walls like that are often accidentally made by bombs.</p>
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/notch.webm" controls loop="loop" preload>
+</video>
+<p><br></p>
+<p>You could actually climb such a wall infinitely, as long as you made sure to reset the wallclimb at every gap.</p>
+</div>
+<div id="bounce-off-water" class="section level3">
+<h3><span class="header-section-number">2.3.11</span> Bounce off water</h3>
+<p>Shield sliding onto water will allow you to do a little bounce before you sink. This can be useful for quickly moving over water.</p>
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/14.webm" controls loop="loop" preload>
+</video>
+<p><br></p>
+</div>
+<div id="bomb-jumps" class="section level3">
+<h3><span class="header-section-number">2.3.12</span> Bomb jumps</h3>
+<p>Mentioned in <a href="knight-i-the-basics.html#knight-i-the-basics">Knight I: The basics</a>, a bomb jump is when knights use bombs to send themselves flying into the air. The simplest bomb jump is a single bomb jump. To perform a single bomb jump, light the bomb, drop it on the ground and as it is about to explode, jump into the air and shield towards the bomb.</p>
+<p>Timing is crucial to performing bomb jumps. If you time it so you jump and shield at the last possible moment you will go much further (sometimes almost twice as far).</p>
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/15.webm" controls loop="loop" preload>
+</video>
+<p><br></p>
+<p>You can also perform bomb jumps mid air:</p>
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/16.webm" controls loop="loop" preload>
+</video>
+<p><br></p>
+<p>Bomb jumps are good for getting around obstacles in CTF, so you should become very comfortable with them. You should always look for situations to utilise them to your advantage.</p>
+<p>You can also do multi bomb jumps -- read more about them in <a href="playing-ctf.html#playing-ctf">Playing CTF</a> section.</p>
+</div>
+</div>
+<div id="more-on-combat-and-using-your-sword" class="section level2">
+<h2><span class="header-section-number">2.4</span> More on combat and using your sword</h2>
+<p>The three most important things at this level are:</p>
+<div id="slashing-fast" class="section level3">
+<h3><span class="header-section-number">2.4.1</span> Slashing fast</h3>
+<p>As mentioned in chapter 1, this is very important. <strong>You should be able to do slashes as soon as it's possible</strong> (after half a second -- watch your cursor for timings). The same applies to double slashes (38 ticks, that is 1.25 seconds).</p>
+</div>
+<div id="jab-after-successful-slashes" class="section level3">
+<h3><span class="header-section-number">2.4.2</span> Jab after successful slashes</h3>
+<p>This can seem like a basic thing, but it is very rarely used by majority of players, especially on CTF. You can jab right after successfully slashing someone -- the slashed person is stunned for a short while (2/3s of a second) which allows you to make an additional jab in that time (thus dealing a total of 3 hearts of damage). You should almost always do this, the exception is when you're fighting several enemies at once -- so that you don't accidentally jab someone's shield. In these situations you should generally focus on using slashes.</p>
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/18.webm" controls loop="loop" preload>
+</video>
+<p><br></p>
+<p>You can do the same after successful double slashes when the enemy was shielding (look: double slash section, a bit below).</p>
+</div>
+<div id="low-jumps-while-slashing" class="section level3">
+<h3><span class="header-section-number">2.4.3</span> Low jumps while slashing</h3>
+<p>This is another very important mechanic that you should get into the habit of using. You should almost always slightly jump while slashing -- doing this allows you to gain additional horizontal momentum, thus cover a larger distance, with the added benefit of making your sword's slash range longer (slash range depends on your velocity). All good players do this instinctively -- just keep practicing doing it until it happens naturally.</p>
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/20.webm" controls loop="loop" preload>
+</video>
+<p><br></p>
+<p>Keep in mind that your jumps should be small. A very common mistake people make is that they jump too far -- jumping too high while slashing makes your slash range worse than if you would actually not jump at all (slashing below you when you're going up has a very small range), making it easier for enemies to slash you from below.</p>
+<p>Additionally, there are a few more things you should be aware of, such as:</p>
+</div>
+<div id="using-double-slashes" class="section level3">
+<h3><span class="header-section-number">2.4.4</span> Using double slashes</h3>
+<p>Another common mistake is just constantly single slashing a shielding enemy. Some people use double slashes too rarely. Double slashes are a very good counter against defensive playstyles. Additionally, you can always land a jab after connecting with a double slash. Double slashes are also very good to use after doing a successful slash+jab or a double slash on shield+jab combo. Once you successfully damage the enemy with that combo, your enemy is likely to put his shield up and start retreating. You can then follow him and double slash for an easy kill. All of that happens in the gif below.</p>
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/pogslash.webm" controls loop="loop" preload>
+</video>
+<p><br></p>
+<p>Keep in mind that better players are likely to jab to break your charging animation -- you can just counterjab in this case and kill them (more about jab trading and counterjabs in the next chapter).</p>
+</div>
+<div id="attacking-an-enemy-who-is-stunned-from-jabbing-your-shield" class="section level3">
+<h3><span class="header-section-number">2.4.5</span> Attacking an enemy who is stunned from jabbing your shield</h3>
+<p>If an enemy makes the mistake of jabbing your shield, you can pretty much always follow up with some damage. You should get into the habit of doing this.</p>
+<p>There are 3 ways dealing damage to him. If someone jabs a shield, he's stunned for 2/3s of a second - that is plenty of time to deal your damage.</p>
+<ol style="list-style-type: decimal">
+<li>Slashing -- This option is the best and should be utilised the most often. As soon as you notice the person has been stunned, start charging a single slash. If you're fast enough, you should always be able to land a slash on the enemy. Remember to follow it up with a jab if your slash connected.</li>
+</ol>
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/24.webm" controls loop="loop" preload>
+</video>
+<p><br></p>
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/slashjab3.webm" controls loop="loop" preload>
+</video>
+<p><br></p>
+<ol start="2" style="list-style-type: decimal">
+<li>Jabbing -- If you don't have the confidence to perform slashes quickly, you can use a single jab. Keep in mind the earlier option is superior to this one and you should eventually learn to utilise it.</li>
+</ol>
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/25.webm" controls loop="loop" preload>
+</video>
+<p><br></p>
+<ol start="3" style="list-style-type: decimal">
+<li>Double jabbing -- You can land two jabs on an enemy stunned by shield jabbing. This usually happens when you do a jab and then realise there's enough time for a 2nd jab. Keep in mind that it's usually much better to slash than double jab, because you do 1 more heart of damage.</li>
+</ol>
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/26.webm" controls loop="loop" preload>
+</video>
+<p><br></p>
+<p>If you start charging a slash but the enemy manages to get their shield back up before your slash is charged, you can try to charge it to a double slash. Keep in mind that in this case the enemy has more time to react and can counterjab you, so it's good to keep some distance before the double slash is charged.</p>
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/dafterstun.webm" controls loop="loop" preload>
+</video>
+<p><br></p>
+</div>
+<div id="counter-slashing-slash-baiting" class="section level3">
+<h3><span class="header-section-number">2.4.6</span> Counter slashing / slash baiting</h3>
+<p>If you are against an aggressive player, a good way to beat them is to bait them to attack you with their slash or double slash. As they move towards you, you move away from them whilst charging your own slash. After they miss a slash, you move forwards and slash at them. You can do the same with a double slash or jab.</p>
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/27.webm" controls loop="loop" preload>
+</video>
+<p><br></p>
+<p>It is hard to counter a defensive play style which focuses on counter slashing. Counter slashing is also the best way to fight against several enemies at once -- a typical combo includes; slash, retreat, slash, and so on.</p>
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/29.webm" controls loop="loop" preload>
+</video>
+<p><br></p>
+<p>In the gif below, we charge a double slash while baiting the enemy to jump at us (notice the slight left/right movement), then attack them after they miss their first slash. In order to not get hit by their slash, we also release the first slash a very short moment before we get close enough to the enemy.</p>
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/dest2.webm" controls loop="loop" preload>
+</video>
+<p><br></p>
+</div>
+<div id="winning-slash-fights-on-l-shape" class="section level3">
+<h3><span class="header-section-number">2.4.7</span> Winning slash fights on L shape</h3>
+<p>In L shaped environmental situations, the knight who moves first (red in the image below) can lose the slash battle –- even if they slashed earlier. This is because the red player has a larger vertical speed but almost no horizontal speed. The knight who moves second (blue) will have a large horizontal speed towards the enemy – and is thus far more likely to connect first and win the fight.</p>
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/30.webm" controls loop="loop" preload>
+</video>
+<p><br></p>
+<p>This situation often occurs in CTF when there are doors on top of towers.</p>
+<p>It is worth mentioning that the L-shape situation usually favours the knight coming up from below. This is partly because you can move upwards more quickly than you can move sideways. Most of the knight’s body is shielded by the blocks going up the wall. In this GIF the blue and red knight arrive together at roughly the same time, but the blue knight wins.</p>
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/lshape.webm" controls loop="loop" preload>
+</video>
+<p><br></p>
+<p>In summary -- if you're in the situation in the first gif, try to bait the enemy to slash upwards first, and then follow up with your own slash. In the second situation, to the same, but keep in mind that if you two both slash together at the same time, you'll be the one to win.</p>
+</div>
+</div>
+<div id="shield-bashing-and-countering-it" class="section level2">
+<h2><span class="header-section-number">2.5</span> Shield bashing and countering it</h2>
+<p>As mentioned earlier, you can quickly shield slide horizontally into someone or shield down while jumping at an enemy to stun them for a short while -- about half a second. Shield bashing is most useful in narrow corridors where it cannot be countered by an overhead jab or slash.</p>
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/32.webm" controls loop="loop" preload>
+</video>
+<p><br></p>
+<div id="shield-bash-jab" class="section level3">
+<h3><span class="header-section-number">2.5.1</span> Shield bash + jab</h3>
+<p>Shield bashing is good for interrupting enemy slashes, but the beauty of shield bashes comes from being able to jab someone right after the shield bash connects. It's a very important aspect of knight combat -- being able to shield bash properly and follow up with jabs can make a big difference, especially when fighting against defensive players.</p>
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/34.webm" controls loop="loop" preload>
+</video>
+<p><br></p>
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/sjab.webm" controls loop="loop" preload>
+</video>
+<p><br></p>
+<p>There are several ways to counter shield bashes, all of which you should learn. These include overhead slashing, overhead jabbing and crouching (which you'll learn more about in the next chapter.)</p>
+</div>
+<div id="overhead-attacks" class="section level3">
+<h3><span class="header-section-number">2.5.2</span> Overhead attacks</h3>
+<p>Jumping over the shield sliding enemy whilst charging a slash and then hitting them in their head/back (either with the charged slash or jab) is a consistent way to beat shieldbashers. In some of the situations, the enemy won't even be able to put his shield back up, no matter what -- if you're shield sliding really fast there is a slight delay before putting your shield back up. However, this doesn't happen every time.</p>
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/overheadslash.webm" controls loop="loop" preload>
+</video>
+<p><br></p>
+<p>You can also do an overhead jab if you don't have enough time to charge a slash:</p>
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/37.webm" controls loop="loop" preload>
+</video>
+<p><br
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/ojab.webm" controls loop="loop" preload></video><br></p>
+<p>Keep in mind that in this variation, if the enemy manages to put his shield back up, you may get stunned due to jabbing his shield.</p>
+<p>Again, don't be demotivated if it's hard for you to learn shield bashes. Many good knights struggled with this -- it takes them a while before it clicks and shield bashes just feel natural to them.</p>
+
+</div>
+</div>
+</div>
+            </section>
+
+          </div>
+        </div>
+      </div>
+<a href="knight-i-the-basics.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="knight-iii-advanced.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+    </div>
+  </div>
+<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/lunr.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+"sharing": {
+"github": false,
+"facebook": true,
+"twitter": true,
+"linkedin": false,
+"weibo": false,
+"instapaper": false,
+"vk": false,
+"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+},
+"fontsettings": {
+"theme": "night",
+"family": "sans",
+"size": 2
+},
+"edit": {
+"link": "https://github.com/deynarde/kag-knight-guide/blob/master/02-average.Rmd",
+"text": "Edit"
+},
+"history": {
+"link": null,
+"text": null
+},
+"view": {
+"link": null,
+"text": null
+},
+"download": null,
+"toc": {
+"collapse": "subsection"
+}
+});
+});
+</script>
+
+</body>
+
+</html>

@@ -1,0 +1,21 @@
+--- 
+title: "The Definite Knight guide"
+author: 
+- name: Bunnie
+- name: deynarde
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+description: "This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook."
+---
+
+# Introduction
+
+I’ve read many tutorials on both the game’s forums and the Steam community hub, and 90% of them, if not more, were either bad or outdated. The only good one would be the [Knight Compendium](https://deynarde.github.io/kag-knight-compendium/), but it’s more a list of tricks than a tutorial (some of the stuff in here will be taken from it, and I still recommend giving it a read). Considering we’re going to have many new players that will come with F2P (if any of you are reading this, are from EU and want to train/1v1 with me - dm bunnie#8671 or deynarde#4491 on Discord!), me and deynarde (the creator of the Compendium) decided to write this guide.
+
+We hope it will help many of you. We’re going to cover everything; getting better on all levels, playing on CTF, dealing with high ping, dealing with bugs. It may seem like a lot, but knight combat is very rich, and if you really want to get better, then this will be perfect for you.
