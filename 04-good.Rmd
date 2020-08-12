@@ -176,7 +176,7 @@ We can tell this is happening to us due to the specific movement of our characte
 
 ## Using food items in between double slashes
 
-You can use food items between double slashes from the enemy -- however, you can only do so by opening the inventory with F and selecting the item, rather than by pressing V (You're able to open inventory while stunned, but not use the heal key). It works the same while being stunned from water.
+You can use food items between double slashes from the enemy -- however, you can only do so by opening the inventory with F and hovering over the item, then closing it with F rather than by pressing V (You're able to open and close inventory while stunned, but not use the heal key). It works the same while being stunned from water. Keep in mind that clicking the food item in inventory won't work -- you can't click inventory buttons while stunned -- you have to close the inventory with your mouse button on the item.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/04-good/hahanoob.webm" controls loop="loop" preload></video><br>
 
